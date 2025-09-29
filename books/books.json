@@ -1,0 +1,93 @@
+{
+  "books": [
+    {
+      "id": "book-1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publish_date": "1925-04-10T00:00:00.000Z",
+      "description": "A classic American novel set in the Jazz Age, exploring themes of wealth, love, and the American Dream.",
+      "tags": ["Classic", "American Literature", "Fiction"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
+      "created_at": "2024-01-01T00:00:00.000Z",
+      "updated_at": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "book-2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publish_date": "1960-07-11T00:00:00.000Z",
+      "description": "A gripping tale of racial injustice and childhood innocence in the American South.",
+      "tags": ["Classic", "Drama", "Social Issues"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg",
+      "created_at": "2024-01-02T00:00:00.000Z",
+      "updated_at": "2024-01-02T00:00:00.000Z"
+    },
+    {
+      "id": "book-3",
+      "title": "1984",
+      "author": "George Orwell",
+      "publish_date": "1949-06-08T00:00:00.000Z",
+      "description": "A dystopian social science fiction novel about totalitarian control and surveillance.",
+      "tags": ["Dystopian", "Science Fiction", "Political"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "created_at": "2024-01-03T00:00:00.000Z",
+      "updated_at": "2024-01-03T00:00:00.000Z"
+    },
+    {
+      "id": "book-4",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publish_date": "1813-01-28T00:00:00.000Z",
+      "description": "A romantic novel that critiques the British landed gentry at the end of the 18th century.",
+      "tags": ["Romance", "Classic", "British Literature"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg",
+      "created_at": "2024-01-04T00:00:00.000Z",
+      "updated_at": "2024-01-04T00:00:00.000Z"
+    },
+    {
+      "id": "book-5",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publish_date": "1951-07-16T00:00:00.000Z",
+      "description": "A controversial novel about teenage rebellion and alienation in post-war America.",
+      "tags": ["Coming of Age", "Classic", "American Literature"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780316769174-L.jpg",
+      "created_at": "2024-01-05T00:00:00.000Z",
+      "updated_at": "2024-01-05T00:00:00.000Z"
+    },
+    {
+      "id": "book-6",
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "publish_date": "1954-09-17T00:00:00.000Z",
+      "description": "A novel about a group of British boys stranded on an uninhabited island and their disastrous attempt to govern themselves.",
+      "tags": ["Adventure", "Psychological", "Classic"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780571056866-L.jpg",
+      "created_at": "2024-01-06T00:00:00.000Z",
+      "updated_at": "2024-01-06T00:00:00.000Z"
+    },
+    {
+      "id": "book-7",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publish_date": "1937-09-21T00:00:00.000Z",
+      "description": "A fantasy adventure about Bilbo Baggins and his unexpected journey.",
+      "tags": ["Fantasy", "Adventure", "Classic"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+      "created_at": "2024-01-07T00:00:00.000Z",
+      "updated_at": "2024-01-07T00:00:00.000Z"
+    },
+    {
+      "id": "book-8",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "publish_date": "1965-08-01T00:00:00.000Z",
+      "description": "A science fiction epic set on the desert planet Arrakis.",
+      "tags": ["Science Fiction", "Epic", "Space Opera"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg",
+      "created_at": "2024-01-08T00:00:00.000Z",
+      "updated_at": "2024-01-08T00:00:00.000Z"
+    }
+  ],
+  "last_updated": "2024-01-08T12:00:00.000Z"
+}
