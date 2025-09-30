@@ -120,17 +120,6 @@
       "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780747532699-L.jpg",
       "created_at": "2024-01-11T00:00:00.000Z",
       "updated_at": "2024-01-11T00:00:00.000Z"
-    },
-    {
-      "id": "book-12",
-      "title": "One Hundred Years of Solitude",
-      "author": "Gabriel García Márquez",
-      "publish_date": "1967-05-30T00:00:00.000Z",
-      "description": "A magical realist novel chronicling seven generations of the Buendía family.",
-      "tags": ["Magical Realism", "Classic", "Latin American Literature"],
-      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780060883287-L.jpg",
-      "created_at": "2024-01-12T00:00:00.000Z",
-      "updated_at": "2024-01-12T00:00:00.000Z"
     }
 
   ],
