@@ -120,6 +120,17 @@
       "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780747532699-L.jpg",
       "created_at": "2024-01-11T00:00:00.000Z",
       "updated_at": "2024-01-11T00:00:00.000Z"
+    },
+    {
+      "id": "book-12",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling",
+      "publish_date": "1998-07-02T00:00:00.000Z",
+      "description": "The second book in the magical series about a young wizard's adventures at Hogwarts.",
+      "tags": ["Fantasy", "Young Adult", "Magic"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780747538493-L.jpg",
+      "created_at": "2024-01-11T00:00:00.000Z",
+      "updated_at": "2024-01-11T00:00:00.000Z"
     }
 
   ],
