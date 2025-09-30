@@ -87,7 +87,52 @@
       "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg",
       "created_at": "2024-01-08T00:00:00.000Z",
       "updated_at": "2024-01-08T00:00:00.000Z"
+    },
+    {
+      "id": "book-9",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publish_date": "1932-08-30T00:00:00.000Z",
+      "description": "A dystopian novel exploring a futuristic society based on pleasure and conformity.",
+      "tags": ["Dystopian", "Science Fiction", "Classic"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780060850524-L.jpg",
+      "created_at": "2024-01-09T00:00:00.000Z",
+      "updated_at": "2024-01-09T00:00:00.000Z"
+    },
+    {
+      "id": "book-10",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publish_date": "1954-07-29T00:00:00.000Z",
+      "description": "An epic fantasy trilogy following the quest to destroy the One Ring.",
+      "tags": ["Fantasy", "Epic", "Adventure"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780544003415-L.jpg",
+      "created_at": "2024-01-10T00:00:00.000Z",
+      "updated_at": "2024-01-10T00:00:00.000Z"
+    },
+    {
+      "id": "book-11",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "publish_date": "1997-06-26T00:00:00.000Z",
+      "description": "The first book in the magical series about a young wizard's adventures at Hogwarts.",
+      "tags": ["Fantasy", "Young Adult", "Magic"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780747532699-L.jpg",
+      "created_at": "2024-01-11T00:00:00.000Z",
+      "updated_at": "2024-01-11T00:00:00.000Z"
+    },
+    {
+      "id": "book-12",
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "publish_date": "1967-05-30T00:00:00.000Z",
+      "description": "A magical realist novel chronicling seven generations of the Buendía family.",
+      "tags": ["Magical Realism", "Classic", "Latin American Literature"],
+      "cover_image_url": "https://covers.openlibrary.org/b/isbn/9780060883287-L.jpg",
+      "created_at": "2024-01-12T00:00:00.000Z",
+      "updated_at": "2024-01-12T00:00:00.000Z"
     }
+
   ],
   "last_updated": "2024-01-08T12:00:00.000Z"
 }
