@@ -164,6 +164,21 @@
       "isbn": "",
       "updatedAt": "2024-01-01T00:00:00.000Z",
       "version": "1.0.0"
+    },
+    {
+      "id": "how-to-win-friends-and-influence-people",
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "publicationDate": "1936-10-01",
+      "description": "Classic guide to improving social skills, influence, and personal relationships.",
+      "tags": ["Self-help", "Communication", "Business"],
+      "coverImagePath": "books/how-to-win-friends-and-influence-people/cover.png",
+      "summariesPath": { 
+      "en": "books/how-to-win-friends-and-influence-people/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2025-10-07T00:00:00.000Z",
+      "version": "1.0.0"
     }
   ],
   "lastUpdated": "2025-10-07T00:00:00.000Z"
