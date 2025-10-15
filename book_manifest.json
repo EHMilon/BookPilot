@@ -9,7 +9,7 @@
       "author": "Paulo Coelho",
       "publicationDate": "1988-04-15",
       "description": "A philosophical story about a shepherd's journey to discover his Personal Legend.",
-      "tags": ["Fiction", "Philosophy", "Self-discovery"],
+      "tags": ["Fiction", "Philosophy", "Self-discovery", "Feature"],
       "coverImagePath": "books/the-alchemist/cover.png",
       "summariesPath": { 
         "en": "books/the-alchemist/summary.md"
@@ -24,7 +24,7 @@
       "author": "Brian Tracy",
       "publicationDate": "",
       "description": "Practical strategies to prioritize tasks, boost productivity, and achieve goals.",
-      "tags": ["Self-help", "Productivity", "Business"],
+      "tags": ["Self-help", "Productivity", "Business", "Feature"],
       "coverImagePath": "books/time-management/cover.png",
       "summariesPath": { 
         "en": "books/time-management/summary.md"
@@ -39,7 +39,7 @@
       "author": "Morgan Housel",
       "publicationDate": "2020-09-08",
       "description": "Explores how emotions and behavior shape financial decisions more than knowledge.",
-      "tags": ["Finance", "Psychology", "Self-help"],
+      "tags": ["Finance", "Psychology", "Self-help", "Feature"],
       "coverImagePath": "books/the-psychology-of-money/cover.png",
       "summariesPath": { 
         "en": "books/the-psychology-of-money/summary.md"
@@ -54,7 +54,7 @@
       "author": "Eric Ries",
       "publicationDate": "2011-09-13",
       "description": "A systematic approach to building startups through experimentation, MVPs, and validated learning.",
-      "tags": ["Business", "Entrepreneurship", "Startups"],
+      "tags": ["Business", "Entrepreneurship", "Startups", "Feature"],
       "coverImagePath": "books/the-lean-startup/cover.png",
       "summariesPath": { 
         "en": "books/the-lean-startup/summary.md"
@@ -69,7 +69,7 @@
       "author": "Thomas Erikson",
       "publicationDate": "2014-01-01",
       "description": "Explains how understanding personality types improves communication, teamwork, and leadership.",
-      "tags": ["Psychology", "Self-help", "Communication"],
+      "tags": ["Psychology", "Self-help", "Communication", "Feature"],
       "coverImagePath": "books/surrounded-by-idiots/cover.png",
       "summariesPath": { 
         "en": "books/surrounded-by-idiots/summary.md"
@@ -114,7 +114,7 @@
       "author": "Nir Eyal",
       "publicationDate": "2014-02-26",
       "description": "Explores how products capture attention and form habits using the Hook Model: Trigger, Action, Reward, Investment.",
-      "tags": ["Business", "Psychology", "Productivity"],
+      "tags": ["Business", "Psychology", "Productivity", "Feature"],
       "coverImagePath": "books/hooked/cover.png",
       "summariesPath": { 
         "en": "books/hooked/summary.md"
