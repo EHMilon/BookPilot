@@ -9,7 +9,7 @@
       "author": "Paulo Coelho",
       "publicationDate": "1988-04-15",
       "description": "A philosophical story about a shepherd's journey to discover his Personal Legend.",
-      "tags": ["Fiction", "Philosophy", "Self-discovery", "Feature"],
+      "tags": ["Fiction", "Philosophy", "Self-discovery", "feature"],
       "coverImagePath": "books/the-alchemist/cover.png",
       "summariesPath": { 
         "en": "books/the-alchemist/summary.md"
@@ -24,7 +24,7 @@
       "author": "Brian Tracy",
       "publicationDate": "",
       "description": "Practical strategies to prioritize tasks, boost productivity, and achieve goals.",
-      "tags": ["Self-help", "Productivity", "Business", "Feature"],
+      "tags": ["Self-help", "Productivity", "Business", "feature"],
       "coverImagePath": "books/time-management/cover.png",
       "summariesPath": { 
         "en": "books/time-management/summary.md"
@@ -39,7 +39,7 @@
       "author": "Morgan Housel",
       "publicationDate": "2020-09-08",
       "description": "Explores how emotions and behavior shape financial decisions more than knowledge.",
-      "tags": ["Finance", "Psychology", "Self-help", "Feature"],
+      "tags": ["Finance", "Psychology", "Self-help", "feature"],
       "coverImagePath": "books/the-psychology-of-money/cover.png",
       "summariesPath": { 
         "en": "books/the-psychology-of-money/summary.md"
