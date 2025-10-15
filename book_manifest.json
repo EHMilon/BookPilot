@@ -1,6 +1,6 @@
 {
   
-  "lastUpdated": "2025-10-08T01:40:00.000Z",
+  "lastUpdated": "2025-16-08T01:40:00.000Z",
 
   "books": [
     {
@@ -114,7 +114,7 @@
       "author": "Nir Eyal",
       "publicationDate": "2014-02-26",
       "description": "Explores how products capture attention and form habits using the Hook Model: Trigger, Action, Reward, Investment.",
-      "tags": ["Business", "Psychology", "Productivity", "Feature"],
+      "tags": ["Psychology", "Productivity", "Feature"],
       "coverImagePath": "books/hooked/cover.png",
       "summariesPath": { 
         "en": "books/hooked/summary.md"
