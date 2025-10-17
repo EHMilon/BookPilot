@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-21T01:40:00.000Z",
+  "lastUpdated": "2025-10-22T01:40:00.000Z",
   "books": [
     {
       "id": "the-alchemist",
@@ -38,7 +38,7 @@
         "en": "books/time-management/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2025-10-21T00:00:00.000Z",
+      "updatedAt": "2025-10-21T01:00:00.000Z",
       "version": "1.0.0"
     },
     {
@@ -58,7 +58,7 @@
         "en": "books/the-psychology-of-money/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2025-10-07T00:00:00.000Z",
+      "updatedAt": "2025-10-07T00:11:00.000Z",
       "version": "1.0.0"
     },
     {
