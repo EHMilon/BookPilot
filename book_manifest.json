@@ -70,8 +70,7 @@
       "tags": [
         "Business",
         "Entrepreneurship",
-        "Startups",
-        "Feature"
+        "Startups"
       ],
       "coverImagePath": "books/the-lean-startup/cover.png",
       "summariesPath": {
@@ -90,8 +89,7 @@
       "tags": [
         "Psychology",
         "Self-help",
-        "Communication",
-        "Feature"
+        "Communication"
       ],
       "coverImagePath": "books/surrounded-by-idiots/cover.png",
       "summariesPath": {
@@ -148,6 +146,7 @@
       "tags": [
         "Psychology",
         "Productivity",
+        "Feature",
         "Feature"
       ],
       "coverImagePath": "books/hooked/cover.png",
