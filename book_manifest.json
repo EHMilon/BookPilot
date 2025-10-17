@@ -1,7 +1,5 @@
 {
-  
-  "lastUpdated": "2025-17-08T01:40:00.000Z",
-
+  "lastUpdated": "2025-18-08T01:40:00.000Z",
   "books": [
     {
       "id": "the-alchemist",
@@ -9,9 +7,14 @@
       "author": "Paulo Coelho",
       "publicationDate": "1988-04-15",
       "description": "A philosophical story about a shepherd's journey to discover his Personal Legend.",
-      "tags": ["Fiction", "Philosophy", "Self-discovery", "feature"],
+      "tags": [
+        "Fiction",
+        "Philosophy",
+        "Self-discovery",
+        "feature"
+      ],
       "coverImagePath": "books/the-alchemist/cover.png",
-      "summariesPath": { 
+      "summariesPath": {
         "en": "books/the-alchemist/summary.md"
       },
       "isbn": "",
@@ -24,9 +27,14 @@
       "author": "Brian Tracy",
       "publicationDate": "",
       "description": "Practical strategies to prioritize tasks, boost productivity, and achieve goals.",
-      "tags": ["Self-help", "Productivity", "Business", "feature"],
+      "tags": [
+        "Self-help",
+        "Productivity",
+        "Business",
+        "feature"
+      ],
       "coverImagePath": "books/time-management/cover.png",
-      "summariesPath": { 
+      "summariesPath": {
         "en": "books/time-management/summary.md"
       },
       "isbn": "",
@@ -39,9 +47,14 @@
       "author": "Morgan Housel",
       "publicationDate": "2020-09-08",
       "description": "Explores how emotions and behavior shape financial decisions more than knowledge.",
-      "tags": ["Finance", "Psychology", "Self-help", "feature"],
+      "tags": [
+        "Finance",
+        "Psychology",
+        "Self-help",
+        "feature"
+      ],
       "coverImagePath": "books/the-psychology-of-money/cover.png",
-      "summariesPath": { 
+      "summariesPath": {
         "en": "books/the-psychology-of-money/summary.md"
       },
       "isbn": "",
@@ -54,9 +67,14 @@
       "author": "Eric Ries",
       "publicationDate": "2011-09-13",
       "description": "A systematic approach to building startups through experimentation, MVPs, and validated learning.",
-      "tags": ["Business", "Entrepreneurship", "Startups", "Feature"],
+      "tags": [
+        "Business",
+        "Entrepreneurship",
+        "Startups",
+        "Feature"
+      ],
       "coverImagePath": "books/the-lean-startup/cover.png",
-      "summariesPath": { 
+      "summariesPath": {
         "en": "books/the-lean-startup/summary.md"
       },
       "isbn": "",
@@ -69,9 +87,14 @@
       "author": "Thomas Erikson",
       "publicationDate": "2014-01-01",
       "description": "Explains how understanding personality types improves communication, teamwork, and leadership.",
-      "tags": ["Psychology", "Self-help", "Communication", "Feature"],
+      "tags": [
+        "Psychology",
+        "Self-help",
+        "Communication",
+        "Feature"
+      ],
       "coverImagePath": "books/surrounded-by-idiots/cover.png",
-      "summariesPath": { 
+      "summariesPath": {
         "en": "books/surrounded-by-idiots/summary.md"
       },
       "isbn": "",
@@ -84,9 +107,13 @@
       "author": "Napoleon Hill",
       "publicationDate": "",
       "description": "Motivational guide teaching principles behind achieving personal and professional fulfillment.",
-      "tags": ["Self-help", "Motivation", "Personal Development"],
+      "tags": [
+        "Self-help",
+        "Motivation",
+        "Personal Development"
+      ],
       "coverImagePath": "books/road-to-success/cover.png",
-      "summariesPath": { 
+      "summariesPath": {
         "en": "books/road-to-success/summary.md"
       },
       "isbn": "",
@@ -99,9 +126,13 @@
       "author": "Chris Voss",
       "publicationDate": "2016-05-17",
       "description": "Negotiation techniques based on FBI experience, emphasizing empathy and influence over compromise.",
-      "tags": ["Business", "Negotiation", "Psychology"],
+      "tags": [
+        "Business",
+        "Negotiation",
+        "Psychology"
+      ],
       "coverImagePath": "books/never-split-the-difference/cover.png",
-      "summariesPath": { 
+      "summariesPath": {
         "en": "books/never-split-the-difference/summary.md"
       },
       "isbn": "",
@@ -114,9 +145,13 @@
       "author": "Nir Eyal",
       "publicationDate": "2014-02-26",
       "description": "Explores how products capture attention and form habits using the Hook Model: Trigger, Action, Reward, Investment.",
-      "tags": ["Psychology", "Productivity", "Feature"],
+      "tags": [
+        "Psychology",
+        "Productivity",
+        "Feature"
+      ],
       "coverImagePath": "books/hooked/cover.png",
-      "summariesPath": { 
+      "summariesPath": {
         "en": "books/hooked/summary.md"
       },
       "isbn": "",
@@ -129,9 +164,13 @@
       "author": "Ryan Holiday",
       "publicationDate": "2016-05-03",
       "description": "Shows how humility, discipline, and self-awareness overcome ego to achieve true success.",
-      "tags": ["Self-help", "Philosophy", "Personal Development"],
+      "tags": [
+        "Self-help",
+        "Philosophy",
+        "Personal Development"
+      ],
       "coverImagePath": "books/ego-is-the-enemy/cover.png",
-      "summariesPath": { 
+      "summariesPath": {
         "en": "books/ego-is-the-enemy/summary.md"
       },
       "isbn": "",
@@ -144,9 +183,13 @@
       "author": "Cal Newport",
       "publicationDate": "2016-01-05",
       "description": "Emphasizes focused, distraction-free work for mastering skills, creativity, and high-quality results.",
-      "tags": ["Productivity", "Business", "Self-help"],
+      "tags": [
+        "Productivity",
+        "Business",
+        "Self-help"
+      ],
       "coverImagePath": "books/deep-work/cover.png",
-      "summariesPath": { 
+      "summariesPath": {
         "en": "books/deep-work/summary.md"
       },
       "isbn": "",
@@ -159,9 +202,13 @@
       "author": "James Clear",
       "publicationDate": "2018-10-16",
       "description": "An easy and proven way to build good habits and break bad ones.",
-      "tags": ["Self-help", "Personal Development", "Psychology"],
+      "tags": [
+        "Self-help",
+        "Personal Development",
+        "Psychology"
+      ],
       "coverImagePath": "books/atomic-habits/cover.png",
-      "summariesPath": { 
+      "summariesPath": {
         "en": "books/atomic-habits/summary.md"
       },
       "isbn": "",
@@ -174,10 +221,14 @@
       "author": "Dale Carnegie",
       "publicationDate": "1936-10-01",
       "description": "Classic guide to improving social skills, influence, and personal relationships.",
-      "tags": ["Self-help", "Communication", "Business"],
+      "tags": [
+        "Self-help",
+        "Communication",
+        "Business"
+      ],
       "coverImagePath": "books/how-to-win-friends-and-influence-people/cover.jpg",
-      "summariesPath": { 
-      "en": "books/how-to-win-friends-and-influence-people/summary.md"
+      "summariesPath": {
+        "en": "books/how-to-win-friends-and-influence-people/summary.md"
       },
       "isbn": "",
       "updatedAt": "2025-10-07T00:00:00.000Z",
