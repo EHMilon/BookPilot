@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-26T00:40:00.000Z",
+  "lastUpdated": "2025-10-26T00:00:00.000Z",
   "books": [
     {
       "id": "the-alchemist",
@@ -57,7 +57,7 @@
         "en": "books/the-psychology-of-money/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2025-10-07T00:11:00.000Z",
+      "updatedAt": "2025-10-07T00:00:00.000Z",
       "version": "1.0.0"
     },
     {
