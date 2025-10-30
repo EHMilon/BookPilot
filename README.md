@@ -36,7 +36,7 @@ Name convention Kebab-case, all lowercase
 
 <table>
   <tr>
-    <td><img src="assets/images/auth-screen.png" width="100%"></td>
+    <td><img src="assets/images/screen-20251025-170351.gif" width="100%"></td>
     <td><img src="assets/images/home-screen-1.png" width="100%"></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Name convention Kebab-case, all lowercase
   </tr>
   <tr>
     <td><img src="assets/images/settings-screen.png" width="100%"></td>
-    <td><img src="assets/images/screen-20251025-170351.gif" width="100%"></td>
+    <td><img src="assets/images/auth-screen.png" width="100%"></td>
   </tr>
 </table>
 
