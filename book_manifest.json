@@ -1,198 +1,43 @@
 {
-  "lastUpdated": "2026-05-04T04:20:57.565209",
+  "lastUpdated": "2026-05-04T04:31:10.125817Z",
   "books": [
     {
-      "id": "the-alchemist",
-      "title": "The Alchemist",
-      "author": "Paulo Coelho",
-      "publicationDate": "1988-04-15",
-      "description": "A philosophical story about a shepherd's journey to discover his Personal Legend.",
+      "id": "12-rules-for-life",
+      "title": "12 Rules for Life",
+      "author": "Jordan Peterson",
+      "publicationDate": "2018-01-23",
+      "description": "An antidote to chaos.",
       "tags": [
-        "Fiction",
         "Philosophy",
-        "Self-discovery"
-      ],
-      "coverImagePath": "books/the-alchemist/cover.png",
-      "summariesPath": {
-        "en": "books/the-alchemist/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2025-10-24T00:00:00.000Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "time-management",
-      "title": "Time Management",
-      "author": "Brian Tracy",
-      "publicationDate": "",
-      "description": "Practical strategies to prioritize tasks, boost productivity, and achieve goals.",
-      "tags": [
-        "Self-help",
-        "Productivity",
-        "Business",
-        "feature"
-      ],
-      "coverImagePath": "books/time-management/cover.png",
-      "summariesPath": {
-        "en": "books/time-management/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2025-10-24T00:00:00.000Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "the-psychology-of-money",
-      "title": "The Psychology of Money",
-      "author": "Morgan Housel",
-      "publicationDate": "2020-09-08",
-      "description": "Explores how emotions and behavior shape financial decisions more than knowledge.",
-      "tags": [
-        "Finance",
         "Psychology",
-        "Self-help",
-        "feature"
-      ],
-      "coverImagePath": "books/the-psychology-of-money/cover.png",
-      "summariesPath": {
-        "en": "books/the-psychology-of-money/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2025-10-07T00:00:00.000Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "the-lean-startup",
-      "title": "The Lean Startup",
-      "author": "Eric Ries",
-      "publicationDate": "2011-09-13",
-      "description": "A systematic approach to building startups through experimentation, MVPs, and validated learning.",
-      "tags": [
-        "Business",
-        "Entrepreneurship",
-        "Startups"
-      ],
-      "coverImagePath": "books/the-lean-startup/cover.png",
-      "summariesPath": {
-        "en": "books/the-lean-startup/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2025-10-07T00:00:00.000Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "surrounded-by-idiots",
-      "title": "Surrounded by Idiots",
-      "author": "Thomas Erikson",
-      "publicationDate": "2014-01-01",
-      "description": "Explains how understanding personality types improves communication, teamwork, and leadership.",
-      "tags": [
-        "Psychology",
-        "Self-help",
-        "Communication"
-      ],
-      "coverImagePath": "books/surrounded-by-idiots/cover.png",
-      "summariesPath": {
-        "en": "books/surrounded-by-idiots/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2025-10-08T00:00:00.000Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "road-to-success",
-      "title": "The Road to Success",
-      "author": "Napoleon Hill",
-      "publicationDate": "",
-      "description": "Motivational guide teaching principles behind achieving personal and professional fulfillment.",
-      "tags": [
-        "Self-help",
-        "Motivation",
-        "Personal Development"
-      ],
-      "coverImagePath": "books/road-to-success/cover.png",
-      "summariesPath": {
-        "en": "books/road-to-success/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2025-10-07T00:00:00.000Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "never-split-the-difference",
-      "title": "Never Split the Difference",
-      "author": "Chris Voss",
-      "publicationDate": "2016-05-17",
-      "description": "Negotiation techniques based on FBI experience, emphasizing empathy and influence over compromise.",
-      "tags": [
-        "Business",
-        "Negotiation",
-        "Psychology"
-      ],
-      "coverImagePath": "books/never-split-the-difference/cover.png",
-      "summariesPath": {
-        "en": "books/never-split-the-difference/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2025-10-07T00:00:00.000Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "hooked",
-      "title": "Hooked",
-      "author": "Nir Eyal",
-      "publicationDate": "2014-02-26",
-      "description": "Explores how products capture attention and form habits using the Hook Model: Trigger, Action, Reward, Investment.",
-      "tags": [
-        "Psychology",
-        "Productivity",
-        "Feature",
-        "Feature"
-      ],
-      "coverImagePath": "books/hooked/cover.png",
-      "summariesPath": {
-        "en": "books/hooked/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2025-10-07T00:00:00.000Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "ego-is-the-enemy",
-      "title": "Ego Is the Enemy",
-      "author": "Ryan Holiday",
-      "publicationDate": "2016-05-03",
-      "description": "Shows how humility, discipline, and self-awareness overcome ego to achieve true success.",
-      "tags": [
-        "Self-help",
-        "Philosophy",
-        "Personal Development"
-      ],
-      "coverImagePath": "books/ego-is-the-enemy/cover.png",
-      "summariesPath": {
-        "en": "books/ego-is-the-enemy/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2025-10-07T00:00:00.000Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "deep-work",
-      "title": "Deep Work",
-      "author": "Cal Newport",
-      "publicationDate": "2016-01-05",
-      "description": "Emphasizes focused, distraction-free work for mastering skills, creativity, and high-quality results.",
-      "tags": [
-        "Productivity",
-        "Business",
         "Self-help"
       ],
-      "coverImagePath": "books/deep-work/cover.png",
+      "coverImagePath": "books/12-rules-for-life/cover.png",
       "summariesPath": {
-        "en": "books/deep-work/summary.md"
+        "en": "books/12-rules-for-life/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2025-10-07T00:00:00.000Z",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125840Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "a-new-earth",
+      "title": "A New Earth",
+      "author": "Eckhart Tolle",
+      "publicationDate": "2005-01-01",
+      "description": "Awakening to your life's purpose.",
+      "tags": [
+        "Spirituality",
+        "Self-help",
+        "Mindfulness"
+      ],
+      "coverImagePath": "books/a-new-earth/cover.png",
+      "summariesPath": {
+        "en": "books/a-new-earth/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.125844Z",
+      "version": "2.0.0"
     },
     {
       "id": "atomic-habits",
@@ -210,171 +55,132 @@
         "en": "books/atomic-habits/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2024-01-01T00:00:00.000Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "how-to-win-friends-and-influence-people",
-      "title": "How to Win Friends and Influence People",
-      "author": "Dale Carnegie",
-      "publicationDate": "1936-10-01",
-      "description": "Classic guide to improving social skills, influence, and personal relationships.",
-      "tags": [
-        "Self-help",
-        "Communication",
-        "Business"
-      ],
-      "coverImagePath": "books/how-to-win-friends-and-influence-people/cover.jpg",
-      "summariesPath": {
-        "en": "books/how-to-win-friends-and-influence-people/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2025-10-07T00:00:00.000Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "12-rules-for-life",
-      "title": "12 Rules For Life",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of 12 Rules For Life.",
-      "tags": [
-        "Self-help"
-      ],
-      "coverImagePath": "books/12-rules-for-life/cover.png",
-      "summariesPath": {
-        "en": "books/12-rules-for-life/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.581535",
-      "version": "1.0.0"
-    },
-    {
-      "id": "a-new-earth",
-      "title": "The opening question of this book is disarmingly simple: \"What is the purpose of human life?\" Most people would answer with something about success, happiness, or contribution. Eckhart Tolle's answer is different. He says the purpose of human life is to end the dysfunction that has been running it for thousands of years. **A New Earth** is not a feel-good book about finding your passion. It is an autopsy of the human ego, performed",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The opening question of this book is disarmingly simple: \"What is the purpose of human life?\" Most people would answer with something about success, happiness, or contribution. Eckhart Tolle's answer is different. He says the purpose of human life is to end the dysfunction that has been running it for thousands of years. **A New Earth** is not a feel-good book about finding your passion. It is an autopsy of the human ego, performed.",
-      "tags": [
-        "Self-help"
-      ],
-      "coverImagePath": "books/a-new-earth/cover.png",
-      "summariesPath": {
-        "en": "books/a-new-earth/summary.md"
-      },
-      "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.581767",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125846Z",
+      "version": "2.0.0"
     },
     {
       "id": "awareness",
       "title": "Awareness",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Awareness.",
+      "author": "Anthony de Mello",
+      "publicationDate": "1990-01-01",
+      "description": "The perils and opportunities of reality.",
       "tags": [
-        "Self-help"
+        "Spirituality",
+        "Self-help",
+        "Mindfulness"
       ],
       "coverImagePath": "books/awareness/cover.png",
       "summariesPath": {
         "en": "books/awareness/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.581951",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125848Z",
+      "version": "2.0.0"
     },
     {
       "id": "be-here-now",
       "title": "Be Here Now",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Be Here Now.",
+      "author": "Ram Dass",
+      "publicationDate": "1971-01-01",
+      "description": "A manual for conscious being.",
       "tags": [
-        "Self-help"
+        "Spirituality",
+        "Self-help",
+        "Mindfulness"
       ],
       "coverImagePath": "books/be-here-now/cover.png",
       "summariesPath": {
         "en": "books/be-here-now/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.582127",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125850Z",
+      "version": "2.0.0"
     },
     {
       "id": "big-magic",
       "title": "Big Magic",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Big Magic.",
+      "author": "Elizabeth Gilbert",
+      "publicationDate": "2015-09-22",
+      "description": "Creative living beyond fear.",
       "tags": [
-        "Self-help"
+        "Creativity",
+        "Self-help",
+        "Inspiration"
       ],
       "coverImagePath": "books/big-magic/cover.png",
       "summariesPath": {
         "en": "books/big-magic/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.582314",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125852Z",
+      "version": "2.0.0"
     },
     {
       "id": "blue-ocean-strategy",
-      "title": "In 1984, a group of performers founded a circus unlike any other. They abandoned animal acts, removed the star system, blended theatrical storytelling with acrobatics, and charged ticket prices closer to Broadway than to a tent show. Within two decades, Cirque du Soleil was earning more revenue than Ringling Bros. and Barnum & Bailey had taken a century to achieve \u2014 not",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of In 1984, a group of performers founded a circus unlike any other. They abandoned animal acts, removed the star system, blended theatrical storytelling with acrobatics, and charged ticket prices closer to Broadway than to a tent show. Within two decades, Cirque du Soleil was earning more revenue than Ringling Bros. and Barnum & Bailey had taken a century to achieve \u2014 not.",
+      "title": "Blue Ocean Strategy",
+      "author": "W. Chan Kim & Ren\u00e9e Mauborgne",
+      "publicationDate": "2005-02-03",
+      "description": "How to create uncontested market space and make the competition irrelevant.",
       "tags": [
-        "Self-help"
+        "Business",
+        "Strategy",
+        "Management"
       ],
       "coverImagePath": "books/blue-ocean-strategy/cover.png",
       "summariesPath": {
         "en": "books/blue-ocean-strategy/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.582458",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125853Z",
+      "version": "2.0.0"
     },
     {
       "id": "boundaries",
       "title": "Boundaries",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Boundaries.",
+      "author": "Henry Cloud & John Townsend",
+      "publicationDate": "1992-01-01",
+      "description": "When to say yes, how to say no to take control of your life.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Self-help",
+        "Relationships"
       ],
       "coverImagePath": "books/boundaries/cover.png",
       "summariesPath": {
         "en": "books/boundaries/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.582602",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125854Z",
+      "version": "2.0.0"
     },
     {
       "id": "cant-hurt-me",
-      "title": "Cant Hurt Me",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Cant Hurt Me.",
+      "title": "Can't Hurt Me",
+      "author": "David Goggins",
+      "publicationDate": "2018-12-04",
+      "description": "Master your mind and defy the odds.",
       "tags": [
-        "Self-help"
+        "Self-help",
+        "Memoir",
+        "Personal Development"
       ],
       "coverImagePath": "books/cant-hurt-me/cover.png",
       "summariesPath": {
         "en": "books/cant-hurt-me/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.582761",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125859Z",
+      "version": "2.0.0"
     },
     {
       "id": "captivate",
       "title": "Captivate",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Captivate.",
+      "author": "Vanessa Van Edwards",
+      "publicationDate": "2017-04-25",
+      "description": "The science of succeeding with people.",
       "tags": [
+        "Psychology",
+        "Communication",
         "Self-help"
       ],
       "coverImagePath": "books/captivate/cover.png",
@@ -382,16 +188,18 @@
         "en": "books/captivate/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.583018",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125860Z",
+      "version": "2.0.0"
     },
     {
       "id": "creative-confidence",
-      "title": "Most people believe they aren't creative. They'll say it with a shrug, as if admitting they can't draw or don't have a good imagination: \"I'm just not a creative person.\" Tom Kelley and David Kelley, the brothers behind IDEO and Stanford's d.school, wrote *Creative Confidence* to dismantle that belief piece",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Most people believe they aren't creative. They'll say it with a shrug, as if admitting they can't draw or don't have a good imagination: \"I'm just not a creative person.\" Tom Kelley and David Kelley, the brothers behind IDEO and Stanford's d.school, wrote *Creative Confidence* to dismantle that belief piece.",
+      "title": "Creative Confidence",
+      "author": "Tom Kelley & David Kelley",
+      "publicationDate": "2013-10-15",
+      "description": "Unleashing the creative potential within us all.",
       "tags": [
+        "Creativity",
+        "Business",
         "Self-help"
       ],
       "coverImagePath": "books/creative-confidence/cover.png",
@@ -399,50 +207,56 @@
         "en": "books/creative-confidence/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.583193",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125862Z",
+      "version": "2.0.0"
     },
     {
       "id": "crucial-conversations",
       "title": "Crucial Conversations",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Crucial Conversations.",
+      "author": "Patterson, Grenny, McMillan, Switzler",
+      "publicationDate": "2002-01-01",
+      "description": "Tools for talking when stakes are high.",
       "tags": [
-        "Self-help"
+        "Communication",
+        "Business",
+        "Psychology"
       ],
       "coverImagePath": "books/crucial-conversations/cover.png",
       "summariesPath": {
         "en": "books/crucial-conversations/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.583364",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125863Z",
+      "version": "2.0.0"
     },
     {
       "id": "daring-greatly",
       "title": "Daring Greatly",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Daring Greatly.",
+      "author": "Bren\u00e9 Brown",
+      "publicationDate": "2012-09-01",
+      "description": "How the courage to be vulnerable transforms the way we live, love, parent, and lead.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Self-help",
+        "Personal Development"
       ],
       "coverImagePath": "books/daring-greatly/cover.png",
       "summariesPath": {
         "en": "books/daring-greatly/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.583552",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125864Z",
+      "version": "2.0.0"
     },
     {
       "id": "dealing-with-feeling",
-      "title": "Dealing With Feeling",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Dealing With Feeling.",
+      "title": "Permission to Feel",
+      "author": "Marc Brackett",
+      "publicationDate": "2019-01-01",
+      "description": "Unlocking the power of emotions to help our kids, ourselves, and our society thrive.",
       "tags": [
+        "Psychology",
+        "Education",
         "Self-help"
       ],
       "coverImagePath": "books/dealing-with-feeling/cover.png",
@@ -450,16 +264,37 @@
         "en": "books/dealing-with-feeling/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.583735",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125865Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "deep-work",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "publicationDate": "2016-01-05",
+      "description": "Rules for focused success in a distracted world.",
+      "tags": [
+        "Productivity",
+        "Business",
+        "Self-help"
+      ],
+      "coverImagePath": "books/deep-work/cover.png",
+      "summariesPath": {
+        "en": "books/deep-work/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.125868Z",
+      "version": "2.0.0"
     },
     {
       "id": "digital-minimalism",
-      "title": "Something strange happened between 2005 and 2015 \u2014 the smartphone arrived, and with it, the entire texture of human life shifted. We started scrolling while we talked, checking notifications during meals, pulling out phones in moments of silence that once belonged to thought. Cal Newport, a Georgetown computer science professor who had already written *Deep Work* and *So Good They Can't Ignore You*, watched this transformation with growing unease \u2014 not just because of the time lost, but because of something deeper. What we were losing wasn't efficiency. It was autonomy. The attention economy, as he calls it \u2014 a multi-trillion-dollar industry engineered",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Something strange happened between 2005 and 2015 \u2014 the smartphone arrived, and with it, the entire texture of human life shifted. We started scrolling while we talked, checking notifications during meals, pulling out phones in moments of silence that once belonged to thought. Cal Newport, a Georgetown computer science professor who had already written *Deep Work* and *So Good They Can't Ignore You*, watched this transformation with growing unease \u2014 not just because of the time lost, but because of something deeper. What we were losing wasn't efficiency. It was autonomy. The attention economy, as he calls it \u2014 a multi-trillion-dollar industry engineered.",
+      "title": "Digital Minimalism",
+      "author": "Cal Newport",
+      "publicationDate": "2019-02-05",
+      "description": "Choosing a focused life in a noisy world.",
       "tags": [
+        "Productivity",
+        "Technology",
         "Self-help"
       ],
       "coverImagePath": "books/digital-minimalism/cover.png",
@@ -467,33 +302,56 @@
         "en": "books/digital-minimalism/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.583919",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125869Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "ego-is-the-enemy",
+      "title": "Ego Is the Enemy",
+      "author": "Ryan Holiday",
+      "publicationDate": "2016-06-14",
+      "description": "The fight to master our greatest opponent.",
+      "tags": [
+        "Self-help",
+        "Philosophy",
+        "Personal Development"
+      ],
+      "coverImagePath": "books/ego-is-the-enemy/cover.png",
+      "summariesPath": {
+        "en": "books/ego-is-the-enemy/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.125871Z",
+      "version": "2.0.0"
     },
     {
       "id": "emotional-intelligence",
-      "title": "Imagine you're watching someone who was valedictorian, top of their class, brilliant on paper \u2014 and yet they can't hold a job, their marriage is falling apart, and they have no real friends. Now imagine someone else who barely scraped through school, average grades, nothing special on the resume \u2014 and yet they're surrounded",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Imagine you're watching someone who was valedictorian, top of their class, brilliant on paper \u2014 and yet they can't hold a job, their marriage is falling apart, and they have no real friends. Now imagine someone else who barely scraped through school, average grades, nothing special on the resume \u2014 and yet they're surrounded.",
+      "title": "Emotional Intelligence",
+      "author": "Daniel Goleman",
+      "publicationDate": "1995-09-01",
+      "description": "Why it can matter more than IQ.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Self-help",
+        "Business"
       ],
       "coverImagePath": "books/emotional-intelligence/cover.png",
       "summariesPath": {
         "en": "books/emotional-intelligence/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.584098",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125872Z",
+      "version": "2.0.0"
     },
     {
       "id": "essentialism",
       "title": "Essentialism",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Essentialism.",
+      "author": "Greg McKeown",
+      "publicationDate": "2014-04-15",
+      "description": "The disciplined pursuit of less.",
       "tags": [
+        "Productivity",
+        "Business",
         "Self-help"
       ],
       "coverImagePath": "books/essentialism/cover.png",
@@ -501,33 +359,37 @@
         "en": "books/essentialism/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.584270",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125873Z",
+      "version": "2.0.0"
     },
     {
       "id": "extreme-ownership",
       "title": "Extreme Ownership",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Extreme Ownership.",
+      "author": "Jocko Willink",
+      "publicationDate": "2015-10-20",
+      "description": "How U.S. Navy SEALs lead and win.",
       "tags": [
-        "Self-help"
+        "Business",
+        "Leadership",
+        "Military"
       ],
       "coverImagePath": "books/extreme-ownership/cover.png",
       "summariesPath": {
         "en": "books/extreme-ownership/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.584419",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125874Z",
+      "version": "2.0.0"
     },
     {
       "id": "first-we-make-the-beast-beautiful",
-      "title": "First We Make The Beast Beautiful",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of First We Make The Beast Beautiful.",
+      "title": "First, We Make the Beast Beautiful",
+      "author": "Sarah Wilson",
+      "publicationDate": "2018-01-01",
+      "description": "A new story about anxiety.",
       "tags": [
+        "Mental Health",
+        "Memoir",
         "Self-help"
       ],
       "coverImagePath": "books/first-we-make-the-beast-beautiful/cover.png",
@@ -535,33 +397,37 @@
         "en": "books/first-we-make-the-beast-beautiful/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.584575",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125876Z",
+      "version": "2.0.0"
     },
     {
       "id": "flow",
       "title": "Flow",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Flow.",
+      "author": "Mihaly Csikszentmihalyi",
+      "publicationDate": "1990-01-01",
+      "description": "The psychology of optimal experience.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Creativity",
+        "Science"
       ],
       "coverImagePath": "books/flow/cover.png",
       "summariesPath": {
         "en": "books/flow/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.584722",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125877Z",
+      "version": "2.0.0"
     },
     {
       "id": "four-thousand-weeks",
-      "title": "If you live to be eighty years old, you will have about four thousand weeks. That is the entirety of a human life \u2014 a number so small it barely registers against the scale of geological time, and yet we spend most of those weeks trying to master time, to squeeze more into each one, to feel less constrained",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of If you live to be eighty years old, you will have about four thousand weeks. That is the entirety of a human life \u2014 a number so small it barely registers against the scale of geological time, and yet we spend most of those weeks trying to master time, to squeeze more into each one, to feel less constrained.",
+      "title": "Four Thousand Weeks",
+      "author": "Oliver Burkeman",
+      "publicationDate": "2021-08-10",
+      "description": "Time management for mortals.",
       "tags": [
+        "Philosophy",
+        "Productivity",
         "Self-help"
       ],
       "coverImagePath": "books/four-thousand-weeks/cover.png",
@@ -569,16 +435,18 @@
         "en": "books/four-thousand-weeks/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.584876",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125880Z",
+      "version": "2.0.0"
     },
     {
       "id": "getting-things-done",
       "title": "Getting Things Done",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Getting Things Done.",
+      "author": "David Allen",
+      "publicationDate": "2001-01-01",
+      "description": "The art of stress-free productivity.",
       "tags": [
+        "Productivity",
+        "Business",
         "Self-help"
       ],
       "coverImagePath": "books/getting-things-done/cover.png",
@@ -586,135 +454,189 @@
         "en": "books/getting-things-done/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.585019",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125881Z",
+      "version": "2.0.0"
     },
     {
       "id": "good-to-great",
-      "title": "Good To Great",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Good To Great.",
+      "title": "Good to Great",
+      "author": "Jim Collins",
+      "publicationDate": "2001-10-16",
+      "description": "Why some companies make the leap and others don't.",
       "tags": [
-        "Self-help"
+        "Business",
+        "Leadership",
+        "Management"
       ],
       "coverImagePath": "books/good-to-great/cover.png",
       "summariesPath": {
         "en": "books/good-to-great/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.585175",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125884Z",
+      "version": "2.0.0"
     },
     {
       "id": "grit",
       "title": "Grit",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Grit.",
+      "author": "Angela Duckworth",
+      "publicationDate": "2016-05-03",
+      "description": "The power of passion and perseverance.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Self-help",
+        "Education"
       ],
       "coverImagePath": "books/grit/cover.png",
       "summariesPath": {
         "en": "books/grit/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.585331",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125885Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "hooked",
+      "title": "Hooked",
+      "author": "Nir Eyal",
+      "publicationDate": "2014-01-01",
+      "description": "How to build habit-forming products.",
+      "tags": [
+        "Business",
+        "Psychology",
+        "Technology"
+      ],
+      "coverImagePath": "books/hooked/cover.png",
+      "summariesPath": {
+        "en": "books/hooked/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.125888Z",
+      "version": "2.0.0"
     },
     {
       "id": "how-big-things-get-done",
-      "title": "In 1957, the government of New South Wales approved a budget of seven million Australian dollars to build an opera house on Bennelong Point. The design \u2014 those iconic white shells soaring over Sydney Harbour \u2014 was the winning entry in an international competition, submitted",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of In 1957, the government of New South Wales approved a budget of seven million Australian dollars to build an opera house on Bennelong Point. The design \u2014 those iconic white shells soaring over Sydney Harbour \u2014 was the winning entry in an international competition, submitted.",
+      "title": "How Big Things Get Done",
+      "author": "Bent Flyvbjerg",
+      "publicationDate": "2023-02-21",
+      "description": "The surprising factors that determine the fate of every project.",
       "tags": [
-        "Self-help"
+        "Business",
+        "Project Management",
+        "Strategy"
       ],
       "coverImagePath": "books/how-big-things-get-done/cover.png",
       "summariesPath": {
         "en": "books/how-big-things-get-done/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.585490",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125889Z",
+      "version": "2.0.0"
     },
     {
       "id": "how-emotions-are-made",
-      "title": "Picture a brain in a skull, sealed in darkness, connected to the world only through electrical signals from the senses. Now ask yourself: how does this isolated lump of tissue ever know what it's feeling? The standard answer, the one that has dominated psychology and popular culture for decades, is that emotions are built-in biological circuits \u2014 ancient programs evolution installed in us, waiting to be triggered",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Picture a brain in a skull, sealed in darkness, connected to the world only through electrical signals from the senses. Now ask yourself: how does this isolated lump of tissue ever know what it's feeling? The standard answer, the one that has dominated psychology and popular culture for decades, is that emotions are built-in biological circuits \u2014 ancient programs evolution installed in us, waiting to be triggered.",
+      "title": "How Emotions Are Made",
+      "author": "Lisa Feldman Barrett",
+      "publicationDate": "2017-03-07",
+      "description": "The secret life of the brain.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Neuroscience",
+        "Science"
       ],
       "coverImagePath": "books/how-emotions-are-made/cover.png",
       "summariesPath": {
         "en": "books/how-emotions-are-made/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.585631",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125892Z",
+      "version": "2.0.0"
     },
     {
       "id": "how-to-say-it",
-      "title": "How To Say It",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of How To Say It.",
+      "title": "How to Say It",
+      "author": "Rosalie Maggio",
+      "publicationDate": "2000-01-01",
+      "description": "Choice words, phrases, sentences, and paragraphs for every situation.",
       "tags": [
-        "Self-help"
+        "Communication",
+        "Self-help",
+        "Business"
       ],
       "coverImagePath": "books/how-to-say-it/cover.png",
       "summariesPath": {
         "en": "books/how-to-say-it/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.585809",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125893Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "how-to-win-friends-and-influence-people",
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "publicationDate": "1936-10-01",
+      "description": "The only book you need to lead you to success.",
+      "tags": [
+        "Self-help",
+        "Communication",
+        "Business"
+      ],
+      "coverImagePath": "books/how-to-win-friends-and-influence-people/cover.png",
+      "summariesPath": {
+        "en": "books/how-to-win-friends-and-influence-people/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.125895Z",
+      "version": "2.0.0"
     },
     {
       "id": "indistractable",
       "title": "Indistractable",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Indistractable.",
+      "author": "Nir Eyal",
+      "publicationDate": "2019-09-10",
+      "description": "How to control your attention and choose your life.",
       "tags": [
-        "Self-help"
+        "Productivity",
+        "Psychology",
+        "Technology"
       ],
       "coverImagePath": "books/indistractable/cover.png",
       "summariesPath": {
         "en": "books/indistractable/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.585972",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125896Z",
+      "version": "2.0.0"
     },
     {
       "id": "inner-engineering",
       "title": "Inner Engineering",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Inner Engineering.",
+      "author": "Sadhguru",
+      "publicationDate": "2016-09-20",
+      "description": "A yogi's guide to joy.",
       "tags": [
-        "Self-help"
+        "Spirituality",
+        "Self-help",
+        "Mindfulness"
       ],
       "coverImagePath": "books/inner-engineering/cover.png",
       "summariesPath": {
         "en": "books/inner-engineering/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.586146",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125897Z",
+      "version": "2.0.0"
     },
     {
       "id": "inverse-thinking",
       "title": "Inverse Thinking",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Inverse Thinking.",
+      "author": "Various",
+      "publicationDate": "2023-01-01",
+      "description": "Breaking mental patterns through inversion.",
       "tags": [
+        "Psychology",
+        "Philosophy",
         "Self-help"
       ],
       "coverImagePath": "books/inverse-thinking/cover.png",
@@ -722,84 +644,93 @@
         "en": "books/inverse-thinking/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.586345",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125899Z",
+      "version": "2.0.0"
     },
     {
       "id": "keep-going",
       "title": "Keep Going",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Keep Going.",
+      "author": "Austin Kleon",
+      "publicationDate": "2019-03-01",
+      "description": "10 ways to stay creative in good times and bad.",
       "tags": [
-        "Self-help"
+        "Creativity",
+        "Self-help",
+        "Inspiration"
       ],
       "coverImagePath": "books/keep-going/cover.png",
       "summariesPath": {
         "en": "books/keep-going/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.586507",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125901Z",
+      "version": "2.0.0"
     },
     {
       "id": "leaders-eat-last",
-      "title": "Imagine a team so safe that people freely admit mistakes, challenge bad ideas, ask for help without embarrassment, and trust each other with their careers. Now imagine the opposite \u2014 a team where everyone covers their tracks, meetings are theater, and the smartest thing you can do is keep your head down. Simon Sinek starts Leaders Eat Last with a story that makes the difference visceral. He tells of Captain William Swenson, who was awarded the Medal of Honor for his actions in Afghanistan \u2014 and more importantly, for the fact that every soldier in his unit would have died for him. Swenson didn't lead",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Imagine a team so safe that people freely admit mistakes, challenge bad ideas, ask for help without embarrassment, and trust each other with their careers. Now imagine the opposite \u2014 a team where everyone covers their tracks, meetings are theater, and the smartest thing you can do is keep your head down. Simon Sinek starts Leaders Eat Last with a story that makes the difference visceral. He tells of Captain William Swenson, who was awarded the Medal of Honor for his actions in Afghanistan \u2014 and more importantly, for the fact that every soldier in his unit would have died for him. Swenson didn't lead.",
+      "title": "Leaders Eat Last",
+      "author": "Simon Sinek",
+      "publicationDate": "2014-01-07",
+      "description": "Why some teams pull together and others don't.",
       "tags": [
-        "Self-help"
+        "Business",
+        "Leadership",
+        "Psychology"
       ],
       "coverImagePath": "books/leaders-eat-last/cover.png",
       "summariesPath": {
         "en": "books/leaders-eat-last/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.586662",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125903Z",
+      "version": "2.0.0"
     },
     {
       "id": "letters-from-a-stoic",
-      "title": "Letters From A Stoic",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Letters From A Stoic.",
+      "title": "Letters from a Stoic",
+      "author": "Seneca",
+      "publicationDate": "0065-01-01",
+      "description": "Timeless wisdom from the Roman Stoic philosopher.",
       "tags": [
-        "Self-help"
+        "Philosophy",
+        "Stoicism",
+        "Classics"
       ],
       "coverImagePath": "books/letters-from-a-stoic/cover.png",
       "summariesPath": {
         "en": "books/letters-from-a-stoic/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.586815",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125904Z",
+      "version": "2.0.0"
     },
     {
       "id": "love-for-imperfect-things",
-      "title": "Love For Imperfect Things",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Love For Imperfect Things.",
+      "title": "Love for Imperfect Things",
+      "author": "Haemin Sunim",
+      "publicationDate": "2016-01-01",
+      "description": "How to accept yourself in a world striving for perfection.",
       "tags": [
-        "Self-help"
+        "Philosophy",
+        "Self-help",
+        "Spirituality"
       ],
       "coverImagePath": "books/love-for-imperfect-things/cover.png",
       "summariesPath": {
         "en": "books/love-for-imperfect-things/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.586971",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125905Z",
+      "version": "2.0.0"
     },
     {
       "id": "make-time",
-      "title": "Nobody ever looked at an empty calendar and said, \"The best way to spend this time is",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Nobody ever looked at an empty calendar and said, \"The best way to spend this time is.",
+      "title": "Make Time",
+      "author": "Jake Knapp & John Zeratsky",
+      "publicationDate": "2018-09-25",
+      "description": "How to focus on what matters every day.",
       "tags": [
+        "Productivity",
         "Self-help"
       ],
       "coverImagePath": "books/make-time/cover.png",
@@ -807,50 +738,56 @@
         "en": "books/make-time/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.587120",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125906Z",
+      "version": "2.0.0"
     },
     {
       "id": "mans-search-for-meaning",
-      "title": "Mans Search For Meaning",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Mans Search For Meaning.",
+      "title": "Man's Search for Meaning",
+      "author": "Viktor Frankl",
+      "publicationDate": "1946-01-01",
+      "description": "The classic tribute to hope from the Holocaust.",
       "tags": [
-        "Self-help"
+        "Philosophy",
+        "Memoir",
+        "Psychology"
       ],
       "coverImagePath": "books/mans-search-for-meaning/cover.png",
       "summariesPath": {
         "en": "books/mans-search-for-meaning/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.587269",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125907Z",
+      "version": "2.0.0"
     },
     {
       "id": "maybe-you-should-talk-to-someone",
-      "title": "A therapist walks into a therapy office. But not as the therapist. As the patient. That's the premise of Lori Gottlieb's extraordinary memoir, and it's a premise that contains a radical idea within it: that the people we imagine have life figured out \u2014 the professionals, the helpers, the ones who seem to have answers \u2014 are just as lost, just as scared, just as human as the rest of us. Gottlieb is a psychotherapist in Los Angeles with a thriving practice, a popular advice column, and a TED talk that millions have watched. Then her boyfriend breaks up with her in a single phone call, and she finds herself on the other side of the couch for the first time in years, sitting across from a therapist she calls Wendell, trying to figure out how someone who spends their life helping people navigate emotional chaos can feel so thoroughly wrecked",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of A therapist walks into a therapy office. But not as the therapist. As the patient. That's the premise of Lori Gottlieb's extraordinary memoir, and it's a premise that contains a radical idea within it: that the people we imagine have life figured out \u2014 the professionals, the helpers, the ones who seem to have answers \u2014 are just as lost, just as scared, just as human as the rest of us. Gottlieb is a psychotherapist in Los Angeles with a thriving practice, a popular advice column, and a TED talk that millions have watched. Then her boyfriend breaks up with her in a single phone call, and she finds herself on the other side of the couch for the first time in years, sitting across from a therapist she calls Wendell, trying to figure out how someone who spends their life helping people navigate emotional chaos can feel so thoroughly wrecked.",
+      "title": "Maybe You Should Talk to Someone",
+      "author": "Lori Gottlieb",
+      "publicationDate": "2019-04-02",
+      "description": "A therapist, her therapist, and our lives revealed.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Memoir",
+        "Mental Health"
       ],
       "coverImagePath": "books/maybe-you-should-talk-to-someone/cover.png",
       "summariesPath": {
         "en": "books/maybe-you-should-talk-to-someone/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.587423",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125909Z",
+      "version": "2.0.0"
     },
     {
       "id": "me-but-better",
-      "title": "Me But Better",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Me But Better.",
+      "title": "Me, But Better",
+      "author": "Olga Khazan",
+      "publicationDate": "2025-01-01",
+      "description": "The science of personality change.",
       "tags": [
+        "Psychology",
+        "Science",
         "Self-help"
       ],
       "coverImagePath": "books/me-but-better/cover.png",
@@ -858,135 +795,170 @@
         "en": "books/me-but-better/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.587568",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125910Z",
+      "version": "2.0.0"
     },
     {
       "id": "meditations",
-      "title": "Imagine writing a book you never intended anyone to read \u2014 not for fame, not for publication, not even to teach, but simply to remind yourself, in the dark hours before dawn, what kind of person you wanted to be. That is the **Meditations** of Marcus Aurelius. He was the most powerful man in the world, emperor of Rome, commander of armies that stretched from Britain to Syria, and yet what he left behind was not a grand philosophical treatise but a private journal filled with self-rebukes, reminders, and attempts to hold himself to a standard he kept failing to meet. The philosophy he practiced, **Stoicism**, had been around for almost five hundred years",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Imagine writing a book you never intended anyone to read \u2014 not for fame, not for publication, not even to teach, but simply to remind yourself, in the dark hours before dawn, what kind of person you wanted to be. That is the **Meditations** of Marcus Aurelius. He was the most powerful man in the world, emperor of Rome, commander of armies that stretched from Britain to Syria, and yet what he left behind was not a grand philosophical treatise but a private journal filled with self-rebukes, reminders, and attempts to hold himself to a standard he kept failing to meet. The philosophy he practiced, **Stoicism**, had been around for almost five hundred years.",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "publicationDate": "0180-01-01",
+      "description": "The personal reflections of the world's most powerful man.",
       "tags": [
-        "Self-help"
+        "Philosophy",
+        "Stoicism",
+        "Classics"
       ],
       "coverImagePath": "books/meditations/cover.png",
       "summariesPath": {
         "en": "books/meditations/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.587716",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125911Z",
+      "version": "2.0.0"
     },
     {
       "id": "mindset",
-      "title": "Carol Dweck spent decades watching children solve puzzles. She wasn't interested in who got the right answer. She was interested in something more surprising: what happened after the puzzles got too hard. Some children welcomed the difficulty. They leaned in, tried new strategies, seemed almost energized",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Carol Dweck spent decades watching children solve puzzles. She wasn't interested in who got the right answer. She was interested in something more surprising: what happened after the puzzles got too hard. Some children welcomed the difficulty. They leaned in, tried new strategies, seemed almost energized.",
+      "title": "Mindset: The New Psychology of Success",
+      "author": "Carol S. Dweck",
+      "publicationDate": "2006-02-28",
+      "description": "How we can learn to fulfill our potential.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Self-help",
+        "Education"
       ],
       "coverImagePath": "books/mindset/cover.png",
       "summariesPath": {
         "en": "books/mindset/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.587917",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125913Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "never-split-the-difference",
+      "title": "Never Split the Difference",
+      "author": "Chris Voss",
+      "publicationDate": "2016-05-17",
+      "description": "Negotiating as if your life depended on it.",
+      "tags": [
+        "Business",
+        "Negotiation",
+        "Psychology"
+      ],
+      "coverImagePath": "books/never-split-the-difference/cover.png",
+      "summariesPath": {
+        "en": "books/never-split-the-difference/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.125915Z",
+      "version": "2.0.0"
     },
     {
       "id": "outliers",
-      "title": "Think about the most successful person you know \u2014 the one who seems to have been touched",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Think about the most successful person you know \u2014 the one who seems to have been touched.",
+      "title": "Outliers",
+      "author": "Malcolm Gladwell",
+      "publicationDate": "2008-11-18",
+      "description": "The story of success.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Business",
+        "Sociology"
       ],
       "coverImagePath": "books/outliers/cover.png",
       "summariesPath": {
         "en": "books/outliers/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.588067",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125916Z",
+      "version": "2.0.0"
     },
     {
       "id": "principles",
-      "title": "Imagine running a company where every meeting is recorded, every decision is logged, and every employee carries a device that lets their colleagues rate them in real time \u2014 not behind their back, to their face. This isn't a surveillance state. This is Bridgewater Associates, the largest hedge fund in the world, and the life's work of a man who turned his two-bedroom apartment into a $160 billion empire",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Imagine running a company where every meeting is recorded, every decision is logged, and every employee carries a device that lets their colleagues rate them in real time \u2014 not behind their back, to their face. This isn't a surveillance state. This is Bridgewater Associates, the largest hedge fund in the world, and the life's work of a man who turned his two-bedroom apartment into a $160 billion empire.",
+      "title": "Principles",
+      "author": "Ray Dalio",
+      "publicationDate": "2017-09-19",
+      "description": "Life and work principles from the world's most successful hedge fund manager.",
       "tags": [
-        "Self-help"
+        "Business",
+        "Finance",
+        "Leadership"
       ],
       "coverImagePath": "books/principles/cover.png",
       "summariesPath": {
         "en": "books/principles/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.588224",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125918Z",
+      "version": "2.0.0"
     },
     {
       "id": "psycho-cybernetics",
-      "title": "Psycho Cybernetics",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Psycho Cybernetics.",
+      "title": "Psycho-Cybernetics",
+      "author": "Maxwell Maltz",
+      "publicationDate": "1960-01-01",
+      "description": "A new way to get more living out of life.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Self-help",
+        "Personal Development"
       ],
       "coverImagePath": "books/psycho-cybernetics/cover.png",
       "summariesPath": {
         "en": "books/psycho-cybernetics/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.588410",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125919Z",
+      "version": "2.0.0"
     },
     {
       "id": "quiet",
-      "title": "Imagine growing up in a world where everyone around you seems to be speaking a language you sort of understand but can't quite speak fluently. They thrive in groups, think out loud, get energy from crowds, and assume that anyone who prefers a quiet corner to a party must be shy, depressed, or antisocial. Now imagine being told, your entire life, that this is not just a difference \u2014 it's a deficiency. That who you are is something to be fixed. That you should try harder to be like them. That the way the world works, the way it rewards the loud and the fast, is the right way, and you're the one who needs to adapt. This is the experience of the introvert in a culture shaped",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Imagine growing up in a world where everyone around you seems to be speaking a language you sort of understand but can't quite speak fluently. They thrive in groups, think out loud, get energy from crowds, and assume that anyone who prefers a quiet corner to a party must be shy, depressed, or antisocial. Now imagine being told, your entire life, that this is not just a difference \u2014 it's a deficiency. That who you are is something to be fixed. That you should try harder to be like them. That the way the world works, the way it rewards the loud and the fast, is the right way, and you're the one who needs to adapt. This is the experience of the introvert in a culture shaped.",
+      "title": "Quiet: The Power of Introverts",
+      "author": "Susan Cain",
+      "publicationDate": "2012-01-24",
+      "description": "The power of introverts in a world that can't stop talking.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Self-help",
+        "Business"
       ],
       "coverImagePath": "books/quiet/cover.png",
       "summariesPath": {
         "en": "books/quiet/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.588567",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125920Z",
+      "version": "2.0.0"
     },
     {
       "id": "radical-acceptance",
       "title": "Radical Acceptance",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Radical Acceptance.",
+      "author": "Tara Brach",
+      "publicationDate": "2003-01-01",
+      "description": "Embracing your life with the heart of a Buddha.",
       "tags": [
-        "Self-help"
+        "Spirituality",
+        "Psychology",
+        "Mindfulness"
       ],
       "coverImagePath": "books/radical-acceptance/cover.png",
       "summariesPath": {
         "en": "books/radical-acceptance/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.588711",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125923Z",
+      "version": "2.0.0"
     },
     {
       "id": "rich-dad-poor-dad",
       "title": "Rich Dad Poor Dad",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Rich Dad Poor Dad.",
+      "author": "Robert Kiyosaki",
+      "publicationDate": "1997-04-01",
+      "description": "What the rich teach their kids about money.",
       "tags": [
+        "Finance",
+        "Business",
         "Self-help"
       ],
       "coverImagePath": "books/rich-dad-poor-dad/cover.png",
@@ -994,67 +966,94 @@
         "en": "books/rich-dad-poor-dad/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.588873",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125925Z",
+      "version": "2.0.0"
     },
     {
       "id": "richer-wiser-happier",
-      "title": "There is a peculiar quality that unites the world's greatest investors, and it has almost nothing to do with intelligence. They are not the smartest people in the room \u2014 not",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of There is a peculiar quality that unites the world's greatest investors, and it has almost nothing to do with intelligence. They are not the smartest people in the room \u2014 not.",
+      "title": "Richer, Wiser, Happier",
+      "author": "William Green",
+      "publicationDate": "2021-04-01",
+      "description": "How the world's greatest investors win in markets and life.",
       "tags": [
-        "Self-help"
+        "Finance",
+        "Investing",
+        "Biography"
       ],
       "coverImagePath": "books/richer-wiser-happier/cover.png",
       "summariesPath": {
         "en": "books/richer-wiser-happier/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.589057",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125926Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "road-to-success",
+      "title": "The Road to Success",
+      "author": "Napoleon Hill",
+      "publicationDate": "1937-01-01",
+      "description": "Timeless wisdom for achieving success.",
+      "tags": [
+        "Self-help",
+        "Motivation",
+        "Personal Development"
+      ],
+      "coverImagePath": "books/road-to-success/cover.png",
+      "summariesPath": {
+        "en": "books/road-to-success/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.125927Z",
+      "version": "2.0.0"
     },
     {
       "id": "show-your-work",
-      "title": "You don't need to be a genius. That's the first thing Austin Kleon wants you to let go of \u2014 the crushing weight of the idea that only people with extraordinary talent deserve to be seen. The book itself is a kind of antidote to the cult of the lone genius, that romantic figure who toils in secret and emerges, fully formed, with a masterpiece. Kleon wrote *Show Your Work!* as a practical manifesto for everyone who's ever felt that their creative work wasn't good enough to share, or that self-promotion was somehow distasteful. The core insight is simple and freeing: instead of waiting until you've arrived, share the process of getting there. Let people see you work, think, fail, and learn. The amateur, in Kleon's framing, is not a lesser version of the professional. The amateur is someone who does something for the love of it, and who therefore has nothing to lose",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of You don't need to be a genius. That's the first thing Austin Kleon wants you to let go of \u2014 the crushing weight of the idea that only people with extraordinary talent deserve to be seen. The book itself is a kind of antidote to the cult of the lone genius, that romantic figure who toils in secret and emerges, fully formed, with a masterpiece. Kleon wrote *Show Your Work!* as a practical manifesto for everyone who's ever felt that their creative work wasn't good enough to share, or that self-promotion was somehow distasteful. The core insight is simple and freeing: instead of waiting until you've arrived, share the process of getting there. Let people see you work, think, fail, and learn. The amateur, in Kleon's framing, is not a lesser version of the professional. The amateur is someone who does something for the love of it, and who therefore has nothing to lose.",
+      "title": "Show Your Work!",
+      "author": "Austin Kleon",
+      "publicationDate": "2014-03-06",
+      "description": "10 ways to share your creativity and get discovered.",
       "tags": [
-        "Self-help"
+        "Creativity",
+        "Self-help",
+        "Art"
       ],
       "coverImagePath": "books/show-your-work/cover.png",
       "summariesPath": {
         "en": "books/show-your-work/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.589232",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125928Z",
+      "version": "2.0.0"
     },
     {
       "id": "solve-for-happy",
-      "title": "Mo Gawdat had a life that looked like a blueprint for happiness. He was the Chief Business Officer at Google X, working on moonshots like self-driving cars and balloon-powered internet. He had a beautiful family, financial security, and a mind trained in engineering and computer science. And he was deeply, quietly unhappy. Not because anything was wrong \u2014",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Mo Gawdat had a life that looked like a blueprint for happiness. He was the Chief Business Officer at Google X, working on moonshots like self-driving cars and balloon-powered internet. He had a beautiful family, financial security, and a mind trained in engineering and computer science. And he was deeply, quietly unhappy. Not because anything was wrong \u2014.",
+      "title": "Solve for Happy",
+      "author": "Mo Gawdat",
+      "publicationDate": "2017-01-01",
+      "description": "Engineer your path to joy.",
       "tags": [
-        "Self-help"
+        "Self-help",
+        "Philosophy",
+        "Happiness"
       ],
       "coverImagePath": "books/solve-for-happy/cover.png",
       "summariesPath": {
         "en": "books/solve-for-happy/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.589396",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125933Z",
+      "version": "2.0.0"
     },
     {
       "id": "start-painting-now",
       "title": "Start Painting Now",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Start Painting Now.",
+      "author": "Emily Powell & Sarah Moore",
+      "publicationDate": "2023-01-01",
+      "description": "A beginner's guide to painting.",
       "tags": [
+        "Creativity",
+        "Art",
         "Self-help"
       ],
       "coverImagePath": "books/start-painting-now/cover.png",
@@ -1062,16 +1061,18 @@
         "en": "books/start-painting-now/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.589547",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125934Z",
+      "version": "2.0.0"
     },
     {
       "id": "start-with-why",
-      "title": "Start With Why",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Start With Why.",
+      "title": "Start with Why",
+      "author": "Simon Sinek",
+      "publicationDate": "2009-10-29",
+      "description": "How great leaders inspire everyone to take action.",
       "tags": [
+        "Business",
+        "Leadership",
         "Self-help"
       ],
       "coverImagePath": "books/start-with-why/cover.png",
@@ -1079,254 +1080,322 @@
         "en": "books/start-with-why/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.589696",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125937Z",
+      "version": "2.0.0"
     },
     {
       "id": "stay-woke",
       "title": "Stay Woke",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Stay Woke.",
+      "author": "Justin Michael Williams",
+      "publicationDate": "2020-01-01",
+      "description": "A meditation guide for the rest of us.",
       "tags": [
-        "Self-help"
+        "Spirituality",
+        "Self-help",
+        "Mindfulness"
       ],
       "coverImagePath": "books/stay-woke/cover.png",
       "summariesPath": {
         "en": "books/stay-woke/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.589846",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125938Z",
+      "version": "2.0.0"
     },
     {
       "id": "steal-like-an-artist",
-      "title": "Steal Like An Artist",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Steal Like An Artist.",
+      "title": "Steal Like an Artist",
+      "author": "Austin Kleon",
+      "publicationDate": "2012-02-28",
+      "description": "10 things nobody told you about being creative.",
       "tags": [
-        "Self-help"
+        "Creativity",
+        "Self-help",
+        "Art"
       ],
       "coverImagePath": "books/steal-like-an-artist/cover.png",
       "summariesPath": {
         "en": "books/steal-like-an-artist/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.590015",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125939Z",
+      "version": "2.0.0"
     },
     {
       "id": "stop-overthinking",
       "title": "Stop Overthinking",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Stop Overthinking.",
+      "author": "Chase Hill",
+      "publicationDate": "2020-01-01",
+      "description": "23 techniques to relieve stress, stop negative spirals, and declutter your mind.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Self-help",
+        "Mental Health"
       ],
       "coverImagePath": "books/stop-overthinking/cover.png",
       "summariesPath": {
         "en": "books/stop-overthinking/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.590168",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125940Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "surrounded-by-idiots",
+      "title": "Surrounded by Idiots",
+      "author": "Thomas Erikson",
+      "publicationDate": "2014-01-01",
+      "description": "The four types of human behavior and how to effectively communicate with each.",
+      "tags": [
+        "Psychology",
+        "Self-help",
+        "Communication"
+      ],
+      "coverImagePath": "books/surrounded-by-idiots/cover.png",
+      "summariesPath": {
+        "en": "books/surrounded-by-idiots/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.125942Z",
+      "version": "2.0.0"
     },
     {
       "id": "that-little-voice-in-your-head",
-      "title": "That Little Voice In Your Head",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of That Little Voice In Your Head.",
+      "title": "That Little Voice in Your Head",
+      "author": "Mo Gawdat",
+      "publicationDate": "2022-01-01",
+      "description": "Learning to live with your internal dialogue.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Self-help",
+        "Mental Health"
       ],
       "coverImagePath": "books/that-little-voice-in-your-head/cover.png",
       "summariesPath": {
         "en": "books/that-little-voice-in-your-head/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.590316",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125943Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-4-hour-workweek",
-      "title": "The 4 Hour Workweek",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The 4 Hour Workweek.",
+      "title": "The 4-Hour Workweek",
+      "author": "Timothy Ferriss",
+      "publicationDate": "2007-04-24",
+      "description": "Escape 9-5, live anywhere, and join the new rich.",
       "tags": [
-        "Self-help"
+        "Business",
+        "Productivity",
+        "Lifestyle"
       ],
       "coverImagePath": "books/the-4-hour-workweek/cover.png",
       "summariesPath": {
         "en": "books/the-4-hour-workweek/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.590456",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125944Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-48-laws-of-power",
-      "title": "Imagine a game you're already playing. You never signed up for it. Nobody told you the rules. But every interaction you have \u2014 at work, with friends, in love, with strangers \u2014 is shaped",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Imagine a game you're already playing. You never signed up for it. Nobody told you the rules. But every interaction you have \u2014 at work, with friends, in love, with strangers \u2014 is shaped.",
+      "title": "The 48 Laws of Power",
+      "author": "Robert Greene",
+      "publicationDate": "1998-09-01",
+      "description": "The definitive guide to gaining and maintaining power.",
       "tags": [
-        "Self-help"
+        "Business",
+        "Psychology",
+        "History"
       ],
       "coverImagePath": "books/the-48-laws-of-power/cover.png",
       "summariesPath": {
         "en": "books/the-48-laws-of-power/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.590597",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125946Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-5-love-languages",
       "title": "The 5 Love Languages",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The 5 Love Languages.",
+      "author": "Gary Chapman",
+      "publicationDate": "1992-01-01",
+      "description": "The secret to love that lasts.",
       "tags": [
-        "Self-help"
+        "Relationships",
+        "Self-help",
+        "Psychology"
       ],
       "coverImagePath": "books/the-5-love-languages/cover.png",
       "summariesPath": {
         "en": "books/the-5-love-languages/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.590741",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125949Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-5-second-rule",
       "title": "The 5 Second Rule",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The 5 Second Rule.",
+      "author": "Mel Robbins",
+      "publicationDate": "2017-02-28",
+      "description": "Transform your life, work, and confidence with everyday courage.",
       "tags": [
-        "Self-help"
+        "Self-help",
+        "Productivity",
+        "Personal Development"
       ],
       "coverImagePath": "books/the-5-second-rule/cover.png",
       "summariesPath": {
         "en": "books/the-5-second-rule/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.590884",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125951Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-7-habits-of-highly-effective-people",
-      "title": "The 7 Habits Of Highly Effective People",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The 7 Habits Of Highly Effective People.",
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "publicationDate": "1989-08-15",
+      "description": "Powerful lessons in personal change.",
       "tags": [
-        "Self-help"
+        "Self-help",
+        "Business",
+        "Leadership"
       ],
       "coverImagePath": "books/the-7-habits-of-highly-effective-people/cover.png",
       "summariesPath": {
         "en": "books/the-7-habits-of-highly-effective-people/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.591045",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125953Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "the-alchemist",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "publicationDate": "1988-04-15",
+      "description": "A fable about following your dream.",
+      "tags": [
+        "Fiction",
+        "Philosophy",
+        "Self-discovery"
+      ],
+      "coverImagePath": "books/the-alchemist/cover.png",
+      "summariesPath": {
+        "en": "books/the-alchemist/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.125955Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-art-of-gathering",
-      "title": "Think about the last gathering you attended \u2014 a dinner party, a team meeting, a wedding, a conference. Was it memorable? Or did it blur into every other event you've ever been to, a pleasant but forgettable haze of small talk, mediocre food, and the vague sense that everyone was waiting for something to happen? Priya Parker, a conflict-resolution facilitator who has spent years designing gatherings for everyone from corporate executives to community activists, argues that the problem is not with the food, the venue, or the guest list. The problem is that most gatherings have no real purpose. They are held out of obligation, habit, or a vague desire to \"connect,\" without any clear answer to the question that she believes should precede every gathering: why? This is the foundation of what she calls **The Art of Gathering** \u2014 the deliberate practice of designing experiences that bring people together not just to occupy the same space, but to be changed",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Think about the last gathering you attended \u2014 a dinner party, a team meeting, a wedding, a conference. Was it memorable? Or did it blur into every other event you've ever been to, a pleasant but forgettable haze of small talk, mediocre food, and the vague sense that everyone was waiting for something to happen? Priya Parker, a conflict-resolution facilitator who has spent years designing gatherings for everyone from corporate executives to community activists, argues that the problem is not with the food, the venue, or the guest list. The problem is that most gatherings have no real purpose. They are held out of obligation, habit, or a vague desire to \"connect,\" without any clear answer to the question that she believes should precede every gathering: why? This is the foundation of what she calls **The Art of Gathering** \u2014 the deliberate practice of designing experiences that bring people together not just to occupy the same space, but to be changed.",
+      "title": "The Art of Gathering",
+      "author": "Priya Parker",
+      "publicationDate": "2018-05-15",
+      "description": "How we meet and why it matters.",
       "tags": [
-        "Self-help"
+        "Communication",
+        "Self-help",
+        "Relationships"
       ],
       "coverImagePath": "books/the-art-of-gathering/cover.png",
       "summariesPath": {
         "en": "books/the-art-of-gathering/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.591200",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125956Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-art-of-living",
-      "title": "The man who wrote this handbook never actually wrote a word. Epictetus was born a slave in Phrygia around 50 AD, his leg deliberately broken",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The man who wrote this handbook never actually wrote a word. Epictetus was born a slave in Phrygia around 50 AD, his leg deliberately broken.",
+      "title": "The Art of Living",
+      "author": "Epictetus",
+      "publicationDate": "0135-01-01",
+      "description": "The classical manual on virtue, happiness, and effectiveness.",
       "tags": [
-        "Self-help"
+        "Philosophy",
+        "Stoicism",
+        "Classics"
       ],
       "coverImagePath": "books/the-art-of-living/cover.png",
       "summariesPath": {
         "en": "books/the-art-of-living/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.591355",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125958Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-artists-way",
-      "title": "The Artists Way",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Artists Way.",
+      "title": "The Artist's Way",
+      "author": "Julia Cameron",
+      "publicationDate": "1992-01-01",
+      "description": "A spiritual path to higher creativity.",
       "tags": [
-        "Self-help"
+        "Creativity",
+        "Self-help",
+        "Spirituality"
       ],
       "coverImagePath": "books/the-artists-way/cover.png",
       "summariesPath": {
         "en": "books/the-artists-way/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.591612",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125959Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-body-keeps-the-score",
-      "title": "The Body Keeps The Score",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Body Keeps The Score.",
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "publicationDate": "2014-09-25",
+      "description": "Brain, mind, and body in the healing of trauma.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Mental Health",
+        "Science"
       ],
       "coverImagePath": "books/the-body-keeps-the-score/cover.png",
       "summariesPath": {
         "en": "books/the-body-keeps-the-score/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.591839",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125960Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-choice",
       "title": "The Choice",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Choice.",
+      "author": "Dr. Edith Eva Eger",
+      "publicationDate": "2017-09-05",
+      "description": "Embrace the possible. A Holocaust survivor's journey to freedom.",
       "tags": [
-        "Self-help"
+        "Memoir",
+        "Psychology",
+        "Holocaust"
       ],
       "coverImagePath": "books/the-choice/cover.png",
       "summariesPath": {
         "en": "books/the-choice/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.592060",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125961Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-courage-to-be-disliked",
-      "title": "The Courage To Be Disliked",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Courage To Be Disliked.",
+      "title": "The Courage to Be Disliked",
+      "author": "Ichiro Kishimi & Fumitake Koga",
+      "publicationDate": "2013-12-01",
+      "description": "The Japanese phenomenon that shows you how to free yourself and change your life.",
       "tags": [
+        "Philosophy",
+        "Psychology",
         "Self-help"
       ],
       "coverImagePath": "books/the-courage-to-be-disliked/cover.png",
@@ -1334,16 +1403,18 @@
         "en": "books/the-courage-to-be-disliked/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.592268",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125962Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-daily-stoic",
       "title": "The Daily Stoic",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Daily Stoic.",
+      "author": "Ryan Holiday",
+      "publicationDate": "2016-10-18",
+      "description": "366 meditations on wisdom, perseverance, and the art of living.",
       "tags": [
+        "Philosophy",
+        "Stoicism",
         "Self-help"
       ],
       "coverImagePath": "books/the-daily-stoic/cover.png",
@@ -1351,135 +1422,170 @@
         "en": "books/the-daily-stoic/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.592452",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125965Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-four-agreements",
       "title": "The Four Agreements",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Four Agreements.",
+      "author": "Don Miguel Ruiz",
+      "publicationDate": "1997-11-07",
+      "description": "A practical guide to personal freedom.",
       "tags": [
-        "Self-help"
+        "Philosophy",
+        "Self-help",
+        "Spirituality"
       ],
       "coverImagePath": "books/the-four-agreements/cover.png",
       "summariesPath": {
         "en": "books/the-four-agreements/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.592626",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125966Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-gifts-of-imperfection",
-      "title": "The Gifts Of Imperfection",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Gifts Of Imperfection.",
+      "title": "The Gifts of Imperfection",
+      "author": "Bren\u00e9 Brown",
+      "publicationDate": "2010-09-01",
+      "description": "Let go of who you think you're supposed to be and embrace who you are.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Self-help",
+        "Personal Development"
       ],
       "coverImagePath": "books/the-gifts-of-imperfection/cover.png",
       "summariesPath": {
         "en": "books/the-gifts-of-imperfection/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.592762",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125968Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-green-sketching-handbook",
       "title": "The Green Sketching Handbook",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Green Sketching Handbook.",
+      "author": "Ali Foxon",
+      "publicationDate": "2021-01-01",
+      "description": "Sketching for nature connection and wellbeing.",
       "tags": [
-        "Self-help"
+        "Creativity",
+        "Nature",
+        "Art"
       ],
       "coverImagePath": "books/the-green-sketching-handbook/cover.png",
       "summariesPath": {
         "en": "books/the-green-sketching-handbook/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.592894",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125971Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-hard-thing-about-hard-things",
-      "title": "There's a moment every founder knows but almost nobody talks about. It comes at three in the morning, after your co-founder has quit, your Series A is falling apart, and you've just realized you don't actually know what to do. Ben Horowitz calls this **The Struggle**, and he describes it in terms so raw you can feel the walls closing in. \"The Struggle is when you wonder why you started the company in the first place,\" he writes. \"When you ask God if he gave you the talent to do this.\" Most business books are written",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of There's a moment every founder knows but almost nobody talks about. It comes at three in the morning, after your co-founder has quit, your Series A is falling apart, and you've just realized you don't actually know what to do. Ben Horowitz calls this **The Struggle**, and he describes it in terms so raw you can feel the walls closing in. \"The Struggle is when you wonder why you started the company in the first place,\" he writes. \"When you ask God if he gave you the talent to do this.\" Most business books are written.",
+      "title": "The Hard Thing About Hard Things",
+      "author": "Ben Horowitz",
+      "publicationDate": "2014-03-04",
+      "description": "Building a business when there are no easy answers.",
       "tags": [
-        "Self-help"
+        "Business",
+        "Entrepreneurship",
+        "Leadership"
       ],
       "coverImagePath": "books/the-hard-thing-about-hard-things/cover.png",
       "summariesPath": {
         "en": "books/the-hard-thing-about-hard-things/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.593030",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125972Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-intelligent-investor",
-      "title": "Warren Buffett once said that the chapter on \"Mr. Market\" is the most important thing ever written about investing. That chapter lives inside this book, but Benjamin Graham's masterpiece isn't really about the stock market. It's about your relationship with your own mind \u2014 how to think clearly when everyone around you is losing theirs, and how to build wealth not",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Warren Buffett once said that the chapter on \"Mr. Market\" is the most important thing ever written about investing. That chapter lives inside this book, but Benjamin Graham's masterpiece isn't really about the stock market. It's about your relationship with your own mind \u2014 how to think clearly when everyone around you is losing theirs, and how to build wealth not.",
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "publicationDate": "1949-01-01",
+      "description": "The definitive book on value investing.",
       "tags": [
-        "Self-help"
+        "Finance",
+        "Investing",
+        "Business"
       ],
       "coverImagePath": "books/the-intelligent-investor/cover.png",
       "summariesPath": {
         "en": "books/the-intelligent-investor/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.593201",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125973Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "the-lean-startup",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "publicationDate": "2011-09-13",
+      "description": "How today's entrepreneurs use continuous innovation to create radically successful businesses.",
+      "tags": [
+        "Business",
+        "Entrepreneurship",
+        "Startups"
+      ],
+      "coverImagePath": "books/the-lean-startup/cover.png",
+      "summariesPath": {
+        "en": "books/the-lean-startup/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.125974Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-millionaire-next-door",
       "title": "The Millionaire Next Door",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Millionaire Next Door.",
+      "author": "Thomas Stanley",
+      "publicationDate": "1996-10-01",
+      "description": "The surprising secrets of America's wealthy.",
       "tags": [
-        "Self-help"
+        "Finance",
+        "Self-help",
+        "Business"
       ],
       "coverImagePath": "books/the-millionaire-next-door/cover.png",
       "summariesPath": {
         "en": "books/the-millionaire-next-door/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.593391",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125977Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-mountain-is-you",
       "title": "The Mountain Is You",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Mountain Is You.",
+      "author": "Brianna Wiest",
+      "publicationDate": "2020-12-01",
+      "description": "Transforming self-sabotage into self-mastery.",
       "tags": [
-        "Self-help"
+        "Self-help",
+        "Psychology",
+        "Personal Development"
       ],
       "coverImagePath": "books/the-mountain-is-you/cover.png",
       "summariesPath": {
         "en": "books/the-mountain-is-you/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.593577",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125978Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-obstacle-is-the-way",
-      "title": "The Obstacle Is The Way",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Obstacle Is The Way.",
+      "title": "The Obstacle Is the Way",
+      "author": "Ryan Holiday",
+      "publicationDate": "2014-05-01",
+      "description": "The timeless art of turning trials into triumph.",
       "tags": [
+        "Philosophy",
+        "Stoicism",
         "Self-help"
       ],
       "coverImagePath": "books/the-obstacle-is-the-way/cover.png",
@@ -1487,84 +1593,113 @@
         "en": "books/the-obstacle-is-the-way/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.593728",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125979Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-power-of-now",
-      "title": "The Power Of Now",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Power Of Now.",
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "publicationDate": "1997-01-01",
+      "description": "A guide to spiritual enlightenment.",
       "tags": [
-        "Self-help"
+        "Spirituality",
+        "Self-help",
+        "Mindfulness"
       ],
       "coverImagePath": "books/the-power-of-now/cover.png",
       "summariesPath": {
         "en": "books/the-power-of-now/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.593899",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125982Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-prophet",
-      "title": "A ship is finally coming. After twelve long years in the city of Orphalese, the prophet Almustafa stands on the hill overlooking the harbor, watching the vessel that will carry him home. The people of the city have grown to love him, this quiet stranger who arrived on their shores so long ago, and they do not want him to leave. As word spreads that the ship has arrived, they gather around him, and one",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of A ship is finally coming. After twelve long years in the city of Orphalese, the prophet Almustafa stands on the hill overlooking the harbor, watching the vessel that will carry him home. The people of the city have grown to love him, this quiet stranger who arrived on their shores so long ago, and they do not want him to leave. As word spreads that the ship has arrived, they gather around him, and one.",
+      "title": "The Prophet",
+      "author": "Kahlil Gibran",
+      "publicationDate": "1923-01-01",
+      "description": "A timeless classic on love, work, and life.",
       "tags": [
-        "Self-help"
+        "Philosophy",
+        "Poetry",
+        "Spirituality"
       ],
       "coverImagePath": "books/the-prophet/cover.png",
       "summariesPath": {
         "en": "books/the-prophet/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.594057",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125985Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-proximity-principle",
-      "title": "You can send out a hundred polished r\u00e9sum\u00e9s, tailor each cover letter",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of You can send out a hundred polished r\u00e9sum\u00e9s, tailor each cover letter.",
+      "title": "The Proximity Principle",
+      "author": "Ken Coleman",
+      "publicationDate": "2019-05-07",
+      "description": "The proven strategy that will lead to the career you love.",
       "tags": [
-        "Self-help"
+        "Career",
+        "Self-help",
+        "Business"
       ],
       "coverImagePath": "books/the-proximity-principle/cover.png",
       "summariesPath": {
         "en": "books/the-proximity-principle/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.594210",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125987Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "the-psychology-of-money",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "publicationDate": "2020-09-08",
+      "description": "Timeless lessons on wealth, greed, and happiness.",
+      "tags": [
+        "Finance",
+        "Psychology",
+        "Self-help"
+      ],
+      "coverImagePath": "books/the-psychology-of-money/cover.png",
+      "summariesPath": {
+        "en": "books/the-psychology-of-money/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.125988Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-richest-man-in-babylon",
-      "title": "The Richest Man In Babylon",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Richest Man In Babylon.",
+      "title": "The Richest Man in Babylon",
+      "author": "George S. Clason",
+      "publicationDate": "1926-01-01",
+      "description": "The success secrets of the ancients.",
       "tags": [
-        "Self-help"
+        "Finance",
+        "Self-help",
+        "Business"
       ],
       "coverImagePath": "books/the-richest-man-in-babylon/cover.png",
       "summariesPath": {
         "en": "books/the-richest-man-in-babylon/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.594362",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125990Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-simple-path-to-wealth",
-      "title": "The Simple Path To Wealth",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Simple Path To Wealth.",
+      "title": "The Simple Path to Wealth",
+      "author": "JL Collins",
+      "publicationDate": "2016-06-01",
+      "description": "Your road map to financial independence and a rich, free life.",
       "tags": [
+        "Finance",
+        "Investing",
         "Self-help"
       ],
       "coverImagePath": "books/the-simple-path-to-wealth/cover.png",
@@ -1572,229 +1707,274 @@
         "en": "books/the-simple-path-to-wealth/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.594501",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125992Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-subtle-art-of-not-giving-a-fck",
-      "title": "The Subtle Art Of Not Giving A Fck",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Subtle Art Of Not Giving A Fck.",
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "publicationDate": "2016-09-13",
+      "description": "A counterintuitive approach to living a good life.",
       "tags": [
-        "Self-help"
+        "Self-help",
+        "Philosophy",
+        "Personal Development"
       ],
       "coverImagePath": "books/the-subtle-art-of-not-giving-a-fck/cover.png",
       "summariesPath": {
         "en": "books/the-subtle-art-of-not-giving-a-fck/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.594636",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125993Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-total-money-makeover",
       "title": "The Total Money Makeover",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Total Money Makeover.",
+      "author": "Dave Ramsey",
+      "publicationDate": "2003-01-01",
+      "description": "A proven plan for financial fitness.",
       "tags": [
-        "Self-help"
+        "Finance",
+        "Self-help",
+        "Personal Development"
       ],
       "coverImagePath": "books/the-total-money-makeover/cover.png",
       "summariesPath": {
         "en": "books/the-total-money-makeover/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.594778",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125994Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-universe-has-your-back",
-      "title": "You wake up in the morning, and before your feet touch the floor, your mind has already scanned the horizon for threats. Will I get that job? Is my partner upset with me? What if the economy crashes? What if I get sick? This isn't a sign that something is wrong with you. It's a sign that you have been trained \u2014",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of You wake up in the morning, and before your feet touch the floor, your mind has already scanned the horizon for threats. Will I get that job? Is my partner upset with me? What if the economy crashes? What if I get sick? This isn't a sign that something is wrong with you. It's a sign that you have been trained \u2014.",
+      "title": "The Universe Has Your Back",
+      "author": "Gabrielle Bernstein",
+      "publicationDate": "2016-01-01",
+      "description": "Transform fear to faith.",
       "tags": [
-        "Self-help"
+        "Spirituality",
+        "Self-help",
+        "Mindfulness"
       ],
       "coverImagePath": "books/the-universe-has-your-back/cover.png",
       "summariesPath": {
         "en": "books/the-universe-has-your-back/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.594919",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125995Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-untethered-soul",
       "title": "The Untethered Soul",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The Untethered Soul.",
+      "author": "Michael A. Singer",
+      "publicationDate": "2007-10-03",
+      "description": "The journey beyond yourself.",
       "tags": [
-        "Self-help"
+        "Spirituality",
+        "Self-help",
+        "Mindfulness"
       ],
       "coverImagePath": "books/the-untethered-soul/cover.png",
       "summariesPath": {
         "en": "books/the-untethered-soul/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.595069",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.125998Z",
+      "version": "2.0.0"
     },
     {
       "id": "the-war-of-art",
-      "title": "The War Of Art",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of The War Of Art.",
+      "title": "The War of Art",
+      "author": "Steven Pressfield",
+      "publicationDate": "2002-01-01",
+      "description": "Break through the blocks and win your inner creative battles.",
       "tags": [
-        "Self-help"
+        "Creativity",
+        "Self-help",
+        "Writing"
       ],
       "coverImagePath": "books/the-war-of-art/cover.png",
       "summariesPath": {
         "en": "books/the-war-of-art/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.595218",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.126001Z",
+      "version": "2.0.0"
     },
     {
       "id": "think-and-grow-rich",
-      "title": "Think And Grow Rich",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Think And Grow Rich.",
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "publicationDate": "1937-01-01",
+      "description": "The classic guide to personal achievement.",
       "tags": [
-        "Self-help"
+        "Self-help",
+        "Business",
+        "Personal Development"
       ],
       "coverImagePath": "books/think-and-grow-rich/cover.png",
       "summariesPath": {
         "en": "books/think-and-grow-rich/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.595356",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.126002Z",
+      "version": "2.0.0"
     },
     {
       "id": "thinking-fast-and-slow",
-      "title": "Thinking Fast And Slow",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Thinking Fast And Slow.",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "publicationDate": "2011-10-25",
+      "description": "The two systems that drive the way we think.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Behavioral Economics",
+        "Science"
       ],
       "coverImagePath": "books/thinking-fast-and-slow/cover.png",
       "summariesPath": {
         "en": "books/thinking-fast-and-slow/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.595500",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.126004Z",
+      "version": "2.0.0"
     },
     {
       "id": "thinking-in-bets",
-      "title": "Annie Duke made her living in a world where the smartest people in the room lose more than half the time. As a professional poker player with a World Series of Poker bracelet and a cognitive psychology background from Columbia, she'd watched brilliant minds crumble because they couldn't tell the difference between a good decision and a lucky outcome. That confusion \u2014 judging the quality of a decision",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Annie Duke made her living in a world where the smartest people in the room lose more than half the time. As a professional poker player with a World Series of Poker bracelet and a cognitive psychology background from Columbia, she'd watched brilliant minds crumble because they couldn't tell the difference between a good decision and a lucky outcome. That confusion \u2014 judging the quality of a decision.",
+      "title": "Thinking in Bets",
+      "author": "Annie Duke",
+      "publicationDate": "2018-02-06",
+      "description": "Making smarter decisions when you don't have all the facts.",
       "tags": [
-        "Self-help"
+        "Psychology",
+        "Decision Making",
+        "Business"
       ],
       "coverImagePath": "books/thinking-in-bets/cover.png",
       "summariesPath": {
         "en": "books/thinking-in-bets/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.595649",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.126005Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "time-management",
+      "title": "Time Management",
+      "author": "Brian Tracy",
+      "publicationDate": "2004-01-01",
+      "description": "Practical strategies to prioritize tasks, boost productivity, and achieve goals.",
+      "tags": [
+        "Self-help",
+        "Productivity",
+        "Business"
+      ],
+      "coverImagePath": "books/time-management/cover.png",
+      "summariesPath": {
+        "en": "books/time-management/summary.md"
+      },
+      "isbn": "",
+      "updatedAt": "2026-05-04T04:31:10.126006Z",
+      "version": "2.0.0"
     },
     {
       "id": "unstressable",
       "title": "Unstressable",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Unstressable.",
+      "author": "Mo Gawdat & Alice Law",
+      "publicationDate": "2024-01-01",
+      "description": "A practical guide to stress-free living.",
       "tags": [
-        "Self-help"
+        "Self-help",
+        "Mental Health",
+        "Productivity"
       ],
       "coverImagePath": "books/unstressable/cover.png",
       "summariesPath": {
         "en": "books/unstressable/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.595799",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.126007Z",
+      "version": "2.0.0"
     },
     {
       "id": "wintering",
       "title": "Wintering",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Wintering.",
+      "author": "Katherine May",
+      "publicationDate": "2020-01-01",
+      "description": "The power of rest and retreat in difficult times.",
       "tags": [
-        "Self-help"
+        "Memoir",
+        "Self-help",
+        "Philosophy"
       ],
       "coverImagePath": "books/wintering/cover.png",
       "summariesPath": {
         "en": "books/wintering/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.595922",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.126008Z",
+      "version": "2.0.0"
     },
     {
       "id": "you-are-a-badass",
-      "title": "You Are A Badass",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of You Are A Badass.",
+      "title": "You Are a Badass",
+      "author": "Jen Sincero",
+      "publicationDate": "2013-04-23",
+      "description": "How to stop doubting your greatness and start living an awesome life.",
       "tags": [
-        "Self-help"
+        "Self-help",
+        "Personal Development",
+        "Motivation"
       ],
       "coverImagePath": "books/you-are-a-badass/cover.png",
       "summariesPath": {
         "en": "books/you-are-a-badass/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.596052",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.126010Z",
+      "version": "2.0.0"
     },
     {
       "id": "zen-and-the-art-of-motorcycle-maintenance",
-      "title": "Zen And The Art Of Motorcycle Maintenance",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Zen And The Art Of Motorcycle Maintenance.",
+      "title": "Zen and the Art of Motorcycle Maintenance",
+      "author": "Robert Pirsig",
+      "publicationDate": "1974-01-01",
+      "description": "An inquiry into values.",
       "tags": [
-        "Self-help"
+        "Philosophy",
+        "Memoir",
+        "Spirituality"
       ],
       "coverImagePath": "books/zen-and-the-art-of-motorcycle-maintenance/cover.png",
       "summariesPath": {
         "en": "books/zen-and-the-art-of-motorcycle-maintenance/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.596182",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.126011Z",
+      "version": "2.0.0"
     },
     {
       "id": "zero-to-one",
-      "title": "Zero To One",
-      "author": "",
-      "publicationDate": "",
-      "description": "Summary of Zero To One.",
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "publicationDate": "2014-09-16",
+      "description": "Notes on startups, or how to build the future.",
       "tags": [
-        "Self-help"
+        "Business",
+        "Entrepreneurship",
+        "Technology"
       ],
       "coverImagePath": "books/zero-to-one/cover.png",
       "summariesPath": {
         "en": "books/zero-to-one/summary.md"
       },
       "isbn": "",
-      "updatedAt": "2026-05-04T04:20:45.596302",
-      "version": "1.0.0"
+      "updatedAt": "2026-05-04T04:31:10.126012Z",
+      "version": "2.0.0"
     }
   ]
 }
