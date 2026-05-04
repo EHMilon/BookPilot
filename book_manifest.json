@@ -23,7 +23,7 @@
       "tags": ["Spirituality", "Self-help", "Mindfulness"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/a-new-earth/summary.md" },
-      "isbn": "9780452289963",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125844Z",
       "version": "2.0.0"
     },
@@ -62,7 +62,7 @@
       "tags": ["Spirituality", "Self-help", "Mindfulness"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/be-here-now/summary.md" },
-      "isbn": "9780517543054",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125850Z",
       "version": "2.0.0"
     },
@@ -127,7 +127,7 @@
       "tags": ["Psychology", "Communication", "Self-help"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/captivate/summary.md" },
-      "isbn": "9780593083895",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125860Z",
       "version": "2.0.0"
     },
@@ -140,7 +140,7 @@
       "tags": ["Creativity", "Business", "Self-help"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/creative-confidence/summary.md" },
-      "isbn": "9780385349376",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125862Z",
       "version": "2.0.0"
     },
@@ -166,7 +166,7 @@
       "tags": ["Psychology", "Self-help", "Personal Development"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/daring-greatly/summary.md" },
-      "isbn": "9781592408412",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125864Z",
       "version": "2.0.0"
     },
@@ -179,7 +179,7 @@
       "tags": ["Psychology", "Education", "Self-help"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/dealing-with-feeling/summary.md" },
-      "isbn": "9781250212191",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125865Z",
       "version": "2.0.0"
     },
@@ -270,7 +270,7 @@
       "tags": ["Mental Health", "Memoir", "Self-help"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/first-we-make-the-beast-beautiful/summary.md" },
-      "isbn": "9780062836830",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125876Z",
       "version": "2.0.0"
     },
@@ -309,7 +309,7 @@
       "tags": ["Productivity", "Business", "Self-help"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/getting-things-done/summary.md" },
-      "isbn": "9780142000281",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125881Z",
       "version": "2.0.0"
     },
@@ -387,7 +387,7 @@
       "tags": ["Communication", "Self-help", "Business"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/how-to-say-it/summary.md" },
-      "isbn": "9780735204539",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125893Z",
       "version": "2.0.0"
     },
@@ -465,7 +465,7 @@
       "tags": ["Business", "Leadership", "Psychology"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/leaders-eat-last/summary.md" },
-      "isbn": "9781591848016",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125903Z",
       "version": "2.0.0"
     },
@@ -491,7 +491,7 @@
       "tags": ["Philosophy", "Self-help", "Spirituality"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/love-for-imperfect-things/summary.md" },
-      "isbn": "9780143132172",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125905Z",
       "version": "2.0.0"
     },
@@ -543,7 +543,7 @@
       "tags": ["Psychology", "Science", "Self-help"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/me-but-better/summary.md" },
-      "isbn": "9781668010594",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125910Z",
       "version": "2.0.0"
     },
@@ -569,7 +569,7 @@
       "tags": ["Psychology", "Self-help", "Education"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/mindset/summary.md" },
-      "isbn": "9780345472328",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125913Z",
       "version": "2.0.0"
     },
@@ -647,7 +647,7 @@
       "tags": ["Spirituality", "Psychology", "Mindfulness"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/radical-acceptance/summary.md" },
-      "isbn": "9780553380996",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125923Z",
       "version": "2.0.0"
     },
@@ -673,7 +673,7 @@
       "tags": ["Finance", "Investing", "Biography"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/richer-wiser-happier/summary.md" },
-      "isbn": "9781982154691",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125926Z",
       "version": "2.0.0"
     },
@@ -712,7 +712,7 @@
       "tags": ["Self-help", "Philosophy", "Happiness"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/solve-for-happy/summary.md" },
-      "isbn": "9781250116116",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125933Z",
       "version": "2.0.0"
     },
@@ -725,7 +725,7 @@
       "tags": ["Creativity", "Art", "Self-help"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/start-painting-now/summary.md" },
-      "isbn": "",
+      "isbn": "9781529084931",
       "updatedAt": "2026-05-04T04:31:10.125934Z",
       "version": "2.0.0"
     },
@@ -751,7 +751,7 @@
       "tags": ["Spirituality", "Self-help", "Mindfulness"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/stay-woke/summary.md" },
-      "isbn": "9781683643456",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125938Z",
       "version": "2.0.0"
     },
@@ -764,7 +764,7 @@
       "tags": ["Creativity", "Self-help", "Art"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/steal-like-an-artist/summary.md" },
-      "isbn": "9780761169253",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125939Z",
       "version": "2.0.0"
     },
@@ -777,7 +777,7 @@
       "tags": ["Psychology", "Self-help", "Mental Health"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/stop-overthinking/summary.md" },
-      "isbn": "9781647012625",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125940Z",
       "version": "2.0.0"
     },
@@ -803,7 +803,7 @@
       "tags": ["Psychology", "Self-help", "Mental Health"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/that-little-voice-in-your-head/summary.md" },
-      "isbn": "9781250279811",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125943Z",
       "version": "2.0.0"
     },
@@ -1011,7 +1011,7 @@
       "tags": ["Creativity", "Nature", "Art"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/the-green-sketching-handbook/summary.md" },
-      "isbn": "",
+      "isbn": "9781529070309",
       "updatedAt": "2026-05-04T04:31:10.125971Z",
       "version": "2.0.0"
     },
@@ -1128,7 +1128,7 @@
       "tags": ["Career", "Self-help", "Business"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/the-proximity-principle/summary.md" },
-      "isbn": "9780718098483",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.125987Z",
       "version": "2.0.0"
     },
@@ -1271,7 +1271,7 @@
       "tags": ["Psychology", "Decision Making", "Business"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/thinking-in-bets/summary.md" },
-      "isbn": "9780735216358",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.126005Z",
       "version": "2.0.0"
     },
@@ -1297,7 +1297,7 @@
       "tags": ["Self-help", "Mental Health", "Productivity"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/unstressable/summary.md" },
-      "isbn": "9781250906359",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.126007Z",
       "version": "2.0.0"
     },
@@ -1336,7 +1336,7 @@
       "tags": ["Philosophy", "Memoir", "Spirituality"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/zen-and-the-art-of-motorcycle-maintenance/summary.md" },
-      "isbn": "9780060589469",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.126011Z",
       "version": "2.0.0"
     },
@@ -1349,7 +1349,7 @@
       "tags": ["Business", "Entrepreneurship", "Technology"],
       "coverImagePath": "",
       "summariesPath": { "en": "books/zero-to-one/summary.md" },
-      "isbn": "9780804139021",
+      "isbn": "",
       "updatedAt": "2026-05-04T04:31:10.126012Z",
       "version": "2.0.0"
     }
