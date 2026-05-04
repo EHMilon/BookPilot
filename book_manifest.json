@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T04:31:10.125817Z",
+  "lastUpdated": "2026-05-04T04:31:10.125917Z",
   "books": [
     {
       "id": "12-rules-for-life",
@@ -46,6 +46,7 @@
       "publicationDate": "2018-10-16",
       "description": "An easy and proven way to build good habits and break bad ones.",
       "tags": [
+        "feature",
         "Self-help",
         "Personal Development",
         "Psychology"
@@ -274,6 +275,7 @@
       "publicationDate": "2016-01-05",
       "description": "Rules for focused success in a distracted world.",
       "tags": [
+        "feature",
         "Productivity",
         "Business",
         "Self-help"
@@ -502,6 +504,7 @@
       "publicationDate": "2014-01-01",
       "description": "How to build habit-forming products.",
       "tags": [
+        "feature",
         "Business",
         "Psychology",
         "Technology"
@@ -843,6 +846,7 @@
       "publicationDate": "2016-05-17",
       "description": "Negotiating as if your life depended on it.",
       "tags": [
+        "feature",
         "Business",
         "Negotiation",
         "Psychology"
@@ -995,6 +999,7 @@
       "publicationDate": "1937-01-01",
       "description": "Timeless wisdom for achieving success.",
       "tags": [
+        "feature",
         "Self-help",
         "Motivation",
         "Personal Development"
@@ -1147,6 +1152,7 @@
       "publicationDate": "2014-01-01",
       "description": "The four types of human behavior and how to effectively communicate with each.",
       "tags": [
+        "feature",
         "Psychology",
         "Self-help",
         "Communication"
@@ -1280,6 +1286,7 @@
       "publicationDate": "1988-04-15",
       "description": "A fable about following your dream.",
       "tags": [
+        "feature",
         "Fiction",
         "Philosophy",
         "Self-discovery"
@@ -1527,6 +1534,7 @@
       "publicationDate": "2011-09-13",
       "description": "How today's entrepreneurs use continuous innovation to create radically successful businesses.",
       "tags": [
+        "feature",
         "Business",
         "Entrepreneurship",
         "Startups"
@@ -1869,6 +1877,7 @@
       "publicationDate": "2004-01-01",
       "description": "Practical strategies to prioritize tasks, boost productivity, and achieve goals.",
       "tags": [
+        "feature",
         "Self-help",
         "Productivity",
         "Business"
