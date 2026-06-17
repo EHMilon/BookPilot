@@ -1,5 +1,4 @@
-**Pages:** 256
-**ISBN:** 978-1-59184-778-6
+978-1-59184-778-6
 
 Nir Eyal's wife looked him in the eye and said, "I'm endlessly loyal." She wasn't talking about their marriage — she was pledging allegiance to a piece of software. That moment cracked something open for Eyal. Why do some products get that kind of devotion while others die on the download screen? Eyal, a Stanford-trained behavioral designer and former ad-tech founder, spent years reverse-engineering the psychological loop behind products people can't quit — Facebook, Instagram, Twitter, Pinterest, the Bible app on your phone. *Hooked* is his answer: a four-step model that explains why we check our phones 150 times a day, and how any product designer can build that same compulsion into their own creation.
 
@@ -9,7 +8,7 @@ Here's the counter-intuitive bit: habits aren't built when we're excited or deli
 
 > "Once a technology has created an association in users' minds that the product is the solution of choice, they return on their own, no longer needing prompts from external triggers."
 
-**The Trap / Friction:** Teams obsess over one-time "a-ha moments" — the onboarding, the first impression — and forget that a habit demands *repetition*. A great first experience is worthless if the user never comes back. The hard work is not the launch; it's engineering the fourth, fifth, and fiftieth visit.
+Teams obsess over one-time "a-ha moments" — the onboarding, the first impression — and forget that a habit demands *repetition*. A great first experience is worthless if the user never comes back. The hard work is not the launch; it's engineering the fourth, fifth, and fiftieth visit.
 
 The Hook Model starts with a **Trigger**, and Eyal splits it into two flavors. **External triggers** are the obvious ones: a push notification, an email, a red badge, an ad. They tell the user what to do next. But they're expensive — you have to keep buying attention. The real prize is the **Internal trigger**.
 
@@ -31,9 +30,9 @@ Most designers obsess over motivation — bigger rewards, flashier gamification,
 
 Friction is every micro-obstacle between the trigger and the action: a login screen, a slow load time, a confusing button, too many options, a form with too many fields. Eyal's point is brutally simple: make the action so easy that the user doesn't have to think. Twitter reduced the friction of posting to 140 characters (now 280). Pinterest removed the barrier of uploading by letting users "pin" anything they found on the web. Instagram made photo filters so a mediocre shot looks good in one tap.
 
-**The counter-intuitive insight:** More features kill habits. Every new screen, button, or option is friction. The most habit-forming products are *stripped down to the bone* — they do one thing, fast, with zero mental overhead.
+More features kill habits. Every new screen, button, or option is friction. The most habit-forming products are *stripped down to the bone* — they do one thing, fast, with zero mental overhead.
 
-**The Trap / Friction:** Product teams relentlessly add features because "users asked for them" or "the competitor has it." Each addition breaks the habit loop by increasing cognitive load. The discipline is not in adding — it's in removing. If a user can't perform the core action in under three seconds, your habit loop is dead.
+Product teams relentlessly add features because "users asked for them" or "the competitor has it." Each addition breaks the habit loop by increasing cognitive load. The discipline is not in adding — it's in removing. If a user can't perform the core action in under three seconds, your habit loop is dead.
 
 This is the heart of the Hook Model and the most controversial piece. After the user acts, they expect a **Reward**. But not just any reward — a *variable* one. Predictable rewards get boring. The same notification sound, the same feed layout, the same outcome — the brain habituates and tunes out. But when the reward is *unpredictable*, dopamine surges.
 
@@ -47,7 +46,7 @@ Eyal categorizes variable rewards into three types:
 
 The brain treats *the anticipation* of a variable reward as more powerful than the reward itself. This is why slot machines are the most addictive gambling format — and why your infinite scroll feed is structurally identical to a Vegas machine.
 
-**The Trap / Friction:** Teams slap on superficial variability — random badges, surprise discounts, generic push notifications — without understanding *which* type of reward their product naturally delivers. The right variable reward is baked into the product's core use, not pasted on as an afterthought. A variable reward that doesn't connect to the user's internal trigger is noise, not magic.
+Teams slap on superficial variability — random badges, surprise discounts, generic push notifications — without understanding *which* type of reward their product naturally delivers. The right variable reward is baked into the product's core use, not pasted on as an afterthought. A variable reward that doesn't connect to the user's internal trigger is noise, not magic.
 
 The final phase is the most misunderstood. **Investment** isn't about the user *receiving* something — it's about the user *putting* something in. Data, time, money, reputation, content, followers. The more they invest, the more valuable the service becomes to *them* — and the harder it becomes to leave.
 
@@ -59,7 +58,7 @@ Eyal calls this "stored value" — the user's investments make the product bette
 
 The Investment phase closes the loop back to the Trigger. A user who has invested in your product will experience more frequent internal triggers — they'll *anticipate* the next variable reward, they'll *feel* the itch of unfinished business. The loop becomes self-sustaining.
 
-**The Trap / Friction:** Designers treat the investment phase as an afterthought — "we'll add saving/bookmarking/following later." But without investment, the habit loop is a dead cycle. Users come, get a reward, and leave forever. No stored value means no returning trigger. Make your product worth the user's investment from day one.
+Designers treat the investment phase as an afterthought — "we'll add saving/bookmarking/following later." But without investment, the habit loop is a dead cycle. Users come, get a reward, and leave forever. No stored value means no returning trigger. Make your product worth the user's investment from day one.
 
 Eyal devotes a chapter to the ethics of the Hook Model, and this is where the book gets uncomfortable — on purpose. He proposes two questions for any product builder:
 
@@ -70,17 +69,17 @@ If the answer to both is yes, Eyal argues, you're building a *habit-forming* pro
 
 Eyal's own stance leans heavily into personal responsibility — he argues that tech addiction is a "you problem" more than a product design problem. This has drawn sharp criticism, with researchers likening it to the tobacco industry's "individual choice" deflection. The book recognizes the moral tension but doesn't resolve it, which is both honest and evasive.
 
-**The Trap / Friction:** The easy trap is to either (a) ignore ethics entirely and engineer compulsion at any human cost, or (b) avoid building habit-forming mechanisms out of guilt. The nuanced middle — building habits that align with genuine user welfare — requires a ruthless honesty most teams lack. The framework works just as well for a Bible app as for a gambling app. The mechanism doesn't care about your intentions.
+The easy trap is to either (a) ignore ethics entirely and engineer compulsion at any human cost, or (b) avoid building habit-forming mechanisms out of guilt. The nuanced middle — building habits that align with genuine user welfare — requires a ruthless honesty most teams lack. The framework works just as well for a Bible app as for a gambling app. The mechanism doesn't care about your intentions.
 
 The biggest shift *Hooked* demands is this: **stop asking "what features do users want?" and start asking "what emotional itch are they scratching?"** Most product teams operate in a feature-adding assembly line — survey, prioritize, build, ship, repeat. Eyal upends that: find the internal trigger first, then strip everything down to the fastest path from that feeling to a variable reward. Features are not the product. The *loop* is the product. Every feature that doesn't serve the loop is dead weight.
 
-**Hour 1:** Open a blank document and write down every negative emotion your users feel in a typical day — bored, lonely, uncertain, anxious, overwhelmed, inadequate, tired. Circle the three most intense ones.
+Open a blank document and write down every negative emotion your users feel in a typical day — bored, lonely, uncertain, anxious, overwhelmed, inadequate, tired. Circle the three most intense ones.
 
-**Hours 2–4:** Audit your product's friction. Open your own app and time every micro-step from trigger to core action: splash screen (__ sec), login (__ sec), search (__ sec), content load (__ sec). Identify the three slowest, most confusing, or most unnecessary steps. Eliminate or truncate at least one of them within 48 hours — even if it's a "feature" someone fought for.
+Audit your product's friction. Open your own app and time every micro-step from trigger to core action: splash screen (__ sec), login (__ sec), search (__ sec), content load (__ sec). Identify the three slowest, most confusing, or most unnecessary steps. Eliminate or truncate at least one of them within 48 hours — even if it's a "feature" someone fought for.
 
-**Hours 5–24:** Map your product's variable rewards. Which of the three types (tribe, hunt, self) does your core action deliver? If you can't name it clearly, schedule a 30-minute user session and ask: "What makes you come back? What are you hoping to find?" Don't guess. Watch them.
+Map your product's variable rewards. Which of the three types (tribe, hunt, self) does your core action deliver? If you can't name it clearly, schedule a 30-minute user session and ask: "What makes you come back? What are you hoping to find?" Don't guess. Watch them.
 
-**Hours 25–48:** Design one "investment moment" for new users. What's the smallest thing they can put into your product on first visit — a saved item, a follow, a preference, a piece of content — that will make the experience *personally* better when they return? Ship it in the next release, not three sprints from now.
+Design one "investment moment" for new users. What's the smallest thing they can put into your product on first visit — a saved item, a follow, a preference, a piece of content — that will make the experience *personally* better when they return? Ship it in the next release, not three sprints from now.
 
 The biggest weakness of *Hooked* is its shallow treatment of ethics. Eyal asks product builders to be moral without giving them real tools for moral accountability — no audit framework, no independent review process, no "harm metric." The two-question test is too easy to lie to. (Nearly every founder believes their product improves lives.)
 

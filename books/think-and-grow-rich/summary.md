@@ -1,7 +1,3 @@
-**Genre:** Self-Help / Personal Development / Philosophy
-**Pages:** 233
-**Copies Sold:** 70+ million worldwide
-
 A man named R. U. Darby was gripped by gold fever during the great California Gold Rush. He staked a claim, dug for weeks, and found nothing. Exhausted and broke, he sold his equipment to a junk man for a few hundred dollars and went home. The junk man brought in a mining engineer, who calculated that the vein was three feet further. The junk man dug three feet and struck gold — worth millions. Darby had stopped three feet from the gold because he listened to the doubt that grows louder the closer you get to a breakthrough. Napoleon Hill collected this story in 1937, and it became the emotional anchor for a book that has sold more copies than almost any other in history — a book about the one quality that separates those who succeed from those who stop three feet from the gold.
 
 Hill spent twenty years researching the book, at the behest of Andrew Carnegie, one of the richest men in American history. Carnegie was not sentimental about wealth. He believed that the principles of success could be reduced to a formula and taught like any other subject. He commissioned Hill to interview over five hundred of the most successful people of the era — Henry Ford, Thomas Edison, Theodore Roosevelt, John D. Rockefeller, Alexander Graham Bell — and distill their shared patterns into a philosophy. What Hill produced was not a book about money. It was a book about the mind. Money was just the evidence.
@@ -31,8 +27,6 @@ The later chapters of the book explore the role of organized planning, decision-
 > "More gold has been mined from the thoughts of men than has been taken from the earth."
 
 The honest limitation of Hill's book is that it sometimes conflates correlation with causation. His claim that "thoughts are things" and that the mind can influence external reality directly goes beyond what evidence supports. The book is a philosophy of success, not a scientific text. Read it for the practical framework: define your aim, commit with burning desire, surround yourself with allies, persist past the point where everyone else quits. The mystical framing can be set aside without losing the substance. The substance — that clarity, obsession, environment, and persistence are the four pillars of extraordinary achievement — has held up for nearly a century and will hold up for another.
-
-**The 48-Hour Implementation Plan**
 
 Within the first 24 hours, write your **Definite Chief Aim** on a single index card. Be specific: "I will earn [exact amount] by [exact date] by [exact method]." Sign it. Read it aloud three times — once in the morning, once at midday, once at night. When you read it, do not just speak the words. Close your eyes and see yourself already in possession of what you've written. Feel the feeling of having achieved it. Your brain cannot distinguish this visualization from the real thing — it's planting the seed your subconscious will water overnight.
 

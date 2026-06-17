@@ -1,0 +1,37 @@
+There's a strange silence at the center of most yoga classes. You're in a room full of people doing intensely physical things — bending, twisting, inverting, sweating — and almost no one is talking about the body. They're talking about alignment. They're talking about breath. They're talking about intention, energy, opening the heart. But the body itself — the flesh, the bones, the sensation, the strange experience of being a self that is also a body — remains unspoken, almost taboo. *The Body in Yoga* breaks that silence, and the result is one of the most uncomfortable and necessary conversations the yoga world has been avoiding.
+
+The book starts with a deceptively simple question: what is the body? Not from an anatomical perspective — there are plenty of books for that — but from an experiential one. What does it mean to be embodied? How do we know where our body ends and the world begins? Why does the body feel like "me" sometimes and like "a thing I'm carrying around" at other times?
+
+Here's a strange observation the book makes early: the people most obsessed with their bodies — the ones who spend hours on the mat, who track their flexibility metrics, who compare their pose depth to the person next to them — are often the most disembodied. They are in their heads about their bodies, constantly evaluating, critiquing, and strategizing. They are in a relationship *with* their body, not in a state *of* embodiment.
+
+This distinction runs through the entire book. Embodiment is not the same as bodily awareness. Bodily awareness is cognitive — you know about your body. Embodiment is experiential — you live from your body. The difference is between looking at a map and walking the terrain. The book's mission, stated or not, is to move the reader from map-reading to terrain-walking.
+
+The book's most destabilizing insight comes early: your mental map of your body — what neuroscientists call the body schema — is wildly inaccurate. You feel your body as a continuous, bounded, stable object. But the reality is that your body replaces its cells on a regular schedule; your skin, your stomach lining, even your bones are constantly being rebuilt. The body you had seven years ago is structurally different from the body you have now. And yet you experience yourself as the same person.
+
+The book explores this through the lens of interoception — the sense of the internal state of the body. Most of us have poor interoceptive awareness. We can't feel our organs. We misinterpret signals from our gut as anxiety. We override body signals with willpower. Yoga, the book argues, is fundamentally a practice of training interoception — learning to feel what is actually happening inside rather than what you think should be happening.
+
+"The yogi who can feel the subtle difference between the right and left side of their spine," the author writes, "has developed a capacity that most humans don't know exists. And that capacity changes everything — not just about their practice, but about how they make decisions, how they relate to their emotions, and how they inhabit their life."
+
+This is the book's most practically useful section. The author distinguishes between sensation (what the body actually feels) and the story we attach to it. A sharp sensation in the lower back during a forward fold is a sensation. The immediate thought — "I'm breaking myself, this is dangerous, I need to stop" — is a story. The book's claim is that most yoga injuries happen not because of the sensation but because of the story. People push through pain because they think they should be able to do a pose. Or they pull out of a stretch because they're afraid of a sensation that is actually harmless.
+
+The book offers a protocol for working with sensation:
+1. Locate the sensation precisely (not "my back hurts" but "two inches right of my L3 vertebra, a dull aching quality")
+2. Describe its qualities (burning, stretching, sharp, dull, pulsing, constant)
+3. Observe how it changes over the course of a breath cycle
+4. Separate the sensation from your reaction to the sensation
+
+This is a radical reframing. Most people, when they feel something uncomfortable in their body, immediately try to change it — move, stretch, massage, medicate. The yogic approach, as this book presents it, is to first simply be present with the sensation without trying to change it. More often than not, the sensation changes on its own. And in that process, you discover something profound: you can be uncomfortable without being in crisis.
+
+The Trap is spiritual bypass — using this practice of observation to avoid getting medical help for genuine issues. The book is careful to distinguish between discomfort that is safe to observe (chronic tension, emotional holding) and pain that requires medical attention (acute injury, structural damage). But the distinction is subtler than a book can teach, and some readers will err in one direction or the other.
+
+The most emotionally resonant section of the book deals with the concept of samskaras — the imprints or grooves left in the mind-body by repeated experiences. In the yogic tradition, every experience leaves a trace in the body. A childhood fall leaves a pattern of guardedness. A betrayal leaves a holding pattern in the chest. A period of prolonged stress leaves permanent tension in the shoulders and jaw.
+
+Yoga, the book argues, is a technology for surfacing and releasing these imprints. The reason certain poses evoke strong emotional responses is not mysterious — the pose is compressing or stretching a part of the body where a samskara is stored. The physical practice becomes a form of psychological archaeology. You don't know what you're holding until you move into a shape that asks you to release it.
+
+The author shares the story of a practitioner who, after years of practice, broke down sobbing in a simple hip-opening pose. She couldn't explain why. She didn't have a specific memory associated with the pose. But her body released something that her mind had forgotten. "The body remembers what the mind chooses to forget," the author writes. "Yoga doesn't give you new memories. It gives you the capacity to meet the ones you already carry."
+
+The book is strong in its philosophical sections and weaker in practical application. It tells you why the body matters and how your relationship to your body shapes your experience of life, but it's thin on specific practices. A reader who comes to this book hoping for "poses to release trauma" or "sequences for embodiment" will be disappointed. The book is a conversation about the body, not a manual for working with it.
+
+The writing can also drift into abstraction. Sentences like "the body is the ground of being" and "embodiment is the gateway to presence" are true but not useful. The book needs more of the grounding it describes — more specific examples, more concrete practices, more moments where the abstract philosophy touches down into real experience.
+
+And the book has a cultural blind spot: it treats the "mind-body problem" as if it's a universal human concern when it's actually a specific preoccupation of Western philosophy. The yogic tradition never had a mind-body problem — it never separated them in the first place. The book's framing is therefore solving a problem that only exists for its Western readers, which is both its strength and its limitation.

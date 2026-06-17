@@ -8,29 +8,27 @@ Name convention Kebab-case, all lowercase
 ## book_manifest.json
 ```json
 {
-  "books": [
-    {
-      "id": "atomic-habits",
-      "title": "Atomic Habits",
-      "author": "James Clear",
-      "publicationDate": "2018-10-16",
-      "description": "An easy and proven way to build good habits and break bad ones.",
-      "tags": ["Self-help", "Personal Development", "Psychology"],
-      "coverImageUrl":"",
-      "coverImagePath": "books/atomic-habits/cover.png",
-      "summariesPath": { 
-        "en": "books/atomic-habits/summary.md",
-        "bn": "books/atomic-habits/summary-bn.md"
+      "id": "12-rules-for-life",
+      "title": "12 Rules for Life",
+      "author": "Jordan Peterson",
+      "publicationDate": "2018-01-23",
+      "description": "An antidote to chaos.",
+      "tags": [
+        "Philosophy",
+        "Psychology",
+        "Self-help"
+      ],
+      "coverImagePath": "books/12-rules-for-life/cover.png", // leave it blank
+      "summariesPath": {
+        "en": "books/12-rules-for-life/summary.md"
       },
-      "isbn": "",
-      "updatedAt": "2024-01-01T00:00:00.000Z",
-      "version": "1.0.0"
-    }
-  ],
-  "lastUpdated": "2024-01-08T12:00:00.000Z"
-}
-
+      "isbn": "", //Fill it or leave it blank
+      "updatedAt": "2026-05-04T04:31:10.125840Z",
+      "version": "2.0.0"
+    },
 ```
+
+When new books added update the book_list.md
 
 
 

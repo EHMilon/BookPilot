@@ -1,0 +1,33 @@
+The human being is the only animal that walks upright on two legs for long distances as a default mode of travel. We're not the fastest. We're not the most efficient. But we are, across evolutionary time, the species that walked itself out of Africa and into every corner of the planet. Walking is not something we do. Walking is something we are. And yet we've built a world that makes walking almost impossible—suburbs without sidewalks, cities designed for cars, a culture that treats the act of putting one foot in front of the other as either recreation or desperation.
+
+Wanderlust: A History of Walking is the book that connects these dots. It's part history, part philosophy, part memoir, part cultural criticism—and it resists categorization the way a long walk resists a destination. Rebecca Solnit spends over three hundred pages tracking the cultural significance of walking through the Western tradition, from the peripatetic philosophers of ancient Greece to the pilgrimages of medieval Europe to the urban flâneurs of nineteenth-century Paris to the American tramps and hikers of the modern era. It's a book about how we move through the world and what that movement means.
+
+Solnit's central argument is that walking is a form of thinking. The rhythm of the feet, the breath, the passing landscape—these create a state of mind that is distinct from sitting, from driving, from any other mode of being. Walking doesn't just give you time to think. Walking changes how you think. The body in motion has a way of loosening the mind, of letting connections form that don't form when you're still.
+
+She traces this idea through the history of philosophy. Aristotle taught while walking (the word "peripatetic" comes from the Greek for "walking about"). Nietzsche claimed that only ideas born from walking have value. Rousseau wrote his Confessions while walking. Kierkegaard walked the streets of Copenhagen to work out his arguments. The connection between walking and thinking is not romantic. It's structural. Walking provides a rhythm, a spatial awareness, a way of being in the world that sitting at a desk cannot replicate.
+
+*"Walking is a way of being in the world that is both active and receptive, a kind of meditation on legs, a form of prayer without words."_
+
+**The Trap:** There's a version of this argument that becomes pretentious—every walk is a spiritual practice, every step a prayer. Solnit avoids this by grounding her analysis in specific historical moments and specific bodies. Walking is not inherently meaningful. It becomes meaningful through attention, through context, through the willingness to be present in your body.
+
+The most political sections of the book explore walking as an expression of freedom and as a site of struggle. Solnit examines who has been able to walk, where, and under what conditions. Women walking alone have historically been seen as suspicious or vulnerable. Enslaved people were forbidden to walk without passes. Indigenous peoples were confined to reservations. The freedom to walk—to move through space without permission—is not a universal right. It's a privilege that has been fought for and is still contested.
+
+The chapter on the history of walking in cities is especially powerful. Solnit traces the rise of the flâneur in nineteenth-century Paris—the idle gentleman who walks the city as a connoisseur of urban life. But she also traces the exclusion of women from this role. The flâneuse, the female urban walker, was a scandalous figure. A woman alone in the city was assumed to be a prostitute, available, out of place. Walking as a simple act of freedom was not available to everyone.
+
+*"The history of walking is also a history of who has been allowed to go where, and the struggle for the right to move freely through the world is a struggle for the right to be fully human."_
+
+**The Trap:** It's easy to romanticize the freedom of walking without seeing the constraints. Solnit's book is a corrective to the idea that walking is always and everywhere liberating. It depends on who you are, where you are, and what you look like. Walking is not escape. It's a political act, even when it doesn't feel like one.
+
+Solnit devotes a substantial section to pilgrimage, and her treatment is characteristically nuanced. She sees pilgrimage not as a religious phenomenon but as a human one—the impulse to walk toward something sacred, whether that's a shrine, a mountain, or a state of mind. The pilgrimage is walking with intention, walking as offering, walking as transformation.
+
+But she also sees the paradox at the heart of pilgrimage: the more people walk the same path, the more the path changes. The Camino de Santiago, once a quiet route for the devout, is now a commercialized trail packed with tourists seeking transformation. The sacred becomes secular. The path becomes a product. Solnit doesn't condemn this evolution, but she doesn't romanticize it either. She simply documents it, with the historian's eye for unintended consequences.
+
+*"The path is always changing because the walkers are always changing it. The road is a palimpsest, written and rewritten by every traveler who passes."_
+
+**The Trap:** There's a nostalgia in some walking literature for a purer past, when walking was real. Solnit refuses this. Every era has its own form of walking, its own relationship to the road. The present is not a decline from a golden age. It's just different.
+
+Wanderlust is occasionally sprawling in a way that can frustrate readers looking for a single thesis. Solnit's essayistic style means she circles back, goes sideways, explores tangents that don't always connect. Some chapters feel like independent essays that were gathered into a book rather than building toward a coherent argument. And the book's cultural focus is overwhelmingly Western—there's little about walking traditions in Asia, Africa, or the Americas.
+
+But the sprawl is also the point. Walking itself is not linear. It meanders. The book's structure mirrors its subject. Solnit is writing the way she walks: with curiosity, with digression, with an openness to what the path reveals. If you want a straight line from A to B, read a guidebook. If you want a companion for a long walk, read this.
+
+The idea I couldn't shake after finishing this book is the simplest: that walking is not a means of transportation. It's a way of inhabiting the world. You don't walk to get somewhere. You walk to be somewhere, fully, with your whole body. And that kind of embodiment is rare in modern life. We live in our heads. Walking puts us back in our feet.

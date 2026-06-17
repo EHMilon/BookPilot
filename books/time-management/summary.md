@@ -1,5 +1,3 @@
-**"If the first thing you do each morning is to eat a live frog, you can go through the day with the satisfaction of knowing that that is probably the worst thing that is going to happen to you all day long."**
-
 Mark Twain's line gave Brian Tracy his central metaphor — and it's disgustingly accurate. Most of us spend our mornings picking at low-hanging fruit: emails, Slack messages, busywork that feels productive but isn't. Meanwhile, that one genuinely important task — the "frog" — sits on our plate, growing colder and more intimidating by the hour.
 
 Tracy built a career teaching millions how to stop this cycle. A self-made millionaire who went from washing dishes to advising Fortune 500 CEOs, he distilled decades of research into a deceptively simple system. This isn't another productivity hack collection. It's a surgical strike on the psychology of procrastination disguised as a time-management book.
@@ -17,7 +15,7 @@ The counter-intuitive insight: starting with the hard thing doesn't drain you �
 
 > *"The key to reaching high levels of performance and productivity is to develop the lifelong habit of tackling your major task first thing each morning."*
 
-**The Friction:** Your brain will generate a thousand reasons why the frog can wait. "I need more information." "I should warm up with something easier." "Actually, this could be urgent later." Recognize these as what they are — resistance dressed as reason. The only way past them is to start before your mind talks you out of it.
+Your brain will generate a thousand reasons why the frog can wait. "I need more information." "I should warm up with something easier." "Actually, this could be urgent later." Recognize these as what they are — resistance dressed as reason. The only way past them is to start before your mind talks you out of it.
 
 Tracy didn't invent the 80/20 Rule (credit goes to Italian economist Vilfredo Pareto and later Dr. Joseph Juran), but he weaponized it for daily productivity better than anyone.
 
@@ -65,9 +63,9 @@ Most people procrastinate unconsciously on the important things. Tracy wants you
 
 The trap: guilt. We feel guilty about what we're *not* doing, so we cycle between tasks, making no real progress on anything. Tracy says: the guilt of leaving a B or C task undone is the price of finishing an A. Accept it.
 
-**The Salami Slice Method:** If a task is too big to face, cut it into thin slices and do one slice at a time. You don't eat the whole salami in one bite — you cut off pieces. Big projects work the same way.
+If a task is too big to face, cut it into thin slices and do one slice at a time. You don't eat the whole salami in one bite — you cut off pieces. Big projects work the same way.
 
-**The Swiss Cheese Method:** Poke holes in a big task by doing small, scattered bits of it. Five minutes of research here, ten minutes of outlining there. Eventually, the block is porous enough to break apart.
+Poke holes in a big task by doing small, scattered bits of it. Five minutes of research here, ten minutes of outlining there. Eventually, the block is porous enough to break apart.
 
 Multitasking, Tracy argues, is a myth. What passes for multitasking is actually *task-switching* — rapidly shifting attention between tasks, losing momentum and quality with every switch. Every context switch costs an estimated 20 minutes of lost momentum.
 
@@ -104,19 +102,16 @@ The single biggest shift this book demands: **stop treating your time as somethi
 
 Most people approach their day like an empty container that needs to be filled with tasks. The better approach is thinking of your time as a limited set of chips to place on a table — every hour spent on one thing is an hour not spent on something else. That's the real cost. Once you internalize this, the trivial tasks start falling away naturally because you can *feel* their weight.
 
-**Day 1 — Morning:**
 Write down your six most important tasks for the next 24 hours.
 Number them in true priority order (1 = most important, even if hardest).
 Cross out items 4, 5, and 6 without guilt — these are tomorrow's B and C tasks.
 Close all notifications. Put your phone in another room. Start task #1 immediately.
 Work on it for 90 minutes without interruption before you allow yourself to check anything.
 
-**Day 1 — Afternoon:**
 At 2 PM, do the same exercise for the rest of your day. Re-prioritize.
 Identify one task you habitually do that contributes almost nothing. *Eliminate it permanently.*
 Before leaving work, write your top priority for tomorrow.
 
-**Day 2:**
 Repeat the morning frog ritual, but this time apply the ABCDE method to your full list.
 Delegate or eliminate everything scored D or E.
 Block 60 minutes on your calendar — call it "Frog Hour" — for uninterrupted deep work.
@@ -128,4 +123,4 @@ There's also the burnout factor. Doing your hardest task first *every* day can b
 
 Finally, the ABCDE method is only as good as your initial prioritization. If you label the wrong task as A-1, you'll waste your best energy on the wrong thing. The solution: revisit your priorities more often. What seemed like an A at 8 AM might be a C by noon. Update, don't just execute.
 
-**Bottom line:** Eat the frog. Every day. But also know when to put the frog down and look at the bigger picture.
+Eat the frog. Every day. But also know when to put the frog down and look at the bigger picture.

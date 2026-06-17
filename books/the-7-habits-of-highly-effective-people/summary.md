@@ -20,13 +20,13 @@ The seventh habit, **Sharpen the Saw**, is the one that makes all the others pos
 
 The paradigm shift Covey asks of you is this: effectiveness is not a technique you apply to the world. It is a state of being you cultivate from within. The personality ethic promises quick results through image management. The character ethic promises slow, deep growth through principle-centered living. Most people choose the shortcut. That is precisely why the long path is so valuable.
 
-**Morning of Day 1:** Sit down with a notebook and write your own funeral eulogy. Be specific. What do you want your closest relationships to say about you? How do you want to be remembered? Keep this somewhere visible.
+Sit down with a notebook and write your own funeral eulogy. Be specific. What do you want your closest relationships to say about you? How do you want to be remembered? Keep this somewhere visible.
 
-**Afternoon of Day 1:** Audit your last week. Categorize every activity into Covey's four quadrants. How much time did you spend in Quadrant II — the important but non-urgent? Identify one Quadrant II activity you will start doing this week, and schedule it into your calendar as a non-negotiable appointment with yourself.
+Audit your last week. Categorize every activity into Covey's four quadrants. How much time did you spend in Quadrant II — the important but non-urgent? Identify one Quadrant II activity you will start doing this week, and schedule it into your calendar as a non-negotiable appointment with yourself.
 
-**Morning of Day 2:** Identify your three biggest problems at work or home and classify each as direct control, indirect control, or no control. For each problem in the first two categories, write one specific action within your Circle of Influence that you can take today.
+Identify your three biggest problems at work or home and classify each as direct control, indirect control, or no control. For each problem in the first two categories, write one specific action within your Circle of Influence that you can take today.
 
-**Afternoon of Day 2:** Pick one relationship where trust is low. Make one emotional bank account deposit — a genuine compliment, an act of service, or a sincere apology. Do not expect anything in return. Just make the deposit.
+Pick one relationship where trust is low. Make one emotional bank account deposit — a genuine compliment, an act of service, or a sincere apology. Do not expect anything in return. Just make the deposit.
 
 Covey's framework is powerful but not without limits. The sequential nature of the habits (first three for independence, next three for interdependence, last for renewal) works beautifully for individuals but translates awkwardly to organizations where people are at different stages simultaneously. The emphasis on principle-centered living can also feel rigid — life is messier than seven habits, and sometimes your principles conflict with each other. Covey's Christian framing, while not overt, sits underneath the text and may not resonate with everyone. And the book's biggest weakness is perhaps its greatest strength: it offers a comprehensive worldview, not a quick fix. That depth is what gives it staying power, but it also means the book can feel overwhelming to someone who just wants to check their email less. You don't read Covey for a productivity hack. You read him to examine how you live. That is both the gift and the demand.
 

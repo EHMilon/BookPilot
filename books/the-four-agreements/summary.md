@@ -1,5 +1,3 @@
-**Copies Sold:** ~15 million (US) · **Languages:** 53
-
 You're inside a dream you didn't choose. Every belief — who you are, what's possible, how to behave — was installed before you could question it. Parents, school, religion trained you to obey and punished rebellion. That training became your reality. And most of it is making you miserable.
 
 Don Miguel Ruiz was a medical doctor who grew up in rural Mexico, youngest of thirteen, surrounded by Toltec healers but rejected that path. Then, in his final year of med school, a near-fatal car crash triggered an out-of-body experience that shattered everything he knew. He returned to his grandfather's teachings and distilled ancient wisdom into four agreements that could unhook anyone from the nightmare most people call normal.
@@ -16,7 +14,7 @@ But there's an even crueler partner to the judge: **the Victim**. The Victim is 
 
 > "The real conflict is between truth and lies. Most of the stories we create are based on lies."
 
-**The Trap/Friction:** You think you're a free individual making your own choices. But if you look honestly at where your core beliefs came from — about money, about your body, about love, about your worth — you'll realize most of them were handed to you. The trap is *believing you've escaped the system while still running on its programming.* Undoing domestication feels like losing your identity, because your domestication *is* your current identity.
+You think you're a free individual making your own choices. But if you look honestly at where your core beliefs came from — about money, about your body, about love, about your worth — you'll realize most of them were handed to you. The trap is *believing you've escaped the system while still running on its programming.* Undoing domestication feels like losing your identity, because your domestication *is* your current identity.
 
 Ruiz uses the word **the Dream of the Planet** to describe the shared reality we all agree to live in. Not a literal dream — a social dream. A collective narrative about what life is, what matters, how things work.
 
@@ -28,7 +26,7 @@ Making it worse is what he calls **the Mitote** — a Toltec word for the intern
 
 This noise keeps you from seeing clearly. It prevents you from hearing your own authentic voice beneath the static.
 
-**The Trap/Friction:** Most people try to fix the mitote by adding *more* voices — more advice, more self-help, more opinions. Ruiz says the answer isn't more noise. It's *fewer agreements.* You can't think your way out of the fog. You have to stop feeding it. The trap is treating mental noise as a problem to solve with more thinking, when the real solution is to *quiet the judge* and *stop listening to the crowd.*
+Most people try to fix the mitote by adding *more* voices — more advice, more self-help, more opinions. Ruiz says the answer isn't more noise. It's *fewer agreements.* You can't think your way out of the fog. You have to stop feeding it. The trap is treating mental noise as a problem to solve with more thinking, when the real solution is to *quiet the judge* and *stop listening to the crowd.*
 
 This is the most important agreement, and Ruiz places it first for a reason.
 
@@ -38,11 +36,11 @@ Most of us say things like "I'm so stupid" or "I always mess up" dozens of times
 
 And gossip? Ruiz doesn't mince words. Gossip is a kind of black magic — taking your attention and your voice and using it to spread poison about someone who isn't in the room. It seems harmless, social, bonding. But it's actually the primary way humans infect each other with fear, suspicion, and negativity.
 
-**The Counter-Intuitive Insight:** Words aren't just descriptions of reality. They *create* reality. When you say "I can't," you've just reinforced the bar. When you say "I always fail," your mind obliges by finding evidence. Be impeccable isn't about being polite. It's about recognizing that your voice is a tool of creation — and treating it with the seriousness that deserves.
+Words aren't just descriptions of reality. They *create* reality. When you say "I can't," you've just reinforced the bar. When you say "I always fail," your mind obliges by finding evidence. Be impeccable isn't about being polite. It's about recognizing that your voice is a tool of creation — and treating it with the seriousness that deserves.
 
 > "The word is a force. It is your power of creation."
 
-**The Trap/Friction:** People hear "be impeccable with your word" and think it means "never say anything negative." That's impossible and misses the point. It's not about perfection — it's about *awareness.* The trap is trying to police every word out of fear, when what Ruiz actually suggests is noticing the damage careless words do and choosing differently over time. One slip doesn't break the agreement.
+People hear "be impeccable with your word" and think it means "never say anything negative." That's impossible and misses the point. It's not about perfection — it's about *awareness.* The trap is trying to police every word out of fear, when what Ruiz actually suggests is noticing the damage careless words do and choosing differently over time. One slip doesn't break the agreement.
 
 If the first agreement is about what you put *out*, the second is about what you let *in.*
 
@@ -56,9 +54,9 @@ Here's the mind-bending part: even when someone directly, personally attacks *yo
 
 Think about how much of your emotional life is spent reacting to things that aren't actually happening *to* you. A rude email. A snide comment. A partner's bad mood. You make it mean something about your worth, your value, your place in the world. Ruiz says: stop. Their emotional weather isn't your climate.
 
-**The Counter-Intuitive Insight:** Not taking things personally doesn't mean being cold or detached. It's the opposite. When you're not constantly defending yourself from imagined attacks, you have *more* capacity for genuine connection. You can listen without getting defensive. You can disagree without feeling diminished. You stop treating everyone as a potential threat.
+Not taking things personally doesn't mean being cold or detached. It's the opposite. When you're not constantly defending yourself from imagined attacks, you have *more* capacity for genuine connection. You can listen without getting defensive. You can disagree without feeling diminished. You stop treating everyone as a potential threat.
 
-**The Trap/Friction:** People confuse "don't take it personally" with "don't have feelings." You'll still feel hurt. That's human. The difference is *what you do with the feeling.* Do you spiral into self-doubt? Do you lash out? Do you replay the insult for days? Or do you notice the feeling, recognize it as *your* reaction (not their cause), and let it pass? The trap is thinking this agreement means emotional numbness. It means emotional sovereignty.
+People confuse "don't take it personally" with "don't have feelings." You'll still feel hurt. That's human. The difference is *what you do with the feeling.* Do you spiral into self-doubt? Do you lash out? Do you replay the insult for days? Or do you notice the feeling, recognize it as *your* reaction (not their cause), and let it pass? The trap is thinking this agreement means emotional numbness. It means emotional sovereignty.
 
 This is the simplest agreement on paper and the hardest to actually practice, because assumptions are the engine of most human drama.
 
@@ -72,9 +70,9 @@ The reason we don't ask is fear. We're afraid of the answer. We'd rather live in
 
 > "The more you hear what people actually say, rather than what you assume they mean, the less confusion you'll experience."
 
-**The Counter-Intuitive Insight:** We think assumptions save time. "I know what they mean." "I know how this works." But assumptions are actually *enormous* time-wasters. How many hours have you spent stewing over something someone never actually said or intended? How many relationships have been damaged by misunderstandings that a single question could have cleared up?
+We think assumptions save time. "I know what they mean." "I know how this works." But assumptions are actually *enormous* time-wasters. How many hours have you spent stewing over something someone never actually said or intended? How many relationships have been damaged by misunderstandings that a single question could have cleared up?
 
-**The Trap/Friction:** The trickiest form of assumption is the one you make about yourself. "I'm not good enough for that job." "I'll never be able to do that." "People like me don't deserve this." These feel like truths, but they're assumptions — stories you've been telling yourself since childhood. The agreement asks you to stop assuming you know your limits, too. Ask. Test. Find out.
+The trickiest form of assumption is the one you make about yourself. "I'm not good enough for that job." "I'll never be able to do that." "People like me don't deserve this." These feel like truths, but they're assumptions — stories you've been telling yourself since childhood. The agreement asks you to stop assuming you know your limits, too. Ask. Test. Find out.
 
 This is the agreement that makes all the others possible. Without it, you'll beat yourself up for failing to keep the first three. With it, the system becomes self-sustaining.
 
@@ -86,9 +84,9 @@ This is not a perfectionist standard. It's the opposite. It's permission to be h
 
 The real power of this agreement is that it eliminates self-judgment. If you know you did your best given the circumstances, there's nothing to regret. You can't go back and do more. You did what you could with what you had. Anything beyond that is just the judge and the victim having their old argument.
 
-**The Counter-Intuitive Insight:** Doing your best *without attachment to the outcome* is the secret. We're trained to tie effort to results. If the result didn't come, we feel the effort was wasted. Ruiz says: your best is an expression of who you are in that moment. The outcome is out of your control. Showing up fully is within your control. Those are two different games.
+Doing your best *without attachment to the outcome* is the secret. We're trained to tie effort to results. If the result didn't come, we feel the effort was wasted. Ruiz says: your best is an expression of who you are in that moment. The outcome is out of your control. Showing up fully is within your control. Those are two different games.
 
-**The Trap/Friction:** The biggest trap is using "I did my best" as an excuse. "I did my best" can become a shield against honest effort — a way to avoid the discomfort of real growth. Ruiz isn't giving you permission to coast. He's giving you permission to *act without self-flagellation.* The difference is subtle but everything. If you know deep down you held back, that's not your best. This agreement works only with brutal honesty about what "your best" actually means right now.
+The biggest trap is using "I did my best" as an excuse. "I did my best" can become a shield against honest effort — a way to avoid the discomfort of real growth. Ruiz isn't giving you permission to coast. He's giving you permission to *act without self-flagellation.* The difference is subtle but everything. If you know deep down you held back, that's not your best. This agreement works only with brutal honesty about what "your best" actually means right now.
 
 These aren't four separate tips. They're a feedback loop:
 

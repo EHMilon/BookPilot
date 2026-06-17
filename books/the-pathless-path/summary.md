@@ -1,0 +1,39 @@
+Paul Millerd's *The Pathless Path* is a book that shouldn't have worked on me. By the time I picked it up, I was deeply skeptical of the "quit your job and find yourself" genre — too many privileged people writing manifestos from their beachside Airbnbs while pretending they'd discovered a universal truth. But Millerd's book is different. It's not a manifesto. It's a confession. And it opens with one of the most honest sentences in modern career literature: "I was successful by every external measure, and I was miserable."
+
+Millerd was a strategy consultant at McKinsey, then a freelance innovator, then a writer. From the outside, his career looked like a series of smart moves. From the inside, it felt like slowly dying of clarity. The book traces his journey from "the default path" — the well-lit road of prestigious jobs, promotions, and social approval — to something more uncertain and more alive. It's a memoir framed as an argument, and the argument is simple: **the default path is not designed for human flourishing, and the alternative is not a path at all.**
+
+The first third of the book is a devastating portrait of what Millerd calls "the default path" — the socially scripted life trajectory that most ambitious people never question. Go to school. Get good grades. Get a good job. Work hard. Get promoted. Buy things. Retire. Die.
+
+The genius of Millerd's critique is that he doesn't argue the default path is *bad*. He argues it's *brittle*. It works beautifully as long as you don't ask too many questions. But once you start asking "why am I doing this?" — the whole structure wobbles. And once you realize that most people on the default path are running on autopilot, you can't unsee it.
+
+The Trap of the default path is its subtlety. It doesn't demand your suffering. It seduces you. A big salary, a good title, the respect of your peers — these are real rewards, not illusions. Millerd's point is that they're also shackles. "The golden handcuffs aren't just financial," he writes. "They're psychological. You're not trapped by the money. You're trapped by the story you tell yourself about what the money means."
+
+He illustrates this with a story about a colleague who got a massive bonus and felt... nothing. Dead inside for thirty seconds, then back to the grind. Millerd calls this the "arrival sickness" — the moment you reach a goal you've been chasing for years and realize the goal was never the point. The point was the *chasing*. And the chasing was a way of not having to ask what you actually want.
+
+The book's title comes from a Joseph Campbell quote — "If you can see your path laid out in front of you step by step, you know it's not your path. Your own path you make with every step you take. That's why it's your path." Millerd builds his alternative around this idea. The pathless path is not a career strategy. It's an orientation toward uncertainty.
+
+The core practices of the pathless path, as Millerd describes them through his own experience:
+
+**First, you have to make space.** You can't think your way off the default path while you're still on it — the default path consumes all your cognitive bandwidth. Millerd quit his job before he knew what he wanted to do next. This is terrifying and deeply privileged advice, but Millerd owns that privilege. "I had savings and a network and a skillset that made returning easy," he admits. "Not everyone does. But everyone can make *some* space — even if it's just 30 minutes a day of unscheduled time."
+
+**Second, you have to let the old story die.** The hardest part of leaving the default path is not financial — it's identity. Millerd describes the disorientation of no longer having a satisfying answer to "what do you do?" At parties, at family dinners, on first dates. The answer "I'm figuring it out" feels like failure after years of having a crisp, impressive answer. "You have to be willing to look lost," he writes. "You will look lost to everyone. The question is whether you can tolerate that long enough to find something real."
+
+**Third, you follow what pulls you, not what impresses.** Millerd distinguishes between "energy-giving" and "energy-depleting" work. The pathless path is about maximizing the former and minimizing the latter, even when the former looks unimpressive from the outside. He tells the story of spending three months writing an essay that almost nobody read — and calling it the most meaningful work of his life. "The pathless path requires you to trust your own taste," he writes. "Even when nobody validates it."
+
+**Fourth, you build a life, not a career.** This is the book's most important reframe. The default path treats life as something that happens *around* your career. The pathless path treats work as one component of a well-designed life. Millerd shows his own weekly schedule — it looks nothing like a consultant's calendar. Writing, walking, thinking, cooking, reading, talking to people he loves. It's not a retirement fantasy. It's a present-tense reality that he built deliberately, piece by piece, over years.
+
+Millerd doesn't romanticize his journey. One of the most moving chapters describes the isolation of being off the default path. His friends are getting promotions and buying houses and comparing preschool waitlists. He's in a coffee shop writing about uncertainty. The social fabric that holds the default path together — shared complaints, shared milestones, shared vocabulary — is absent on the pathless path.
+
+"A pathless path can be lonely," he writes. "You have to find your people, and your people are not gathered in any obvious place. They're scattered. You find them by being honest about what you're doing and seeing who resonates." This is the part of the book that felt most true and least polished. There's no tidy solution for the loneliness. There's just the recognition that it's part of the price.
+
+Millerd writes from a position of enormous privilege, and he knows it. But knowing it and fully grappling with it are different things. The book's advice is largely for people who already have marketable skills, financial cushion, and social networks that make risk-taking survivable. A single mother working two jobs doesn't need to hear "make space" — she needs to hear something else that this book doesn't have the vocabulary for.
+
+The book also suffers from its self-published origins. It's repetitive in places — I counted four separate passages making essentially the same point about "social expectations." The editing could be tighter, and some chapters end abruptly without the emotional landing they need.
+
+And there's a subtle dishonesty in the framing. Millerd presents his journey as a discovery, but he clearly had the temperament for this from the start. Not everyone who quits their job to "find themselves" ends up writing a successful book and building a thriving practice around it. Survivorship bias runs through the narrative: the people who fail on the pathless path don't write books about it.
+
+The concept of "arrival sickness" hasn't left me. Every time I catch myself thinking "once I achieve X, then I'll be happy," I hear Millerd's voice. The goal is not the point. The chasing is the anesthesia.
+
+More than that, the book gave me permission to trust my own taste — to do things that are meaningful to me even when they don't look impressive to anyone else. That permission is rare. Most career books tell you to optimize for success. Millerd tells you to optimize for aliveness. That's a different game entirely.
+
+Anyone stuck in a job that looks good on paper but feels deadening. Anyone who's ever thought "there has to be more than this." Anyone in a career transition or contemplating one. Skip it if you're happy with your current path, if you have no financial cushion and will find the advice frustrating, or if you're looking for a step-by-step career change guide. This is not a how-to. It's a why-to.

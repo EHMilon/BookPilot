@@ -1,0 +1,43 @@
+*Living on Purpose* is the practical cousin of every abstract purpose book on the shelf. Where other books ask "what is your why?" this one asks "what does purpose actually look like on a Tuesday afternoon at 3:47 PM when you're tired and the kids are fighting and the email inbox has 47 unread messages?" The authors — a collective of psychologists, coaches, and researchers — make a deceptively radical argument: purpose is not something you *find* but something you *build*, one decision at a time, in the ordinary moments you're not even paying attention to.
+
+The book opens with a confession that hooked me. A contributor describes spending years obsessing over her "life purpose" — vision boards, journaling retreats, expensive coaching — only to realize her most meaningful moments were the ones she never planned: a conversation with a stranger on a bus, a difficult phone call she almost avoided, a meal cooked for a friend who was grieving. "I was looking for purpose in the lighthouse," she writes, "while it was already burning in every window of my house."
+
+The central thesis is borrowed from the Buddhist concept of *right intention* — not "right outcome" or "right plan" but the quality of attention you bring to each moment. The authors argue that we've been sold a myth: that purpose is a destination, a single grand answer that, once found, creates permanent fulfillment. This is the "arrival fallacy" that positive psychology has documented — the tendency to believe that achieving a goal will make us permanently happy, when in fact we adapt quickly and need the next thing.
+
+*Living on Purpose* flips this. Purpose, the book argues, is a *process orientation* — not what you achieve but how you show up. The most purposeful people aren't those with the most impressive missions. They're the ones who bring intentionality to whatever they're doing, whether that's leading a company or folding laundry. "The quality of your attention," one chapter concludes, "is the quality of your life."
+
+The book offers a four-part framework: **Intention, Attention, Detachment, and Integration.**
+
+**Intention** is the act of consciously choosing what matters in this moment, right now. Not for your whole life. Just for now. The authors suggest starting each day with a single sentence: "Today, I intend to ______." Not "change the world." Something like "listen fully to my colleague" or "finish this report with care." The Trap: most people either set intentions so broad they're meaningless ("be happy") or so specific they become stress-inducing checklists. The sweet spot is specific enough to guide action, broad enough to allow grace.
+
+**Attention** is the muscle of presence. The book draws on attention-restoration theory and the growing literature on the costs of multitasking. When your attention is scattered, purpose fragments. You can't live on purpose if you're living on autopilot. The authors suggest a simple practice: "single-tasking one thing per day" — doing one activity with complete focus, no switching, no interruptions. "The opposite of a purposeful life," they write, "is not an aimless one. It's a distracted one."
+
+**Detachment** is the most counterintuitive piece. The authors argue that attachment to outcomes is the enemy of purpose. When you're too invested in how things turn out, you can't respond adaptively to reality. Purpose requires flexibility, and flexibility requires a certain looseness of grip. This is not about not caring — it's about caring the right way. "Purpose without detachment becomes anxiety. Detachment without purpose becomes apathy."
+
+**Integration** is the final step: weaving these practices into a coherent life. It's the recognition that purpose cannot live in a compartment — you can't be purposeful at work and mindless at home, or intentional with your kids and reactive with your spouse. Integration requires honest self-examination about where your life is split and a commitment to bringing your whole self to each domain.
+
+The book devotes significant space to why purpose is hard, and this is where it earns its keep. The authors identify three internal barriers that sabotage even the best intentions.
+
+**The Inner Critic** — that voice that says you're not ready, not qualified, not enough. The book doesn't treat the critic as an enemy to be silenced but as a protective mechanism to be understood. "Your inner critic is not trying to stop you from living purposefully," they write. "It's trying to stop you from getting hurt. The problem is, a life without risk of hurt is a life without purpose."
+
+**Comfort Addiction** — the preference for certainty over meaning. Purpose requires you to do things that might not work, to care about things that might disappoint you. Comfort addiction is the quiet preference for the known over the meaningful. The authors share a research finding: when given the choice between a certain small reward and a probable larger one, most people choose certainty — even when the odds favor the larger one. Purpose operates the same way: a certain but empty life often beats an uncertain but meaningful one.
+
+**Social Gravity** — the pull of other people's expectations. The book's term for the force that keeps you in a life that's fine but not yours. "Social gravity is the weight of 'should.' You should take the safe job. You should stay in this relationship. You should not rock the boat." Breaking free of social gravity requires not courage but *grief* — the recognition that meeting others' expectations costs something real.
+
+The Detachment pillar deserves more attention than the book initially gives it. The authors draw on Stoic and Buddhist traditions to make the case that we suffer not because things go wrong but because we're attached to specific outcomes. The practice of detachment is not about not caring. It's about caring *completely* while releasing your grip on how it turns out.
+
+This is one of the hardest ideas in any purpose framework. Most of us believe that our investment in an outcome is what makes us try hard. The book's argument — supported by research on performance anxiety, creative blocks, and relationship stress — is that the opposite is true. Attachment to outcome *reduces* your effectiveness because it divides your attention between doing the work and managing your anxiety about the result.
+
+The authors offer a deceptively simple practice: before any high-stakes moment, say to yourself, "I am going to do my absolute best, and I release the outcome." Say it aloud. The words feel like surrender. They also feel like liberation. "Detachment," the book writes, "is not the absence of effort. It is effort without the weight of needing it to work."
+
+*Living on Purpose* is warm, wise, and sometimes frustratingly vague. The four-part framework is memorable but can feel like a container you could pour almost anything into. I wanted more specific examples of how each piece works in real lives — extended case studies, not one-paragraph vignettes.
+
+The book also has a subtle individualism problem. It acknowledges social gravity but doesn't seriously engage with structural barriers. The advice assumes a baseline of safety, stability, and autonomy that many people don't have. "Detachment from outcomes" is easier to practice when you have a safety net.
+
+And I caught a few contradictions. The book valorizes "single-tasking" but assumes a schedule flexible enough to accommodate it. It criticizes productivity culture while still using the language of "optimization" and "practices." It's trying to be countercultural while still sounding like a productivity book, and that tension is never fully resolved.
+
+The single-tasking practice has genuinely changed my relationship with my phone. I wasn't even trying to fix my phone habit. But the book's argument that attention *is* purpose landed so hard that I started noticing when I was halfway present. Noticing is 80% of the battle.
+
+The **Intention setting** also stuck. I started saying my intention aloud each morning. It felt silly. It also worked. The days I do it, my decisions cohere. The days I don't, I drift.
+
+Anyone who has been on the purpose-seeking carousel and is exhausted by it. Anyone who feels they *should* be more purposeful but doesn't know what that looks like in practice. Anyone who reads purpose books and thinks "this sounds great but what do I actually *do*." Skip it if you're happy with your current level of intentionality or if the "purpose" genre as a whole feels worn out to you.

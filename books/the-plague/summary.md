@@ -1,0 +1,47 @@
+In the 1940s, the rats of Oran start dying in the streets. They crawl out of sewers, stagger, bleed, and collapse. Then people start dying too. *The Plague* is not a novel about disease. It's a novel about what happens to a community when the normal rules of life are suspended — when death becomes ordinary, when separation becomes permanent, when the only question that matters is whether you will help or hide. Albert Camus wrote the book during and after World War II, and the plague is an allegory for Nazi occupation. But it outgrows its allegory. It becomes something more universal: a portrait of how people respond to catastrophe. The honest ones, the hysterical ones, the profiteers, the deniers, the saints, and the ones who just keep going because there's nothing else to do.
+
+The novel is narrated by Dr. Bernard Rieux, though he doesn't reveal himself as narrator until the end. Rieux is the closest thing to a hero in Camus's fiction, and he's notable for his ordinariness. He doesn't want to be a hero. He doesn't have grand speeches or noble ideals. He fights the plague because his job is to fight disease. That's it.
+
+> *"There's no question of heroism in all this. It's a matter of common decency. That's an idea which may make some people smile, but the only means of fighting a plague is — common decency."*
+
+Rieux's decency is the novel's moral center. He works until he drops. He loses patients. He watches friends die. He is separated from his wife (who is ill in another city) and cannot even get word to her. He does not become cynical or broken. He simply continues. The plague is not defeated by his efforts. It eventually recedes on its own, as plagues do. Rieux knows this. And he keeps going anyway.
+
+The temptation is to read Rieux as a Christ figure or a stoic ideal. He's neither. He's tired, lonely, and scared. He doesn't know if his work matters. He doesn't believe in God. He just can't think of anything better to do than his job. That's Camus's point: heroism is not a special quality. It's doing the obvious thing even when you know it might not work.
+
+Camus populates Oran with a full spectrum of human responses to crisis.
+
+**Father Paneloux** is a Jesuit priest. In his first sermon, he tells the congregation that the plague is God's punishment for their sins. They deserve this. But when he watches a child die in agony — an innocent boy, suffering horribly — his faith cracks. He gives a second sermon, more tentative, more desperate. "We must believe in God or we cannot believe at all," he says, but the words have no certainty. He eventually dies, not of plague but of a spiritual crisis that makes him refuse medical help. Paneloux is not a villain. He's a good man whose framework cannot survive the reality of innocent suffering.
+
+**Joseph Grand** is a minor civil servant who spends years trying to write a perfect sentence — the first sentence of a novel that he can never get right. He is timid, poor, overlooked. When the plague comes, he volunteers as a sanitary worker. He doesn't make speeches. He doesn't seek recognition. He simply helps. When he falls ill himself, he seems to accept it quietly. He survives, improbably, and immediately returns to his sentence. Grand is Camus's secret hero: the person who does what needs doing without drama, and who returns to ordinary life the moment the crisis passes.
+
+> *"The only way to fight the plague is with decency."*
+
+**Cottard** is the counterpoint. A criminal who attempted suicide before the plague struck, he *thrives* during the epidemic. The plague normalizes him: now everyone is afraid, everyone is under surveillance, everyone lives with the threat of sudden death. He profits from smuggling. When the plague recedes, he goes mad — he cannot bear the return of normal life. He barricades himself in his house and shoots at passersby. Cottard is what happens when a person needs crisis to function.
+
+**Raymond Rambert** is a journalist trapped in Oran, desperate to escape and rejoin his lover in Paris. He spends weeks trying to bribe officials, sneak past guards, arrange a clandestine exit. Eventually he is offered a way out. And then — he can't take it. He joins the sanitary teams instead. Not out of guilt or conversion, but because he realizes he'd be ashamed to be happy alone while others are fighting. "Shame," he says. "That's what it is." Rambert's arc is the novel's clearest statement about solidarity: you cannot be truly free while others are enslaved, even if your slavery is voluntary.
+
+This scene is the emotional center of the book. Dr. Rieux, Paneloux, and others watch a ten-year-old boy die of plague. The boy suffers horribly for hours. Rieux can do nothing. Paneloux prays. The boy dies. Rieux turns to Paneloux and says, "That one, at least, was innocent — you know that." He doesn't say it with anger. He says it with exhaustion.
+
+Paneloux's response is the hardest moment in the novel: "That sort of thing is revolting because it passes our understanding. But perhaps we should love what we cannot understand." Rieux says he will never love a universe where children are tortured. The two men do not reconcile. They simply go back to work, each carrying a different conclusion from the same event.
+
+> *"The evil that was in the world always came from ignorance, and good intentions might do as much harm as malevolence, if they lacked understanding."*
+
+The plague recedes as mysteriously as it arrived. The gates open. Lovers reunite. The city celebrates. Rieux watches the celebrations not with joy but with guarded awareness. He knows that the bacillus never truly dies. It can lie dormant for years, in furniture, in linen, in the most unlikely places, waiting.
+
+> *"He knew what those jubilant crowds did not know — what he had learned from books — that the plague bacillus never dies or disappears for good; that it can lie dormant for years and years in furniture and linen-chests; that it bides its time in bedrooms, cellars, trunks, and bookshelves; and that perhaps the day would come when, for the bane and the enlightening of men, it would rouse up its rats again and send them forth to die in a happy city."*
+
+The novel ends not with triumph but with vigilance. The plague will return. The fight is never over. And the only proper response is to keep fighting without the consoling fiction that you will win.
+
+*The Plague* is a masterpiece of moral clarity that occasionally reads like a morality play. The characters are types as much as people — each representing a possible response to suffering — and the novel's allegorical structure can feel schematic. Rambert's conversion from selfish escape to selfless service is the most rushed and least convincing arc. And for all its talk of solidarity, the novel has a strange emotional distance — the narrator's withholding of his identity until the end keeps the reader at arm's length from the suffering it describes. The women in the novel are also strikingly absent: wives, mothers, lovers exist mostly as objects of longing for the male characters. And the plague-as-occupation allegory, while powerful, becomes less useful when applied to actual disease (critics during COVID noted that the novel's moral clarity didn't map neatly onto the real complexities of pandemic response).
+
+Anyone who has lived through a collective crisis and wondered why people responded so differently. Anyone who works in healthcare, public service, or any profession where the work never ends and the victories are temporary. And anyone who needs a model of heroism that doesn't require superhuman virtue — just the quiet decision to keep showing up. Skip it if you need a propulsive plot or tidy resolution. The plague recedes without explanation. That's the point.
+
+Catastrophe reveals character, not in the sense of changing who people are but in stripping away the pretense that hides who they've always been. The only reliable response to suffering is practical solidarity — not grand gestures, not theological explanations, not escape attempts, but the quiet, persistent work of helping others. The fight never ends and cannot be won permanently. You do it anyway.
+
+The line about the plague bacillus never dying — that it lies dormant in furniture and trunks and will one day rouse its rats again — has become a permanent mental image. Not just for literal disease, but for everything: fascism, cruelty, injustice, indifference. You don't defeat it. You push it back. Then you stay watchful.
+
+1. **Identify your "Cottard."** Is there a part of you that secretly needs crisis to feel alive? A tendency to procrastinate until pressure mounts? A habit of creating drama where none exists? That's your inner Cottard. Just name it.
+
+2. **Do one small act of practical solidarity today.** The novel's heroes are not the ones who make speeches. They're the ones who deliver supplies, keep records, drive ambulances. Do one thing that's useful and anonymous. No credit. No recognition. Just decency.
+
+3. **Acknowledge one thing you cannot fix — and do it anyway.** The plague cannot be cured. The child cannot be saved. But Rieux doesn't stop. Pick something in your life that feels hopeless, do one small thing about it, and accept that the outcome is not the point. The work is.

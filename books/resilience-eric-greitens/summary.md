@@ -1,0 +1,11 @@
+There's a paradox at the heart of resilience that most people miss. We think of it as something you're born with — a fixed capacity to withstand pressure. But Eric Greitens, a former Navy SEAL who spent his career studying what makes people break and what makes them endure, argues the opposite. Resilience is not a trait. It's a practice. It's built, not born. And the people who have the most of it aren't the ones who never struggled — they're the ones who learned how to struggle well.
+
+Greitens wrote this book as a series of letters to a fellow SEAL who was struggling with PTSD and depression. The format matters. It's not a textbook on mental toughness. It's a conversation between two people who've been through the fire, and one is trying to help the other find his way back. That personal frame gives the book an intimacy that most resilience manuals lack.
+
+The book's core argument is something I keep coming back to: resilience is not about avoiding pain. It's about choosing your response to it. Greitens draws lessons from Stoic philosophy, martial arts, physical training, and his own combat experience to build a case that resilience is a skill you can develop — through discipline, purpose, and the willingness to face discomfort voluntarily.
+
+*"The fundamental question of resilience is not 'How much can you take?' but 'What are you willing to give?'"*
+
+What stuck with me was his distinction between happiness and meaning. Greitens argues that resilience isn't sustained by the pursuit of happiness — happiness is too fragile, too dependent on circumstances. It's sustained by meaning. People who have a reason to endure, endure. People who are just chasing pleasure, collapse at the first real obstacle. This isn't new — Frankl said it first — but Greitens makes it concrete with SEAL training stories that illustrate the principle in action.
+
+The book's blind spot is its narrow frame of reference. Greitens writes from a military and athletic perspective, and his advice assumes a level of physical capability and discipline that not everyone has. The "just push through" ethos can be toxic when applied to someone with clinical depression or chronic illness. Not every struggle is overcome by willpower. Sometimes the resilient thing to do is rest, ask for help, or change your circumstances — and Greitens doesn't spend enough time on that.

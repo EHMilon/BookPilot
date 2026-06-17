@@ -1,0 +1,49 @@
+You've heard the 10,000-hour rule. It's the most famous idea from Malcolm Gladwell's *Outliers* — that ten thousand hours of practice is the magic number for world-class expertise. It's also almost entirely wrong. Not the concept of practice — that part is correct. But the number is arbitrary. The idea that any amount of "practice" automatically leads to expertise is dangerously misleading. And the implication that you could just clock the hours and become elite has probably wasted more time than any self-help idea in the last twenty years.
+
+Anders Ericsson is the researcher whose work Gladwell popularized — and then distorted. *Peak* is Ericsson's chance to set the record straight. He spent four decades studying expert performers across every domain imaginable: chess masters, concert violinists, London taxi drivers, memory champions, surgeons, athletes. His conclusion is not that practice matters. His conclusion is that *the right kind* of practice is the only thing that matters, and almost nobody is doing it.
+
+> "The differences between expert performers and normal adults reflect a life-long period of deliberate effort to improve performance in a specific domain."
+
+> "The traditional view of human potential is that we are limited by our genetics. The research suggests otherwise. We are far more adaptable than we think."
+
+Ericsson calls this "deliberate practice," and he distinguished it from the kind of practice most people do. Most "practice" is really just doing — you play the game, you do the job, you have the conversation, and you assume that doing it is making you better. It's not. Once you reach a level of "acceptable" performance, improvement stops automatically. You don't get better at your job by doing your job. You get better by deliberately working on weaknesses outside the flow of normal performance.
+
+**The Trap of experience** is the book's most important insight. Twenty years of experience is frequently indistinguishable from one year of experience repeated twenty times. The surgeon who has performed 10,000 surgeries is not necessarily better than the one who has performed 1,000 — unless each surgery was approached with deliberate effort to improve. Most professionals plateau somewhere around the "good enough" level and stay there for decades, mistaking comfort for mastery.
+
+Ericsson's classic study — the one Gladwell based his rule on — involved violinists at the Berlin Academy of Music. The researchers divided the students into three groups: the best (potential international soloists), the good (who would probably play in orchestras), and the rest (who would become music teachers). All groups practiced. The difference was in *how* they practiced.
+
+The best violinists practiced deliberately every day. Not playing through pieces they already knew, but working on the hardest passages, with full concentration, seeking immediate feedback. They practiced an average of 3.5 hours per day — and crucially, they *rested* between practice sessions. They napped. They took weekends off. The less accomplished students practiced more total hours, but with less focus, less feedback, and more drudgery.
+
+> "The key is that deliberate practice is not the same as mindless repetition."
+
+Deliberate practice has four characteristics, which Ericsson establishes through decades of research:
+
+**1. It's designed specifically to improve performance.** You don't just practice — you have a clear objective for this session. "I'm going to improve my backhand" is a goal. "I'm going to play tennis for two hours" is not.
+
+**2. It's highly demanding mentally.** If you're not exhausted after deliberate practice, you weren't doing it right. The state of focused effort is uncomfortable, and it should be. If it feels easy, you're not improving.
+
+**3. It requires a good teacher or coach who can give immediate feedback.** Self-directed deliberate practice is possible but much harder. The feedback loop — identifying errors, correcting them, trying again — is essential.
+
+**4. It builds on existing skills.** You're not learning from scratch. You're refining something you can already do, pushing just beyond your current limits. The zone of proximal development, translated into practice theory.
+
+The London taxi driver study is the book's most vivid example. To get licensed, London cab drivers must memorize "The Knowledge" — the layout of 25,000 streets and 20,000 landmarks within a six-mile radius of Charing Cross. It takes two to four years of intensive study. Brain scans of licensed drivers show that their posterior hippocampi — the brain region associated with spatial memory — are physically larger than those of non-drivers. And the more time they've spent navigating, the larger the region.
+
+> "Purposeful practice is all about stepping outside your comfort zone. And that is true of any kind of practice."
+
+This is the "plasticity" argument at the heart of Ericsson's work. The brain is not fixed. It adapts to the demands placed on it. Deliberate practice doesn't just improve performance — it physically changes the brain to support that performance. The implication is liberating and terrifying: your current limitations are not permanent, but the effort required to change them is much greater than you think.
+
+Ericsson is brutal about innate talent. He doesn't deny that genetics play a role — height matters for basketball, for example — but his research suggests that the range of human adaptability is far wider than most people believe. The Mozart myth — that genius is born, not made — is specifically debunked. Mozart's father was a famous violin teacher who subjected young Wolfgang to intensive, deliberate training from age three. By the time Mozart composed his "first masterpiece" at sixteen, he'd had thirteen years of the most rigorous musical training available in Europe. That's not a miracle. That's deliberate practice.
+
+**The Trap of the "10,000-hour rule"** is that it makes practice sound like quantity. Ericsson is clear: quality, not quantity, is the variable that separates elite performers from everyone else. You could practice for 100,000 hours the wrong way and never improve. He cites the example of a middle-aged recreational golfer who's been playing for thirty years and still shoots the same score he did after two. He hasn't been practicing for thirty years. He's been playing for thirty years. Those are not the same thing.
+
+The book's second half is weaker. Ericsson tries to apply deliberate practice to everyday life — learning a language, getting fit, improving at work — but the advice becomes generic. "Find a coach" is not actionable when you can't afford one. "Get immediate feedback" is hard to implement without a teacher. And deliberate practice, as Ericsson describes it, requires a level of sustained effort that is incompatible with most people's lives. Reading or writing for 3.5 hours of *deliberate* practice per day with a coach is a luxury of time and money that most people don't have.
+
+There's also a tension Ericsson never fully resolves: deliberate practice is designed for domains with clear, established performance metrics. Chess has ratings. Violin has competitions. Surgery has outcomes. But for most knowledge work — writing, designing, strategizing, leading — the feedback is slow, ambiguous, and unreliable. You can practice deliberately for years and not know if you're improving. Ericsson acknowledges this but doesn't offer a solution.
+
+What makes the book valuable despite these limitations is the evidence. Ericsson is rigorous where most self-help authors are hand-wavy. He cites studies. He defines terms. He distinguishes what's proven from what's speculated. And his core argument — that expertise is built through a specific kind of effort, not born through talent — is evidence-based enough to withstand the skepticism it deserves.
+
+Expertise is not innate. It's built through deliberate practice — focused, demanding, feedback-rich effort that targets specific weaknesses just beyond your current ability. The brain adapts to these demands, physically changing to support higher performance. Experience alone is not enough; you can do something for decades and plateau at "good enough." The uncomfortable truth: your potential ceiling is higher than you think, but the effort required to reach it is higher than you want.
+
+The distinction between "doing" and "practicing" haunts me. Most of my professional life has been "doing" — showing up, performing tasks, feeling competent. Ericsson's research suggests I've been coasting on my initial level of skill, telling myself that repetition equals improvement. The evidence says otherwise. I now catch myself treating "I practiced for two hours" as a lie when what I actually did was "I performed my routine for two hours." The difference is small in language and enormous in outcome.
+
+*Peak* is an important book that reads like an academic paper stretched into a popular science book. Ericsson's voice is dry, and the writing lacks the narrative energy that made Gladwell's version of his research so compelling. The book is repetitive — the same four characteristics of deliberate practice appear in every chapter, and the studies are described multiple times. The "how to apply this" section is the weakest part; Ericsson doesn't adequately address the structural barriers to deliberate practice (money, time, access to coaches). And the claim that "there are no exceptions" — that every expert performer in history achieved their status through deliberate practice — feels overconfident. Ericsson dismisses natural talent too quickly, and the evidence for some domains (mathematics, creative arts) is thinner than the confident tone suggests.
