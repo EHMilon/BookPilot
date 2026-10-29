@@ -1,0 +1,18 @@
+{
+  "id": "rumi-the-book-of-love",
+  "title": "Rumi",
+  "author": "Rumi (Jalāl ad-Dīn Muḥammad Balkhī)",
+  "authors": [
+    "Rumi (Jalāl ad-Dīn Muḥammad Balkhī)",
+    "Coleman Barks"
+  ],
+  "publisher": "HarperSanFrancisco",
+  "publishedDate": "1991",
+  "isbn13": "9780961891633",
+  "isbn10": "0061496898",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL18990W",
+  "sourceQuery": "rumi the",
+  "sourceScore": 1.0,
+  "review": false
+}

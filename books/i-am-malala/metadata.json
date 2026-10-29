@@ -1,0 +1,21 @@
+{
+  "id": "i-am-malala",
+  "title": "I am Malala",
+  "author": "Malala Yousafzai",
+  "authors": [
+    "Malala Yousafzai",
+    "Christina Lamb",
+    "Malala Yousafzai",
+    "Malala Yousafazi",
+    "MALALA YOUSAFZAI "
+  ],
+  "publisher": "Malala Yousafzi",
+  "publishedDate": "2012",
+  "isbn13": "9783596812530",
+  "isbn10": "031628663X",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL19669045W",
+  "sourceQuery": "i am malala",
+  "sourceScore": 1.0,
+  "review": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": "iron-john",
+  "title": "Iron John",
+  "author": "Robert Bly",
+  "authors": [
+    "Robert Bly"
+  ],
+  "publisher": "Sterling",
+  "publishedDate": "1990",
+  "isbn13": "9780712610704",
+  "isbn10": "1843330687",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL6529432W",
+  "sourceQuery": "iron john",
+  "sourceScore": 1.0,
+  "review": false
+}

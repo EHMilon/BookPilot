@@ -1,0 +1,20 @@
+{
+  "id": "tao-te-ching",
+  "title": "Tao te Ching",
+  "author": "老子",
+  "authors": [
+    "老子",
+    "Yang Peng",
+    "Jordi Fibla",
+    "James Legge"
+  ],
+  "publisher": "Charles E. Tuttle",
+  "publishedDate": "1842",
+  "isbn13": "9782220035529",
+  "isbn10": "1985717093",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL45499W",
+  "sourceQuery": "tao te ching",
+  "sourceScore": 1.0,
+  "review": false
+}

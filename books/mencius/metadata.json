@@ -1,0 +1,17 @@
+{
+  "id": "mencius",
+  "title": "Meng-tzu",
+  "author": "Mencius",
+  "authors": [
+    "Mencius"
+  ],
+  "publisher": "Counterpoint",
+  "publishedDate": "1932",
+  "isbn13": "9781887178624",
+  "isbn10": "1582430209",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL846341W",
+  "sourceQuery": "mencius",
+  "sourceScore": 1.0,
+  "review": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "the-dhammapada",
+  "title": "The Dhammapada",
+  "author": "Buddha",
+  "authors": [
+    "Buddha",
+    "Rose Kramer"
+  ],
+  "publisher": "Parallax",
+  "publishedDate": "1995",
+  "isbn13": "9780938077879",
+  "isbn10": "0938077872",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL18935815W",
+  "sourceQuery": "the dhammapada",
+  "sourceScore": 1.0,
+  "review": false
+}

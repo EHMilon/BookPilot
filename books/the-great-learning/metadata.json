@@ -1,0 +1,23 @@
+{
+  "id": "the-great-learning",
+  "title": "The Great Learning",
+  "author": "Confucius",
+  "authors": [
+    "Confucius",
+    "Zengzi"
+  ],
+  "publisher": "Arthur Peng",
+  "publishedDate": "2026-09-21",
+  "isbn13": "",
+  "isbn10": "",
+  "pageCount": 41,
+  "googleCategories": [
+    "Philosophy"
+  ],
+  "description": "The Great Learning (大学 Dà Xué), one of the Four Books of Confucianism, was originally a chapter from The Book of Rites. The concise core classic text is attributed to Confucius, with ten explanatory commentaries written by his disciple Zengzi.",
+  "source": "google-books",
+  "sourceId": "xf8OEgAAQBAJ",
+  "sourceQuery": "the great learning",
+  "sourceScore": 1.0,
+  "review": false
+}

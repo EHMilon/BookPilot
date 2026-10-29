@@ -1,0 +1,17 @@
+{
+  "id": "the-book-of-five-rings",
+  "title": "The Book of Five Rings",
+  "author": "Musashi Miyamoto",
+  "authors": [
+    "Musashi Miyamoto"
+  ],
+  "publisher": "CreateSpace Independent Publishing Platform",
+  "publishedDate": "2013",
+  "isbn13": "9781546794509",
+  "isbn10": "1547030577",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL39568417W",
+  "sourceQuery": "the book of five rings",
+  "sourceScore": 1.0,
+  "review": false
+}

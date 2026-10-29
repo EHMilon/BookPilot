@@ -1,0 +1,17 @@
+{
+  "id": "somatics",
+  "title": "Somatics",
+  "author": "Thomas Hanna",
+  "authors": [
+    "Thomas Hanna"
+  ],
+  "publisher": "Addison-Wesley",
+  "publishedDate": "1988",
+  "isbn13": "9780201079791",
+  "isbn10": "0201079798",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL3811164W",
+  "sourceQuery": "somatics",
+  "sourceScore": 1.0,
+  "review": false
+}

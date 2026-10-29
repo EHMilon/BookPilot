@@ -1,0 +1,20 @@
+{
+  "id": "the-little-prince",
+  "title": "The Little Prince",
+  "author": "Antoine de Saint-Exupery",
+  "authors": [
+    "Antoine de Saint-Exupery"
+  ],
+  "publisher": "",
+  "publishedDate": "2015-10-01",
+  "isbn13": "9781925234190",
+  "isbn10": "1925234193",
+  "pageCount": 32,
+  "googleCategories": [],
+  "description": "This philosophical children's book deserves its status as a classic. It has been translated into over 250 languages and is enjoyed by children around the world.",
+  "source": "google-books",
+  "sourceId": "OqjwsgEACAAJ",
+  "sourceQuery": "the little prince",
+  "sourceScore": 1.0,
+  "review": false
+}

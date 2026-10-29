@@ -1,0 +1,17 @@
+{
+  "id": "the-analects",
+  "title": "The Analects",
+  "author": "Confucius",
+  "authors": [
+    "Confucius"
+  ],
+  "publisher": "Penguin Books, Limited",
+  "publishedDate": "1979",
+  "isbn13": "9781731705051",
+  "isbn10": "152908010X",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL27033818W",
+  "sourceQuery": "the analects",
+  "sourceScore": 1.0,
+  "review": false
+}

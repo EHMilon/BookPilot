@@ -1,0 +1,19 @@
+{
+  "id": "chicken-soup-for-the-soul",
+  "title": "Chicken Soup for the Soul",
+  "author": "Jack Canfield",
+  "authors": [
+    "Jack Canfield",
+    "Mark Victor Hansen",
+    "Amy Newmark"
+  ],
+  "publisher": "Chicken Soup for the Soul Pub.",
+  "publishedDate": "1993",
+  "isbn13": "9781935096061",
+  "isbn10": "0757301487",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL3180520W",
+  "sourceQuery": "chicken soup for the soul",
+  "sourceScore": 1.0,
+  "review": false
+}

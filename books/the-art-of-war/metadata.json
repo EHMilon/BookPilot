@@ -1,0 +1,17 @@
+{
+  "id": "the-art-of-war",
+  "title": "The Art of War",
+  "author": "孙武 (Sun Tzu)",
+  "authors": [
+    "孙武 (Sun Tzu)"
+  ],
+  "publisher": "Quill",
+  "publishedDate": "1900",
+  "isbn13": "9798720499402",
+  "isbn10": "1070258679",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL244537W",
+  "sourceQuery": "the art of war",
+  "sourceScore": 1.0,
+  "review": false
+}

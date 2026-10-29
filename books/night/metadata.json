@@ -1,0 +1,22 @@
+{
+  "id": "night",
+  "title": "Night",
+  "author": "Elie Wiesel",
+  "authors": [
+    "Elie Wiesel"
+  ],
+  "publisher": "Hill and Wang",
+  "publishedDate": "2012-02-07",
+  "isbn13": "9781466805361",
+  "isbn10": "1466805366",
+  "pageCount": 133,
+  "googleCategories": [
+    "Biography & Autobiography"
+  ],
+  "description": "A new translation from the French by Marion Wiesel. Night is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death camps.",
+  "source": "google-books-fix2",
+  "sourceId": "ELbHiPmYSM4C",
+  "sourceQuery": "night Elie Wiesel",
+  "sourceScore": 1.0,
+  "review": false
+}

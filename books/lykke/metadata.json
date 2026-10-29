@@ -1,0 +1,17 @@
+{
+  "id": "lykke",
+  "title": "The little book of lykke",
+  "author": "Meik Wiking",
+  "authors": [
+    "Meik Wiking"
+  ],
+  "publisher": "Penguin Canada",
+  "publishedDate": "2017",
+  "isbn13": "9780241302019",
+  "isbn10": "0241302013",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL19723139W",
+  "sourceQuery": "lykke",
+  "sourceScore": 1.0,
+  "review": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-masnavi",
+  "title": "The Masnavi, Book One",
+  "author": "Jalal al-Din Rumi",
+  "authors": [
+    "Jalal al-Din Rumi"
+  ],
+  "publisher": "OUP Oxford",
+  "publishedDate": "2004-11-11",
+  "isbn13": "9780192804389",
+  "isbn10": "0192804383",
+  "pageCount": 305,
+  "googleCategories": [
+    "Literary Collections"
+  ],
+  "description": "Publisher description",
+  "source": "google-books",
+  "sourceId": "oX8rd2jOgn4C",
+  "sourceQuery": "the masnavi",
+  "sourceScore": 1.0,
+  "review": false
+}

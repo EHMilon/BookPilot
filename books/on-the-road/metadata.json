@@ -1,0 +1,17 @@
+{
+  "id": "on-the-road",
+  "title": "On The Road",
+  "author": "Jack Kerouac",
+  "authors": [
+    "Jack Kerouac"
+  ],
+  "publisher": "FolletBound / Penguin",
+  "publishedDate": "1957",
+  "isbn13": "9798588774130",
+  "isbn10": "999835398X",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL65906W",
+  "sourceQuery": "on the road",
+  "sourceScore": 1.0,
+  "review": false
+}

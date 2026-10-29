@@ -1,0 +1,22 @@
+{
+  "id": "the-signal-and-the-noise",
+  "title": "The Signal and the Noise",
+  "author": "Nate Silver",
+  "authors": [
+    "Nate Silver"
+  ],
+  "publisher": "Penguin UK",
+  "publishedDate": "2012-09-27",
+  "isbn13": "9781846147531",
+  "isbn10": "1846147530",
+  "pageCount": 348,
+  "googleCategories": [
+    "Mathematics"
+  ],
+  "description": "The book reports two approaches of implementation of the essential components of a Digital Phase Locked Loop based system for dealing with wireless channels showing Nakagami-m fading. It is mostly observed in mobile communication.",
+  "source": "google-books-fix2",
+  "sourceId": "udSFU9G49AcC",
+  "sourceQuery": "the signal and the noise Nate Silver",
+  "sourceScore": 1.0,
+  "review": false
+}

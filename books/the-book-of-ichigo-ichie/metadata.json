@@ -1,0 +1,18 @@
+{
+  "id": "the-book-of-ichigo-ichie",
+  "title": "The Book of Ichigo Ichie",
+  "author": "Francesc Miralles",
+  "authors": [
+    "Francesc Miralles",
+    "Héctor García"
+  ],
+  "publisher": "Quercus",
+  "publishedDate": "2020",
+  "isbn13": "9781529401295",
+  "isbn10": "1529401291",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL21162507W",
+  "sourceQuery": "the book of ichigo ichie",
+  "sourceScore": 1.0,
+  "review": false
+}

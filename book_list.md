@@ -1115,7 +1115,7 @@
 ---
 
 **Total: 1000 books**
-**Categories: 35**
+**Categories: 27 curated (`tags` in `book_manifest.json`) + app-only `Others` fallback**
 
 `[-]` = Summary available in BookPilot
 `[ ]` = Needs summary

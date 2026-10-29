@@ -1,0 +1,23 @@
+{
+  "id": "peak",
+  "title": "Peak",
+  "author": "Anders Ericsson",
+  "authors": [
+    "Anders Ericsson",
+    "Robert Pool"
+  ],
+  "publisher": "Random House",
+  "publishedDate": "2016-04-05",
+  "isbn13": "9781847923202",
+  "isbn10": "1847923208",
+  "pageCount": 338,
+  "googleCategories": [
+    "Business & Economics"
+  ],
+  "description": "Mozart wasn't born with perfect pitch. Most athletes are not born with any natural advantage. Three world-class chess players were sisters, whose success was planned by their parents before they were even born.",
+  "source": "google-books-fix2",
+  "sourceId": "eHfkCwAAQBAJ",
+  "sourceQuery": "peak Anders Ericsson",
+  "sourceScore": 1.0,
+  "review": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-stranger",
+  "title": "The Stranger",
+  "author": "Albert Camus",
+  "authors": [
+    "Albert Camus"
+  ],
+  "publisher": "Knopf",
+  "publishedDate": "1946",
+  "isbn13": "",
+  "isbn10": "",
+  "pageCount": 174,
+  "googleCategories": [
+    "Fiction"
+  ],
+  "description": "Caught in the grip of forces he does not understand, a quiet, ordinary clerk in Algiers commits a murder.",
+  "source": "google-books-fix2",
+  "sourceId": "uxfuAAAAMAAJ",
+  "sourceQuery": "the stranger Albert Camus",
+  "sourceScore": 1.0,
+  "review": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": "siddhartha",
+  "title": "Siddhartha",
+  "author": "Hermann Hesse",
+  "authors": [
+    "Hermann Hesse"
+  ],
+  "publisher": "Rupa",
+  "publishedDate": "1922",
+  "isbn13": "9788484502111",
+  "isbn10": "1609422597",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL872932W",
+  "sourceQuery": "siddhartha",
+  "sourceScore": 1.0,
+  "review": false
+}

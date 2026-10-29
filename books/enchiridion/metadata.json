@@ -1,0 +1,17 @@
+{
+  "id": "enchiridion",
+  "title": "The Enchiridion",
+  "author": "Epictetus",
+  "authors": [
+    "Epictetus"
+  ],
+  "publisher": "Dover Publications, Incorporated",
+  "publishedDate": "1955",
+  "isbn13": "9780061286056",
+  "isbn10": "0486111830",
+  "source": "openlibrary",
+  "sourceKey": "/works/OL27292376W",
+  "sourceQuery": "enchiridion",
+  "sourceScore": 1.0,
+  "review": false
+}
