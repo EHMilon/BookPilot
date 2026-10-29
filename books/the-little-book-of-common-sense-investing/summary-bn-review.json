@@ -1,0 +1,18 @@
+{
+  "book_id": "the-little-book-of-common-sense-investing",
+  "status": "success",
+  "word_count": 945,
+  "iterations": 1,
+  "self_review": {
+    "score": 8.9,
+    "pass": true,
+    "language_correct": true,
+    "hallucination_check": {
+      "quotes_verified": true,
+      "stats_verified": true,
+      "claims_verified": true,
+      "issues": []
+    },
+    "notes": "Premium Bangla summary written. Journey-style with personal voice. Bangladesh cultural references throughout. Structure completely different from English version. All facts verified against English summary. No forbidden phrases. No fabricated quotes."
+  }
+}
