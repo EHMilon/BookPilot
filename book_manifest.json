@@ -6435,8 +6435,11 @@
       "publicationDate": "2018-01-01",
       "isbn": "9781945796067",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Essays & Poetry",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6451,8 +6454,10 @@
       "publicationDate": "2010-01-01",
       "isbn": "9781101432945",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6467,8 +6472,12 @@
       "publicationDate": "2009-01-01",
       "isbn": "9780195374612",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Philosophy",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6483,8 +6492,12 @@
       "publicationDate": "2006-06-01",
       "isbn": "9780807014271",
       "pages": 168,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Health & Nutrition",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6499,8 +6512,12 @@
       "publicationDate": "1997-01-01",
       "isbn": "9780738203546",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Philosophy",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6515,8 +6532,12 @@
       "publicationDate": "2014-01-01",
       "isbn": "9780399165245",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Neuroscience & Brain",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6531,8 +6552,11 @@
       "publicationDate": "1973-01-01",
       "isbn": "9780393047813",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6547,8 +6571,11 @@
       "publicationDate": "1940-01-01",
       "isbn": "9780872510005",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6563,8 +6590,12 @@
       "publicationDate": "1997-01-01",
       "isbn": "9780795328053",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Nature & Environment",
+        "Health & Nutrition",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6579,8 +6610,11 @@
       "publicationDate": "2019-01-01",
       "isbn": "9781984878526",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6595,8 +6629,12 @@
       "publicationDate": "2022-08-09",
       "isbn": "9781324021957",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Parenting & Family",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6611,8 +6649,11 @@
       "publicationDate": "2009-01-01",
       "isbn": "9781572247055",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6627,8 +6668,11 @@
       "publicationDate": "2020-01-01",
       "isbn": "9781655165047",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6643,8 +6687,10 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781480560406",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6659,8 +6705,11 @@
       "publicationDate": "2000-01-01",
       "isbn": "9786075692302",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6675,8 +6724,10 @@
       "publicationDate": "1997-01-01",
       "isbn": "9780521529259",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6691,8 +6742,10 @@
       "publicationDate": "2012-01-01",
       "isbn": "9781846141577",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6707,8 +6760,11 @@
       "publicationDate": "2021-01-01",
       "isbn": "9781473563261",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mental Health & Wellbeing",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6723,8 +6779,10 @@
       "publicationDate": "2021-01-01",
       "isbn": "9781909410299",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6739,8 +6797,10 @@
       "publicationDate": "2010-01-01",
       "isbn": "9781469000749",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6755,8 +6815,12 @@
       "publicationDate": "2002-01-01",
       "isbn": "9780743222976",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Health & Nutrition",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6771,8 +6835,12 @@
       "publicationDate": "2017-01-01",
       "isbn": "9781665233200",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Neuroscience & Brain",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6787,8 +6855,10 @@
       "publicationDate": "2020-01-01",
       "isbn": "9781984886156",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6803,8 +6873,12 @@
       "publicationDate": "2019-08-13",
       "isbn": "9786023857470",
       "pages": 598,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Parenting & Family",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6819,8 +6893,10 @@
       "publicationDate": "1986-01-01",
       "isbn": "9780130739254",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6835,8 +6911,10 @@
       "publicationDate": "2003-01-01",
       "isbn": "9780415278485",
       "pages": 659,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6851,8 +6929,11 @@
       "publicationDate": "1758-01-01",
       "isbn": "9781444769029",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6867,8 +6948,12 @@
       "publicationDate": "2017-01-01",
       "isbn": "9781542049405",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Culture & Society",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6883,8 +6968,11 @@
       "publicationDate": "2014-01-01",
       "isbn": "9781502850614",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6899,8 +6987,10 @@
       "publicationDate": "2004-01-01",
       "isbn": "9780316172325",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6915,8 +7005,11 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781984897534",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6931,8 +7024,11 @@
       "publicationDate": "2018-01-01",
       "isbn": "9780241299043",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Neuroscience & Brain"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6947,8 +7043,11 @@
       "publicationDate": "2017-01-01",
       "isbn": "9781473555495",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Nature & Environment",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6963,8 +7062,11 @@
       "publicationDate": "2017-09-05",
       "isbn": "9780310345312",
       "pages": 288,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6979,8 +7081,12 @@
       "publicationDate": "2012-01-01",
       "isbn": "9780991434862",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Science & Technology",
+        "Psychology",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -6995,8 +7101,11 @@
       "publicationDate": "2025-12-30",
       "isbn": "9780735213623",
       "pages": 369,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7011,8 +7120,10 @@
       "publicationDate": "2000-01-01",
       "isbn": "",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7027,8 +7138,12 @@
       "publicationDate": "2017-01-01",
       "isbn": "9780143130406",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Parenting & Family",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7043,8 +7158,12 @@
       "publicationDate": "1959-01-01",
       "isbn": "9788190318891",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Fiction & Literature",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7059,8 +7178,10 @@
       "publicationDate": "1994-01-01",
       "isbn": "9780060516406",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7075,8 +7196,12 @@
       "publicationDate": "2018-01-01",
       "isbn": "9781377407579",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Mindfulness & Spirituality",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7091,8 +7216,11 @@
       "publicationDate": "2021-01-01",
       "isbn": "9781949759334",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mental Health & Wellbeing",
+        "Essays & Poetry"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7107,8 +7235,11 @@
       "publicationDate": "2014-01-01",
       "isbn": "9781502749635",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7123,8 +7254,11 @@
       "publicationDate": "2005-01-01",
       "isbn": "9780739322529",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7139,8 +7273,12 @@
       "publicationDate": "1993-01-01",
       "isbn": "9781935096061",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Psychology",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7155,8 +7293,11 @@
       "publicationDate": "2013-01-01",
       "isbn": "9781684415809",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7171,8 +7312,11 @@
       "publicationDate": "1800-01-01",
       "isbn": "9781096952435",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7187,8 +7331,12 @@
       "publicationDate": "2010-01-01",
       "isbn": "9780141395890",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Psychology",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7203,8 +7351,11 @@
       "publicationDate": "2009-01-01",
       "isbn": "9781449301958",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7219,8 +7370,12 @@
       "publicationDate": "1895-01-01",
       "isbn": "9781417972296",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "History & Classics",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7235,8 +7390,10 @@
       "publicationDate": "1981-01-01",
       "isbn": "9780929923727",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7251,8 +7408,11 @@
       "publicationDate": "2021-01-01",
       "isbn": "9781788166270",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7267,8 +7427,12 @@
       "publicationDate": "1996-01-01",
       "isbn": "9781135231361",
       "pages": 472,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Education & Learning",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7283,8 +7447,11 @@
       "publicationDate": "2001-01-01",
       "isbn": "9781448126286",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7299,8 +7466,12 @@
       "publicationDate": "2001-01-01",
       "isbn": "9780415820912",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Productivity & Habits",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7315,8 +7486,10 @@
       "publicationDate": "1999-01-01",
       "isbn": "9780521657297",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7331,8 +7504,12 @@
       "publicationDate": "2013-01-01",
       "isbn": "9780330512497",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Health & Nutrition",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7347,8 +7524,10 @@
       "publicationDate": "2018-01-01",
       "isbn": "9781785042140",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7363,8 +7542,10 @@
       "publicationDate": "2020-01-01",
       "isbn": "",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7379,8 +7560,11 @@
       "publicationDate": "2013-03-26",
       "isbn": "9780307956415",
       "pages": 325,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7395,8 +7579,10 @@
       "publicationDate": "1993-01-01",
       "isbn": "9780900384677",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7411,8 +7597,12 @@
       "publicationDate": "1995-01-01",
       "isbn": "9780060619961",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Parenting & Family",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7427,8 +7617,11 @@
       "publicationDate": "2013-01-01",
       "isbn": "9781472039552",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7443,8 +7636,10 @@
       "publicationDate": "2020-01-01",
       "isbn": "9780358310280",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7459,8 +7654,11 @@
       "publicationDate": "1999-01-01",
       "isbn": "9780553525687",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7475,8 +7673,11 @@
       "publicationDate": "2017-01-01",
       "isbn": "9781250274434",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7491,8 +7692,11 @@
       "publicationDate": "2022-01-01",
       "isbn": "9781788166348",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7507,8 +7711,11 @@
       "publicationDate": "2022-01-01",
       "isbn": "9781788166348",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7523,8 +7730,12 @@
       "publicationDate": "1800-01-01",
       "isbn": "9781402166914",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Philosophy",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7539,8 +7750,12 @@
       "publicationDate": "2016-01-05",
       "isbn": "9780349411910",
       "pages": 190,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Productivity & Habits",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7555,8 +7770,10 @@
       "publicationDate": "1996-01-01",
       "isbn": "9784915682070",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7571,8 +7788,12 @@
       "publicationDate": "2022-04-07",
       "isbn": "9780241552063",
       "pages": 171,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Mindfulness & Spirituality",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7587,8 +7808,11 @@
       "publicationDate": "1991-01-01",
       "isbn": "9780060165796",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Lifestyle & Minimalism"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7603,8 +7827,12 @@
       "publicationDate": "2009-01-01",
       "isbn": "9781786891709",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Education & Learning",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7619,8 +7847,10 @@
       "publicationDate": "2010-01-01",
       "isbn": "9781453601211",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7635,8 +7865,12 @@
       "publicationDate": "2001-01-01",
       "isbn": "9788499303383",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Communication & Relationships",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7651,8 +7885,10 @@
       "publicationDate": "2001-01-01",
       "isbn": "9780091883751",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7667,8 +7903,11 @@
       "publicationDate": "2018-01-01",
       "isbn": "9780525510673",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7683,8 +7922,11 @@
       "publicationDate": "2021-01-01",
       "isbn": "9780593401118",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Lifestyle & Minimalism"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7699,8 +7941,11 @@
       "publicationDate": "2019-01-01",
       "isbn": "9781523505562",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7715,8 +7960,12 @@
       "publicationDate": "2016-01-01",
       "isbn": "9780451486608",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Mental Health & Wellbeing",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7731,8 +7980,11 @@
       "publicationDate": "1955-01-01",
       "isbn": "9780061286056",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7747,8 +7999,11 @@
       "publicationDate": "1941-01-01",
       "isbn": "9780744800142",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7763,8 +8018,11 @@
       "publicationDate": "2019-01-01",
       "isbn": "9789123799794",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7779,8 +8037,12 @@
       "publicationDate": "2014-01-01",
       "isbn": "9781938793189",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Health & Nutrition",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7795,8 +8057,10 @@
       "publicationDate": "2007-01-01",
       "isbn": "9780300115468",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7811,8 +8075,12 @@
       "publicationDate": "2017-01-01",
       "isbn": "9781788178563",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Self-Help",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7827,8 +8095,11 @@
       "publicationDate": "2018-01-01",
       "isbn": "9786052997451",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7843,8 +8114,11 @@
       "publicationDate": "1980-01-01",
       "isbn": "9788449323997",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7859,8 +8133,11 @@
       "publicationDate": "1999-01-01",
       "isbn": "9788387014438",
       "pages": 105,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7875,8 +8152,11 @@
       "publicationDate": "2019-01-01",
       "isbn": "9781094025247",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7891,8 +8171,11 @@
       "publicationDate": "2013-01-01",
       "isbn": "9781846144165",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7907,8 +8190,11 @@
       "publicationDate": "1995-01-01",
       "isbn": "9780684802039",
       "pages": 384,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7923,8 +8209,11 @@
       "publicationDate": "2011-01-01",
       "isbn": "9781442339057",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7939,8 +8228,12 @@
       "publicationDate": "2001-01-01",
       "isbn": "9781587991844",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Self-Help",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7955,8 +8248,11 @@
       "publicationDate": "2019-01-01",
       "isbn": "9789388247665",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7971,8 +8267,11 @@
       "publicationDate": "1959-01-01",
       "isbn": "9780575032644",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -7987,8 +8286,10 @@
       "publicationDate": "1990-01-01",
       "isbn": "9780345536938",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8003,8 +8304,11 @@
       "publicationDate": "1969-01-01",
       "isbn": "9780939266166",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8019,8 +8323,10 @@
       "publicationDate": "2021-01-01",
       "isbn": "9780593232750",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8035,8 +8341,12 @@
       "publicationDate": "1988-01-01",
       "isbn": "9780805005851",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Psychology",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8051,8 +8361,11 @@
       "publicationDate": "2019-01-01",
       "isbn": "9789863617662",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8067,8 +8380,12 @@
       "publicationDate": "2018-01-01",
       "isbn": "9781404109834",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Happiness & Resilience",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8083,8 +8400,10 @@
       "publicationDate": "2013-01-01",
       "isbn": "9781470862879",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8099,8 +8418,11 @@
       "publicationDate": "2013-01-01",
       "isbn": "9780316234832",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Neuroscience & Brain"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8115,8 +8437,10 @@
       "publicationDate": "2011-01-01",
       "isbn": "9780062121004",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8131,8 +8455,10 @@
       "publicationDate": "1964-01-01",
       "isbn": "9780521622356",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8147,8 +8473,11 @@
       "publicationDate": "1980-01-01",
       "isbn": "9788489897755",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8163,8 +8492,12 @@
       "publicationDate": "2012-01-01",
       "isbn": "9780449014387",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Self-Help",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8179,8 +8512,12 @@
       "publicationDate": "2014-01-01",
       "isbn": "9780241003114",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Health & Nutrition",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8195,8 +8532,11 @@
       "publicationDate": "2019-01-01",
       "isbn": "9781501188398",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8211,8 +8551,11 @@
       "publicationDate": "2017-01-01",
       "isbn": "9781788176576",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8227,8 +8570,12 @@
       "publicationDate": "2008-01-01",
       "isbn": "9780316113014",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Parenting & Family",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8243,8 +8590,10 @@
       "publicationDate": "2020-01-01",
       "isbn": "9780525560548",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8259,8 +8608,12 @@
       "publicationDate": "1997-01-01",
       "isbn": "9780679779155",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Productivity & Habits",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8275,8 +8628,11 @@
       "publicationDate": "2017-01-01",
       "isbn": "9780465097951",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8291,8 +8647,10 @@
       "publicationDate": "1956-01-01",
       "isbn": "9781671746077",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8307,8 +8665,10 @@
       "publicationDate": "1900-01-01",
       "isbn": "9781521987568",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8323,8 +8683,10 @@
       "publicationDate": "1940-01-01",
       "isbn": "9788588062894",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8339,8 +8701,11 @@
       "publicationDate": "1999-01-01",
       "isbn": "9780007272617",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8355,8 +8720,11 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781665148382",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8371,8 +8739,10 @@
       "publicationDate": "2018-01-01",
       "isbn": "9781509866137",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8387,8 +8757,12 @@
       "publicationDate": "2012-01-01",
       "isbn": "9783596812530",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Communication & Relationships",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8403,8 +8777,11 @@
       "publicationDate": "1952-01-01",
       "isbn": "9780809141586",
       "pages": 140,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8419,8 +8796,12 @@
       "publicationDate": "1969-01-01",
       "isbn": "9781615879229",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Education & Learning",
+        "Fiction & Literature"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8435,8 +8816,12 @@
       "publicationDate": "2007-02-01",
       "isbn": "9781440622229",
       "pages": 338,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Mental Health & Wellbeing",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8451,8 +8836,10 @@
       "publicationDate": "2009-01-01",
       "isbn": "9781799723042",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8467,8 +8854,12 @@
       "publicationDate": "2016-01-01",
       "isbn": "9788466344180",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Nature & Environment",
+        "Finance & Wealth",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8483,8 +8874,11 @@
       "publicationDate": "1981-01-01",
       "isbn": "9780553202533",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8499,8 +8893,12 @@
       "publicationDate": "2004-01-01",
       "isbn": "9780061907418",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Parenting & Family",
+        "Fiction & Literature"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8515,8 +8913,11 @@
       "publicationDate": "1983-01-01",
       "isbn": "9781624608049",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8531,8 +8932,11 @@
       "publicationDate": "1983-01-01",
       "isbn": "9781624608049",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8547,8 +8951,12 @@
       "publicationDate": "1996-01-01",
       "isbn": "9788413141220",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Nature & Environment",
+        "Health & Nutrition",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8563,8 +8971,11 @@
       "publicationDate": "1996-01-01",
       "isbn": "9780807288283",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Travel & Adventure"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8579,8 +8990,11 @@
       "publicationDate": "1990-01-01",
       "isbn": "9780712610704",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8595,8 +9009,11 @@
       "publicationDate": "2015-01-01",
       "isbn": "9780062379993",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Essays & Poetry"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8611,8 +9028,11 @@
       "publicationDate": "2020-01-01",
       "isbn": "9780316423328",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8627,8 +9047,11 @@
       "publicationDate": "2019-01-01",
       "isbn": "9781094096667",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8643,8 +9066,11 @@
       "publicationDate": "1926-01-01",
       "isbn": "9788185301891",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8659,8 +9085,10 @@
       "publicationDate": "1989-01-01",
       "isbn": "9780062322982",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8675,8 +9103,12 @@
       "publicationDate": "2019-06-11",
       "isbn": "9781524855000",
       "pages": 319,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Mindfulness & Spirituality",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8691,8 +9123,10 @@
       "publicationDate": "2017-01-01",
       "isbn": "9780762463763",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8707,8 +9141,10 @@
       "publicationDate": "2016-08-02",
       "isbn": "9780241967874",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8723,8 +9159,11 @@
       "publicationDate": "1970-01-01",
       "isbn": "9780787108908",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8739,8 +9178,10 @@
       "publicationDate": "2020-01-01",
       "isbn": "9781250259943",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8755,8 +9196,10 @@
       "publicationDate": "2021-01-01",
       "isbn": "9781250799371",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8771,8 +9214,11 @@
       "publicationDate": "1991-01-01",
       "isbn": "9780394579153",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8787,8 +9233,12 @@
       "publicationDate": "2019-01-01",
       "isbn": "9780141990040",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Psychology",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8803,8 +9253,12 @@
       "publicationDate": "2008-01-01",
       "isbn": "9788954609876",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Memoir & Biography",
+        "Essays & Poetry"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8819,8 +9273,11 @@
       "publicationDate": "2024-01-01",
       "isbn": "9780830785346",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8835,8 +9292,11 @@
       "publicationDate": "2007-01-01",
       "isbn": "9780061437588",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8851,8 +9311,12 @@
       "publicationDate": "2019-09-10",
       "isbn": "9781501191978",
       "pages": 432,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Science & Technology",
+        "Health & Nutrition",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8867,8 +9331,10 @@
       "publicationDate": "2008-01-01",
       "isbn": "9781905744268",
       "pages": 308,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8883,8 +9349,11 @@
       "publicationDate": "2020-01-01",
       "isbn": "9781401958237",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8899,8 +9368,10 @@
       "publicationDate": "2020-01-01",
       "isbn": "9781788166010",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8915,8 +9386,11 @@
       "publicationDate": "2000-01-01",
       "isbn": "9781570624254",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8931,8 +9405,11 @@
       "publicationDate": "1992-01-01",
       "isbn": "9780874776942",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8947,8 +9424,11 @@
       "publicationDate": "1996-01-01",
       "isbn": "9780786882427",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8963,8 +9443,10 @@
       "publicationDate": "2015-01-01",
       "isbn": "9781455534692",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8979,8 +9461,10 @@
       "publicationDate": "1994-01-01",
       "isbn": "9780316323543",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -8995,8 +9479,12 @@
       "publicationDate": "2013-01-01",
       "isbn": "9780316133760",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Science & Technology",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9011,8 +9499,12 @@
       "publicationDate": "1995-01-01",
       "isbn": "9781570621765",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Health & Nutrition",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9027,8 +9519,12 @@
       "publicationDate": "2017-01-01",
       "isbn": "9780241302019",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Culture & Society",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9043,8 +9539,11 @@
       "publicationDate": "1998-01-01",
       "isbn": "9780812982008",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9059,8 +9558,10 @@
       "publicationDate": "2014-01-01",
       "isbn": "9781629239781",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9075,8 +9576,11 @@
       "publicationDate": "1964-01-01",
       "isbn": "9780440351832",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9091,8 +9595,12 @@
       "publicationDate": "1947-01-01",
       "isbn": "9787532759019",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Philosophy",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9107,8 +9615,10 @@
       "publicationDate": "2012-01-01",
       "isbn": "9780670026302",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9123,8 +9633,11 @@
       "publicationDate": "2006-01-01",
       "isbn": "9780340943748",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9139,8 +9652,11 @@
       "publicationDate": "1992-01-01",
       "isbn": "9780060168483",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9155,8 +9671,11 @@
       "publicationDate": "1932-01-01",
       "isbn": "9781887178624",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9171,8 +9690,11 @@
       "publicationDate": "2013-01-01",
       "isbn": "9781956980004",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Neuroscience & Brain"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9187,8 +9709,12 @@
       "publicationDate": "2019-01-01",
       "isbn": "9780241453575",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Communication & Relationships",
+        "Lifestyle & Minimalism"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9203,8 +9729,10 @@
       "publicationDate": "2007-01-01",
       "isbn": "9780151010981",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9219,8 +9747,11 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781760558031",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9235,8 +9766,12 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781760558031",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Mental Health & Wellbeing",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9251,8 +9786,12 @@
       "publicationDate": "2019-01-01",
       "isbn": "9789123855865",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Business & Leadership",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9267,8 +9806,10 @@
       "publicationDate": "2000-01-01",
       "isbn": "9786041017849",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9283,8 +9824,10 @@
       "publicationDate": "2019-01-01",
       "isbn": "9781529105438",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9299,8 +9842,12 @@
       "publicationDate": "2017-01-01",
       "isbn": "9780141996486",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Parenting & Family",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9315,8 +9862,10 @@
       "publicationDate": "1969-01-01",
       "isbn": "9780141198316",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9331,8 +9880,12 @@
       "publicationDate": "2022-01-01",
       "isbn": "9781544534084",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Health & Nutrition",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9347,8 +9900,12 @@
       "publicationDate": "2012-02-07",
       "isbn": "9781466805361",
       "pages": 133,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Parenting & Family",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9363,8 +9920,11 @@
       "publicationDate": "1999-01-01",
       "isbn": "9780375401459",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9379,8 +9939,10 @@
       "publicationDate": "2001-01-01",
       "isbn": "9781402580222",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9395,8 +9957,10 @@
       "publicationDate": "1999-01-01",
       "isbn": "9781892005281",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9411,8 +9975,12 @@
       "publicationDate": "2008-01-01",
       "isbn": "9780143115267",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Health & Nutrition",
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9427,8 +9995,12 @@
       "publicationDate": "2018-08-02",
       "isbn": "9780349421162",
       "pages": 136,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Productivity & Habits",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9443,8 +10015,11 @@
       "publicationDate": "1999-01-01",
       "isbn": "9780060987404",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9459,8 +10034,12 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781521542330",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Happiness & Resilience",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9475,8 +10054,11 @@
       "publicationDate": "1957-01-01",
       "isbn": "9798588774130",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Travel & Adventure",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9491,8 +10073,11 @@
       "publicationDate": "2005-01-01",
       "isbn": "9780143036326",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9507,8 +10092,11 @@
       "publicationDate": "2008-01-01",
       "isbn": "9780857081032",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9523,8 +10111,12 @@
       "publicationDate": "2019-01-01",
       "isbn": "9781984822802",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism",
+        "Communication & Relationships",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9539,8 +10131,10 @@
       "publicationDate": "2023-01-01",
       "isbn": "9780593236604",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9555,8 +10149,11 @@
       "publicationDate": "2017-01-01",
       "isbn": "9781525267222",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mental Health & Wellbeing",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9571,8 +10168,11 @@
       "publicationDate": "1990-01-01",
       "isbn": "9780938051398",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9587,8 +10187,12 @@
       "publicationDate": "2016-04-05",
       "isbn": "9781847923202",
       "pages": 338,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Self-Help",
+        "Neuroscience & Brain"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9603,8 +10207,12 @@
       "publicationDate": "1995-01-01",
       "isbn": "9780631180333",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Education & Learning",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9619,8 +10227,11 @@
       "publicationDate": "1974-01-01",
       "isbn": "9780330247153",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9635,8 +10246,11 @@
       "publicationDate": "2019-01-01",
       "isbn": "9781608685806",
       "pages": 226,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9651,8 +10265,11 @@
       "publicationDate": "1987-01-01",
       "isbn": "9780949551146",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9667,8 +10284,11 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781501109812",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9683,8 +10303,11 @@
       "publicationDate": "2008-01-01",
       "isbn": "9780062018205",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9699,8 +10322,11 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781683242338",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9715,8 +10341,10 @@
       "publicationDate": "2019-01-01",
       "isbn": "9780525538691",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9731,8 +10359,12 @@
       "publicationDate": "2019-01-01",
       "isbn": "9780735214484",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Productivity & Habits",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9747,8 +10379,12 @@
       "publicationDate": "2010-01-01",
       "isbn": "9780761159254",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Psychology",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9763,8 +10399,11 @@
       "publicationDate": "2002-01-01",
       "isbn": "9780767911900",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9779,8 +10418,12 @@
       "publicationDate": "2015-01-01",
       "isbn": "9780544705265",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Productivity & Habits",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9795,8 +10438,11 @@
       "publicationDate": "2008-01-01",
       "isbn": "9780345479891",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Neuroscience & Brain",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9811,8 +10457,12 @@
       "publicationDate": "2015-01-01",
       "isbn": "9780812995824",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Psychology",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9827,8 +10477,11 @@
       "publicationDate": "2002-01-01",
       "isbn": "9781590790151",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9843,8 +10496,11 @@
       "publicationDate": "1991-01-01",
       "isbn": "9780961891633",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Essays & Poetry"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9859,8 +10515,11 @@
       "publicationDate": "2017-01-01",
       "isbn": "9781945796753",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9875,8 +10534,10 @@
       "publicationDate": "1926-01-01",
       "isbn": "9798685091123",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9891,8 +10552,11 @@
       "publicationDate": "2011-01-01",
       "isbn": "9781716994982",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9907,8 +10571,10 @@
       "publicationDate": "2011-01-01",
       "isbn": "9781499277975",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9923,8 +10589,10 @@
       "publicationDate": "2014-01-01",
       "isbn": "9780986019555",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9939,8 +10607,12 @@
       "publicationDate": "2013-09-05",
       "isbn": "9780141961194",
       "pages": 265,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Psychology",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9955,8 +10627,12 @@
       "publicationDate": "2005-01-01",
       "isbn": "9789867291813",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Psychology",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9971,8 +10647,10 @@
       "publicationDate": "2017-01-01",
       "isbn": "9781947200807",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -9987,8 +10665,12 @@
       "publicationDate": "1979-01-01",
       "isbn": "9780786134830",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Creativity & Art",
+        "Fiction & Literature"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10003,8 +10685,11 @@
       "publicationDate": "1922-01-01",
       "isbn": "9788484502111",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10019,8 +10704,12 @@
       "publicationDate": "1995-01-01",
       "isbn": "9781570424601",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Productivity & Habits",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10035,8 +10724,11 @@
       "publicationDate": "2017-01-01",
       "isbn": "9782251447599",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10051,8 +10743,11 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781473517653",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10067,8 +10762,10 @@
       "publicationDate": "2012-09-18",
       "isbn": "9781455509102",
       "pages": 163,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10083,8 +10780,11 @@
       "publicationDate": "1988-01-01",
       "isbn": "9780201079791",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10099,8 +10799,12 @@
       "publicationDate": "2017-01-01",
       "isbn": "9780143130680",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Mindfulness & Spirituality",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10115,8 +10819,10 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781607749721",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10131,8 +10837,10 @@
       "publicationDate": "2002-01-01",
       "isbn": "9780761563518",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10147,8 +10855,11 @@
       "publicationDate": "1994-01-01",
       "isbn": "9780877738800",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10163,8 +10874,11 @@
       "publicationDate": "2004-01-01",
       "isbn": "9780670044672",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10179,8 +10893,12 @@
       "publicationDate": "2019-01-01",
       "isbn": "9780525538585",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Mindfulness & Spirituality",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10195,8 +10913,12 @@
       "publicationDate": "2013-01-01",
       "isbn": "9781444187120",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Psychology",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10211,8 +10933,11 @@
       "publicationDate": "2009-01-01",
       "isbn": "9781588368515",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10227,8 +10952,11 @@
       "publicationDate": "2006-01-01",
       "isbn": "9780676978582",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10243,8 +10971,12 @@
       "publicationDate": "2009-01-01",
       "isbn": "9781605508467",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Business & Leadership",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10259,8 +10991,10 @@
       "publicationDate": "2019-01-01",
       "isbn": "9786075571119",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10275,8 +11009,11 @@
       "publicationDate": "2015-01-01",
       "isbn": "9781101905562",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10291,8 +11028,10 @@
       "publicationDate": "2014-01-01",
       "isbn": "9781503295599",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10307,8 +11046,12 @@
       "publicationDate": "2010-02-16",
       "isbn": "9780307373878",
       "pages": 322,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Health & Nutrition",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10323,8 +11066,12 @@
       "publicationDate": "1842-01-01",
       "isbn": "9782220035529",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Nature & Environment",
+        "Philosophy",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10339,8 +11086,11 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781472228048",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10355,8 +11105,11 @@
       "publicationDate": "2014-01-01",
       "isbn": "9789861343693",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10371,8 +11124,11 @@
       "publicationDate": "2013-01-01",
       "isbn": "9781394348954",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10387,8 +11143,11 @@
       "publicationDate": "1998-01-01",
       "isbn": "9781861979988",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10403,8 +11162,10 @@
       "publicationDate": "1999-01-01",
       "isbn": "9788499084480",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10419,8 +11180,11 @@
       "publicationDate": "1987-01-01",
       "isbn": "9789782651020",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10435,8 +11199,10 @@
       "publicationDate": "1995-01-01",
       "isbn": "9780425150757",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10451,8 +11217,12 @@
       "publicationDate": "1979-01-01",
       "isbn": "9781731705051",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Philosophy",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10467,8 +11237,12 @@
       "publicationDate": "2011-01-01",
       "isbn": "9781136641671",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Productivity & Habits",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10483,8 +11257,12 @@
       "publicationDate": "1959-01-01",
       "isbn": "9781317534600",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Fiction & Literature",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10499,8 +11277,12 @@
       "publicationDate": "2006-01-01",
       "isbn": "9780375424434",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Communication & Relationships",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10515,8 +11297,10 @@
       "publicationDate": "1992-01-01",
       "isbn": "9789355434029",
       "pages": 152,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10531,8 +11315,11 @@
       "publicationDate": "2026-08-31",
       "isbn": "9798720499402",
       "pages": 603,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Essays & Poetry"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10547,8 +11334,12 @@
       "publicationDate": "2013-01-01",
       "isbn": "9780062224668",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Health & Nutrition",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10563,8 +11354,12 @@
       "publicationDate": "2015-01-01",
       "isbn": "9781444794496",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Education & Learning",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10579,8 +11374,12 @@
       "publicationDate": "2024-01-01",
       "isbn": "9780241638279",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Culture & Society",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10595,8 +11394,11 @@
       "publicationDate": "2002-01-01",
       "isbn": "9780553802054",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10611,8 +11413,12 @@
       "publicationDate": "1998-01-01",
       "isbn": "9780671582739",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Psychology",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10627,8 +11433,12 @@
       "publicationDate": "2007-01-01",
       "isbn": "9780743277457",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Parenting & Family",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10643,8 +11453,11 @@
       "publicationDate": "1956-01-01",
       "isbn": "9781544268132",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10659,8 +11472,12 @@
       "publicationDate": "1992-01-01",
       "isbn": "9780877738510",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Essays & Poetry",
+        "Mindfulness & Spirituality",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10675,8 +11492,12 @@
       "publicationDate": "2007-03-01",
       "isbn": "9781602060517",
       "pages": 529,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Psychology",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10691,8 +11512,12 @@
       "publicationDate": "2020-01-01",
       "isbn": "9780008444228",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Productivity & Habits",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10707,8 +11532,11 @@
       "publicationDate": "1926-01-01",
       "isbn": "9780674992122",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10723,8 +11551,11 @@
       "publicationDate": "2001-01-01",
       "isbn": "9788467037593",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10739,8 +11570,10 @@
       "publicationDate": "2020-01-01",
       "isbn": "9781615196616",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10755,8 +11588,11 @@
       "publicationDate": "2019-01-01",
       "isbn": "9780143134046",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10771,8 +11607,11 @@
       "publicationDate": "2002-01-01",
       "isbn": "9781593760076",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10787,8 +11626,11 @@
       "publicationDate": "2002-01-01",
       "isbn": "9780141013343",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10803,8 +11645,11 @@
       "publicationDate": "2016-01-01",
       "isbn": "9781611802795",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10819,8 +11664,10 @@
       "publicationDate": "1900-01-01",
       "isbn": "9798720499402",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10835,8 +11682,10 @@
       "publicationDate": "1992-01-01",
       "isbn": "9780874776942",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10851,8 +11700,10 @@
       "publicationDate": "2003-01-01",
       "isbn": "9780743538411",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10867,8 +11718,10 @@
       "publicationDate": "2004-01-01",
       "isbn": "9781841127187",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10883,8 +11736,12 @@
       "publicationDate": "2010-01-01",
       "isbn": "9780141985022",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "Business & Leadership",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10899,8 +11756,12 @@
       "publicationDate": "2015-01-01",
       "isbn": "9781906461737",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Health & Nutrition",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10915,8 +11776,12 @@
       "publicationDate": "1944-01-01",
       "isbn": "9780451620453",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Communication & Relationships",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10931,8 +11796,11 @@
       "publicationDate": "2005-01-01",
       "isbn": "9780141889238",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10947,8 +11815,10 @@
       "publicationDate": "2023-01-01",
       "isbn": "9781032543185",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10963,8 +11833,10 @@
       "publicationDate": "1900-01-01",
       "isbn": "9781520099392",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10979,8 +11851,11 @@
       "publicationDate": "1977-01-01",
       "isbn": "9788420466279",
       "pages": 740,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Essays & Poetry"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -10995,8 +11870,12 @@
       "publicationDate": "2013-01-01",
       "isbn": "9781546794509",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Education & Learning",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11011,8 +11890,11 @@
       "publicationDate": "2020-01-01",
       "isbn": "9781529401295",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11027,8 +11909,10 @@
       "publicationDate": "2016-01-01",
       "isbn": "9780399185045",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11043,8 +11927,10 @@
       "publicationDate": "2009-01-01",
       "isbn": "9780061937675",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11059,8 +11945,12 @@
       "publicationDate": "2004-01-01",
       "isbn": "9781428027046",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Mindfulness & Spirituality",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11075,8 +11965,12 @@
       "publicationDate": "2000-01-01",
       "isbn": "9787121013645",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Business & Leadership",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11091,8 +11985,12 @@
       "publicationDate": "2018-08-23",
       "isbn": "9781532653438",
       "pages": 277,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Happiness & Resilience",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11107,8 +12005,10 @@
       "publicationDate": "2012-05-15",
       "isbn": "9781451667530",
       "pages": 274,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11123,8 +12023,12 @@
       "publicationDate": "1985-01-01",
       "isbn": "9780394737997",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Culture & Society",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11139,8 +12043,10 @@
       "publicationDate": "2004-01-01",
       "isbn": "9781118177297",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11155,8 +12061,10 @@
       "publicationDate": "2002-01-01",
       "isbn": "9780471266044",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11171,8 +12079,10 @@
       "publicationDate": "2018-01-01",
       "isbn": "9781635652437",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11187,8 +12097,12 @@
       "publicationDate": "1920-01-01",
       "isbn": "9781623367084",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Self-Help",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11203,8 +12117,11 @@
       "publicationDate": "2004-01-01",
       "isbn": "9781890626525",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11219,8 +12136,11 @@
       "publicationDate": "2004-01-01",
       "isbn": "9781890626525",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11235,8 +12155,11 @@
       "publicationDate": "2010-01-01",
       "isbn": "9780306924644",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11251,8 +12174,12 @@
       "publicationDate": "2017-03-07",
       "isbn": "9780393292190",
       "pages": 371,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Essays & Poetry",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11267,8 +12194,10 @@
       "publicationDate": "1930-01-01",
       "isbn": "9780041710045",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11283,8 +12212,11 @@
       "publicationDate": "1999-01-01",
       "isbn": "9780140447804",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11299,8 +12231,10 @@
       "publicationDate": "2000-01-01",
       "isbn": "9780786167371",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11315,8 +12249,12 @@
       "publicationDate": "2011-01-01",
       "isbn": "9780393340518",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Culture & Society",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11331,8 +12269,10 @@
       "publicationDate": "1952-01-01",
       "isbn": "9780006406990",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11347,8 +12287,11 @@
       "publicationDate": "1975-01-01",
       "isbn": "9780393011197",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11363,8 +12306,12 @@
       "publicationDate": "2023-01-01",
       "isbn": "9781838858636",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Mindfulness & Spirituality",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11379,8 +12326,12 @@
       "publicationDate": "2003-01-01",
       "isbn": "9780743235266",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Productivity & Habits",
+        "Neuroscience & Brain"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11395,8 +12346,11 @@
       "publicationDate": "2017-01-01",
       "isbn": "9781101983966",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Science & Technology",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11411,8 +12365,11 @@
       "publicationDate": "1995-01-01",
       "isbn": "9780938077879",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11427,8 +12384,12 @@
       "publicationDate": "1950-01-01",
       "isbn": "9780451084941",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Nature & Environment",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11443,8 +12404,10 @@
       "publicationDate": "2018-01-01",
       "isbn": "9781771642651",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11459,8 +12422,11 @@
       "publicationDate": "2010-09-15",
       "isbn": "9780307776204",
       "pages": 361,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11475,8 +12441,10 @@
       "publicationDate": "2018-01-01",
       "isbn": "9781250247100",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11491,8 +12459,10 @@
       "publicationDate": "1997-01-01",
       "isbn": "",
       "pages": 152,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11507,8 +12477,12 @@
       "publicationDate": "2010-12-01",
       "isbn": "9780307772916",
       "pages": 338,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Mindfulness & Spirituality",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11523,8 +12497,10 @@
       "publicationDate": "2017-01-24",
       "isbn": "9780062574350",
       "pages": 212,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11539,8 +12515,10 @@
       "publicationDate": "2008-08-28",
       "isbn": "9780141918150",
       "pages": 820,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11555,8 +12533,12 @@
       "publicationDate": "2009-01-01",
       "isbn": "9780670020478",
       "pages": 290,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Education & Learning",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11571,8 +12553,11 @@
       "publicationDate": "1989-01-01",
       "isbn": "",
       "pages": 280,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Nature & Environment",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11587,8 +12572,12 @@
       "publicationDate": "1995-06-09",
       "isbn": "9780062509581",
       "pages": 418,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Essays & Poetry",
+        "Mindfulness & Spirituality",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11603,8 +12592,12 @@
       "publicationDate": "1992-09-22",
       "isbn": "9780674268630",
       "pages": 164,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Culture & Society",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11619,8 +12612,11 @@
       "publicationDate": "2007-01-01",
       "isbn": "9781929774449",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11635,8 +12631,11 @@
       "publicationDate": "1942-01-01",
       "isbn": "",
       "pages": 284,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11651,8 +12650,12 @@
       "publicationDate": "2000-01-01",
       "isbn": "9780434007738",
       "pages": 386,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Neuroscience & Brain",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11667,8 +12670,10 @@
       "publicationDate": "2006-01-01",
       "isbn": "9780749926748",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11683,8 +12688,12 @@
       "publicationDate": "2003-09-23",
       "isbn": "9780786868711",
       "pages": 210,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "Health & Nutrition",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11699,8 +12708,10 @@
       "publicationDate": "2012-03-25",
       "isbn": "9781400841936",
       "pages": 491,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11715,8 +12726,11 @@
       "publicationDate": "2017-09-12",
       "isbn": "9781524760922",
       "pages": 273,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11731,8 +12745,12 @@
       "publicationDate": "1974-01-01",
       "isbn": "9780875482019",
       "pages": 308,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Psychology",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11747,8 +12765,10 @@
       "publicationDate": "2023-03-15",
       "isbn": "9780486851075",
       "pages": 64,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11763,8 +12783,11 @@
       "publicationDate": "2009-09-03",
       "isbn": "9781101136249",
       "pages": 385,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11779,8 +12802,12 @@
       "publicationDate": "2001-08-23",
       "isbn": "9780521636452",
       "pages": 316,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Communication & Relationships",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11795,8 +12822,12 @@
       "publicationDate": "2011-01-01",
       "isbn": "9780307387301",
       "pages": 380,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Neuroscience & Brain",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11811,8 +12842,12 @@
       "publicationDate": "2017-12-28",
       "isbn": "9781786891099",
       "pages": 126,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Parenting & Family",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11827,8 +12862,11 @@
       "publicationDate": "2000-01-01",
       "isbn": "9786021637951",
       "pages": 425,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Travel & Adventure"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11843,8 +12881,11 @@
       "publicationDate": "2016-01-01",
       "isbn": "9780241257340",
       "pages": 34,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Essays & Poetry",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11859,8 +12900,12 @@
       "publicationDate": "2005-03-01",
       "isbn": "9780743247535",
       "pages": 306,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Parenting & Family",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11875,8 +12920,12 @@
       "publicationDate": "2026-09-21",
       "isbn": "",
       "pages": 41,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Education & Learning",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11891,8 +12940,11 @@
       "publicationDate": "1975-01-01",
       "isbn": "9780395207086",
       "pages": 354,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Travel & Adventure",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11907,8 +12959,12 @@
       "publicationDate": "2025-08-18",
       "isbn": "",
       "pages": 74,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Neuroscience & Brain",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11923,8 +12979,12 @@
       "publicationDate": "2024-01-26",
       "isbn": "9788119726035",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Mindfulness & Spirituality",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11939,8 +12999,11 @@
       "publicationDate": "2020-01-01",
       "isbn": "9780369348906",
       "pages": 167,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Parenting & Family",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11955,8 +13018,12 @@
       "publicationDate": "2006-01-01",
       "isbn": "9780099478898",
       "pages": 322,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Science & Technology",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11971,8 +13038,12 @@
       "publicationDate": "2010-12-28",
       "isbn": "9781554688494",
       "pages": 323,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Productivity & Habits",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -11987,8 +13058,12 @@
       "publicationDate": "2016-01-26",
       "isbn": "9780062344021",
       "pages": 148,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Productivity & Habits",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12003,8 +13078,12 @@
       "publicationDate": "2013-01-01",
       "isbn": "9781921966347",
       "pages": 282,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Psychology",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12019,8 +13098,11 @@
       "publicationDate": "2016-09-27",
       "isbn": "9781250104908",
       "pages": 224,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12035,8 +13117,11 @@
       "publicationDate": "2012-06-12",
       "isbn": "9780834827912",
       "pages": 180,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12051,8 +13136,11 @@
       "publicationDate": "2017-08-13",
       "isbn": "9781974509720",
       "pages": 108,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12067,8 +13155,12 @@
       "publicationDate": "2008-01-01",
       "isbn": "9781577315933",
       "pages": 436,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Culture & Society",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12083,8 +13175,10 @@
       "publicationDate": "2021-09-28",
       "isbn": "9781401962128",
       "pages": 265,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12099,8 +13193,10 @@
       "publicationDate": "2012-01-01",
       "isbn": "9780007477319",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12115,8 +13211,11 @@
       "publicationDate": "2008-12-30",
       "isbn": "9780143114956",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12131,8 +13230,12 @@
       "publicationDate": "1998-01-01",
       "isbn": "9780674461710",
       "pages": 380,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Philosophy",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12147,8 +13250,11 @@
       "publicationDate": "2018-07-17",
       "isbn": "9781611805918",
       "pages": 265,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12163,8 +13269,12 @@
       "publicationDate": "1997-01-01",
       "isbn": "9781853264849",
       "pages": 484,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Mindfulness & Spirituality",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12179,8 +13289,12 @@
       "publicationDate": "2023-01-31",
       "isbn": "9798887290539",
       "pages": 34,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Mindfulness & Spirituality",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12195,8 +13309,11 @@
       "publicationDate": "2016-01-01",
       "isbn": "",
       "pages": 64,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12211,8 +13328,10 @@
       "publicationDate": "2016-01-01",
       "isbn": "",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12227,8 +13346,10 @@
       "publicationDate": "2019-08-06",
       "isbn": "9780735213555",
       "pages": 104,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12243,8 +13364,11 @@
       "publicationDate": "2019-05-07",
       "isbn": "9781982120238",
       "pages": 160,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12259,8 +13383,12 @@
       "publicationDate": "2018-01-01",
       "isbn": "9780525561804",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Psychology",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12275,8 +13403,11 @@
       "publicationDate": "2020-08-11",
       "isbn": "9780525653929",
       "pages": 242,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12291,8 +13422,11 @@
       "publicationDate": "2024-12-24",
       "isbn": "9781788176651",
       "pages": 353,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12307,8 +13441,10 @@
       "publicationDate": "2000-01-01",
       "isbn": "",
       "pages": 135,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12323,8 +13459,11 @@
       "publicationDate": "2014-10-14",
       "isbn": "9781607747307",
       "pages": 226,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism",
+        "Fantasy & Sci-Fi"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12339,8 +13478,12 @@
       "publicationDate": "1981-01-01",
       "isbn": "9780156519922",
       "pages": 546,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Psychology",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12355,8 +13498,10 @@
       "publicationDate": "2022-11-15",
       "isbn": "9780593677902",
       "pages": 238,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12371,8 +13516,12 @@
       "publicationDate": "2015-01-13",
       "isbn": "9781476754482",
       "pages": 288,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Communication & Relationships",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12387,8 +13536,11 @@
       "publicationDate": "2017-10-16",
       "isbn": "9781119404507",
       "pages": 311,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12403,8 +13555,12 @@
       "publicationDate": "2016-09-01",
       "isbn": "9780241283936",
       "pages": 329,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Productivity & Habits",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12419,8 +13575,10 @@
       "publicationDate": "2024-12-17",
       "isbn": "9781394283194",
       "pages": 233,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12435,8 +13593,12 @@
       "publicationDate": "2019-01-19",
       "isbn": "9783952506912",
       "pages": 519,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Self-Help",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12451,8 +13613,12 @@
       "publicationDate": "2012-09-06",
       "isbn": "9781446492819",
       "pages": 88,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Neuroscience & Brain",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12467,8 +13633,11 @@
       "publicationDate": "2015-10-01",
       "isbn": "9781925234190",
       "pages": 32,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Tales & Fables",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12483,8 +13652,10 @@
       "publicationDate": "2009-08-10",
       "isbn": "9781847378057",
       "pages": 291,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12499,8 +13670,10 @@
       "publicationDate": "2007-01-01",
       "isbn": "",
       "pages": 584,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12515,8 +13688,12 @@
       "publicationDate": "2004-11-11",
       "isbn": "9780192804389",
       "pages": 305,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "Mindfulness & Spirituality",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12531,8 +13708,12 @@
       "publicationDate": "2010-03-25",
       "isbn": "9781934408032",
       "pages": 225,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Health & Nutrition",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12547,8 +13728,12 @@
       "publicationDate": "1996-08-27",
       "isbn": "9780345410023",
       "pages": 242,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Neuroscience & Brain",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12563,8 +13748,11 @@
       "publicationDate": "2011-09-06",
       "isbn": "9781451665994",
       "pages": 178,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12579,8 +13767,11 @@
       "publicationDate": "2005-04-07",
       "isbn": "9780071469531",
       "pages": 442,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12595,8 +13786,12 @@
       "publicationDate": "2018-12-18",
       "isbn": "9781601427991",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism",
+        "Creativity & Art",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12611,8 +13806,10 @@
       "publicationDate": "2019-04-18",
       "isbn": "9781473695948",
       "pages": 227,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12627,8 +13824,12 @@
       "publicationDate": "2023-12-12",
       "isbn": "9781637744352",
       "pages": 304,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Health & Nutrition",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12643,8 +13844,11 @@
       "publicationDate": "2016-10-25",
       "isbn": "9780807064900",
       "pages": 178,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12659,8 +13863,12 @@
       "publicationDate": "2012-11-26",
       "isbn": "9781781800584",
       "pages": 209,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Communication & Relationships",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12675,8 +13883,10 @@
       "publicationDate": "2018-11-27",
       "isbn": "9780465094639",
       "pages": 590,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12691,8 +13901,12 @@
       "publicationDate": "2018-11-20",
       "isbn": "9781601427977",
       "pages": 242,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism",
+        "Happiness & Resilience",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12707,8 +13921,11 @@
       "publicationDate": "2014-10-28",
       "isbn": "9781401948085",
       "pages": 257,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12723,8 +13940,12 @@
       "publicationDate": "2021-11-09",
       "isbn": "9781644210697",
       "pages": 227,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Travel & Adventure",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12739,8 +13960,11 @@
       "publicationDate": "2013-10-31",
       "isbn": "9780141914176",
       "pages": 224,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12755,8 +13979,12 @@
       "publicationDate": "2014-01-28",
       "isbn": "9780143124511",
       "pages": 317,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Self-Help",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12771,8 +13999,12 @@
       "publicationDate": "2017-01-01",
       "isbn": "9780393242713",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Nature & Environment",
+        "Health & Nutrition",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12787,8 +14019,10 @@
       "publicationDate": "2009-06-11",
       "isbn": "9780191607462",
       "pages": 336,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12803,8 +14037,11 @@
       "publicationDate": "2019-01-10",
       "isbn": "9780715653180",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12819,8 +14056,10 @@
       "publicationDate": "1989-01-01",
       "isbn": "9780874775044",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12835,8 +14074,10 @@
       "publicationDate": "2016-03-03",
       "isbn": "9781771641272",
       "pages": 328,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12851,8 +14092,12 @@
       "publicationDate": "2012-01-01",
       "isbn": "9780670025114",
       "pages": 432,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Travel & Adventure",
+        "Creativity & Art",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12867,8 +14112,12 @@
       "publicationDate": "2025-09-05",
       "isbn": "9789373174334",
       "pages": 179,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Business & Leadership",
+        "Fiction & Literature"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12883,8 +14132,11 @@
       "publicationDate": "2021-04-20",
       "isbn": "9781039000698",
       "pages": 531,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12899,8 +14151,11 @@
       "publicationDate": "2015-09-15",
       "isbn": "9780349406701",
       "pages": 198,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12915,8 +14170,12 @@
       "publicationDate": "2003-12-22",
       "isbn": "9780060005689",
       "pages": 288,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Happiness & Resilience",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12931,8 +14190,12 @@
       "publicationDate": "1994-01-01",
       "isbn": "",
       "pages": 324,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Productivity & Habits",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12947,8 +14210,12 @@
       "publicationDate": "2008-03-01",
       "isbn": "9781604622768",
       "pages": 160,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Travel & Adventure",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12963,8 +14230,11 @@
       "publicationDate": "2023-04-04",
       "isbn": "9781949759709",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12979,8 +14249,12 @@
       "publicationDate": "2024-05-09",
       "isbn": "9781035052189",
       "pages": 368,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Health & Nutrition",
+        "Travel & Adventure"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -12995,8 +14269,10 @@
       "publicationDate": "2007-01-01",
       "isbn": "",
       "pages": 210,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13011,8 +14287,10 @@
       "publicationDate": "1998-01-01",
       "isbn": "9780140278514",
       "pages": 296,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13027,8 +14305,10 @@
       "publicationDate": "2019-02-05",
       "isbn": "9780062909718",
       "pages": 416,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13043,8 +14323,11 @@
       "publicationDate": "2011-05-26",
       "isbn": "9780199747498",
       "pages": 176,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13059,8 +14342,10 @@
       "publicationDate": "2009-01-01",
       "isbn": "9781844837984",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13075,8 +14360,11 @@
       "publicationDate": "2014-01-07",
       "isbn": "9780812981605",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13091,8 +14379,12 @@
       "publicationDate": "2019-06-11",
       "isbn": "9781788173346",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Lifestyle & Minimalism",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13107,8 +14399,10 @@
       "publicationDate": "2017-10-03",
       "isbn": "9781501147760",
       "pages": 320,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13123,8 +14417,12 @@
       "publicationDate": "1988-01-01",
       "isbn": "9780385247740",
       "pages": 276,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Education & Learning",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13139,8 +14437,11 @@
       "publicationDate": "2020-11-03",
       "isbn": "9780241470053",
       "pages": 185,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13155,8 +14456,11 @@
       "publicationDate": "2017-10-03",
       "isbn": "9780893892791",
       "pages": 448,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13171,8 +14475,12 @@
       "publicationDate": "2025-03-18",
       "isbn": "9781567928242",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Philosophy",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13187,8 +14495,11 @@
       "publicationDate": "2016-01-05",
       "isbn": "9781101904046",
       "pages": 314,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13203,8 +14514,12 @@
       "publicationDate": "1977-01-01",
       "isbn": "9780671724009",
       "pages": 228,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Creativity & Art",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13219,8 +14534,10 @@
       "publicationDate": "2013-10-01",
       "isbn": "9781492777861",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13235,8 +14552,11 @@
       "publicationDate": "2017-05-01",
       "isbn": "9781119301370",
       "pages": 265,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13251,8 +14571,12 @@
       "publicationDate": "2020-11-10",
       "isbn": "9781775594758",
       "pages": 246,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Mindfulness & Spirituality",
+        "Mental Health & Wellbeing"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13267,8 +14591,12 @@
       "publicationDate": "2002-06-25",
       "isbn": "9780609809532",
       "pages": 316,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Self-Help",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13283,8 +14611,12 @@
       "publicationDate": "1999-12-27",
       "isbn": "9781101127834",
       "pages": 232,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Self-Help",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13299,8 +14631,10 @@
       "publicationDate": "2012-03-13",
       "isbn": "9780307907035",
       "pages": 450,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13315,8 +14649,12 @@
       "publicationDate": "2012-10-31",
       "isbn": "9781448148455",
       "pages": 324,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Self-Help",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13331,8 +14669,12 @@
       "publicationDate": "1957-01-01",
       "isbn": "",
       "pages": 215,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Communication & Relationships",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13347,8 +14689,10 @@
       "publicationDate": "2025-04-01",
       "isbn": "9789370811140",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Travel & Adventure"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13363,8 +14707,10 @@
       "publicationDate": "2002-07-25",
       "isbn": "9788172242275",
       "pages": 135,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Essays & Poetry"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13379,8 +14725,11 @@
       "publicationDate": "2002-01-01",
       "isbn": "9780415270984",
       "pages": 419,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13395,8 +14744,12 @@
       "publicationDate": "2024-11-21",
       "isbn": "",
       "pages": 59,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Nature & Environment",
+        "Neuroscience & Brain"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13411,8 +14764,12 @@
       "publicationDate": "2024-03-14",
       "isbn": "9781398526396",
       "pages": 144,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Happiness & Resilience",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13427,8 +14784,10 @@
       "publicationDate": "2012-02-07",
       "isbn": "9781451641448",
       "pages": 344,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13443,8 +14802,11 @@
       "publicationDate": "1938-01-01",
       "isbn": "",
       "pages": 151,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13459,8 +14821,10 @@
       "publicationDate": "2014-08-29",
       "isbn": "9781473600119",
       "pages": 217,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13475,8 +14839,12 @@
       "publicationDate": "2010-03-29",
       "isbn": "9781934408124",
       "pages": 82,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Mindfulness & Spirituality",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13491,8 +14859,10 @@
       "publicationDate": "2012-09-27",
       "isbn": "9781846147531",
       "pages": 348,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13507,8 +14877,10 @@
       "publicationDate": "2014-01-01",
       "isbn": "9781408851210",
       "pages": 337,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13523,8 +14895,11 @@
       "publicationDate": "2013-11-04",
       "isbn": "9781626340473",
       "pages": 297,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13539,8 +14914,12 @@
       "publicationDate": "2013-01-31",
       "isbn": "9780007516841",
       "pages": 23,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society",
+        "Health & Nutrition",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13555,8 +14934,11 @@
       "publicationDate": "1996-01-01",
       "isbn": "9781860461538",
       "pages": 324,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Travel & Adventure"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13571,8 +14953,12 @@
       "publicationDate": "2012-01-03",
       "isbn": "9780812979374",
       "pages": 368,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Science & Technology",
+        "Culture & Society",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13587,8 +14973,12 @@
       "publicationDate": "2026-02-22",
       "isbn": "",
       "pages": 35,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "Self-Help",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13603,8 +14993,10 @@
       "publicationDate": "2019-01-08",
       "isbn": "9780300240511",
       "pages": 271,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13619,8 +15011,12 @@
       "publicationDate": "2013-08-29",
       "isbn": "9781448189922",
       "pages": 356,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Science & Technology",
+        "Self-Help",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13635,8 +15031,11 @@
       "publicationDate": "2018-10-09",
       "isbn": "9780062322593",
       "pages": 266,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13651,8 +15050,10 @@
       "publicationDate": "1903-01-01",
       "isbn": "",
       "pages": 588,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13667,8 +15068,12 @@
       "publicationDate": "2012-04-10",
       "isbn": "9780547644813",
       "pages": 279,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Fiction & Literature",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13683,8 +15088,10 @@
       "publicationDate": "1946-01-01",
       "isbn": "",
       "pages": 174,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13699,8 +15106,12 @@
       "publicationDate": "2005-01-01",
       "isbn": "9780007195084",
       "pages": 514,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Self-Help",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13715,8 +15126,12 @@
       "publicationDate": "2023-03-01",
       "isbn": "9781797141510",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society",
+        "Self-Help",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13731,8 +15146,12 @@
       "publicationDate": "2009-04-28",
       "isbn": "9780553806847",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Neuroscience & Brain",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13747,8 +15166,12 @@
       "publicationDate": "2026-10-06",
       "isbn": "9781668259665",
       "pages": 129,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "History & Classics",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13763,8 +15186,12 @@
       "publicationDate": "2016-02-08",
       "isbn": "9781614279303",
       "pages": 74,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Education & Learning",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13779,8 +15206,12 @@
       "publicationDate": "2017-01-26",
       "isbn": "9781409173014",
       "pages": 284,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Health & Nutrition",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13795,8 +15226,11 @@
       "publicationDate": "2008-01-01",
       "isbn": "9781846041051",
       "pages": 468,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13811,8 +15245,12 @@
       "publicationDate": "2013-01-01",
       "isbn": "9781471322181",
       "pages": 455,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "Health & Nutrition",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13827,8 +15265,12 @@
       "publicationDate": "2002-01-01",
       "isbn": "9781417665792",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Communication & Relationships",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13843,8 +15285,10 @@
       "publicationDate": "1989-01-01",
       "isbn": "",
       "pages": 212,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13859,8 +15303,11 @@
       "publicationDate": "1987-10-01",
       "isbn": "9780671665029",
       "pages": 223,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13875,8 +15322,12 @@
       "publicationDate": "2015-09-15",
       "isbn": "9781619025998",
       "pages": 257,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society",
+        "Creativity & Art",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13891,8 +15342,11 @@
       "publicationDate": "1896-01-01",
       "isbn": "",
       "pages": 152,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13907,8 +15361,12 @@
       "publicationDate": "2010-01-01",
       "isbn": "9780007354764",
       "pages": 75,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Education & Learning",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13923,8 +15381,10 @@
       "publicationDate": "1993-01-01",
       "isbn": "9788172240912",
       "pages": 327,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13939,8 +15399,10 @@
       "publicationDate": "2004-01-01",
       "isbn": "9781590301432",
       "pages": 208,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13955,8 +15417,11 @@
       "publicationDate": "2012-01-01",
       "isbn": "9780985452308",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13971,8 +15436,12 @@
       "publicationDate": "2000-01-01",
       "isbn": "9780915811892",
       "pages": 242,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "Self-Help",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -13987,8 +15456,12 @@
       "publicationDate": "2024-01-01",
       "isbn": "9781398833890",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Business & Leadership",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14003,8 +15476,12 @@
       "publicationDate": "2004-01-01",
       "isbn": "9780863040832",
       "pages": 290,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Productivity & Habits",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14019,8 +15496,12 @@
       "publicationDate": "1989-01-01",
       "isbn": "",
       "pages": 266,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Psychology",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14035,8 +15516,11 @@
       "publicationDate": "1995-09-01",
       "isbn": "9780761501664",
       "pages": 212,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14051,8 +15535,12 @@
       "publicationDate": "2003-07-29",
       "isbn": "9780393050943",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Fiction & Literature",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14067,8 +15555,10 @@
       "publicationDate": "2000-01-01",
       "isbn": "",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14083,8 +15573,12 @@
       "publicationDate": "2025-02-06",
       "isbn": "9781805463818",
       "pages": 180,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Science & Technology",
+        "Mindfulness & Spirituality",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14099,8 +15593,12 @@
       "publicationDate": "2018-07-01",
       "isbn": "9781722140663",
       "pages": 522,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Philosophy",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14115,8 +15613,10 @@
       "publicationDate": "2022-06-28",
       "isbn": "9781649630209",
       "pages": 44,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14131,8 +15631,11 @@
       "publicationDate": "1999-09-13",
       "isbn": "",
       "pages": 352,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Parenting & Family"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14147,8 +15650,11 @@
       "publicationDate": "1951-01-01",
       "isbn": "",
       "pages": 162,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14163,8 +15669,11 @@
       "publicationDate": "1892-01-01",
       "isbn": "",
       "pages": 184,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14179,8 +15688,11 @@
       "publicationDate": "1932-01-01",
       "isbn": "",
       "pages": 326,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14195,8 +15707,12 @@
       "publicationDate": "1912-01-01",
       "isbn": "9781409782247",
       "pages": 112,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Culture & Society",
+        "Essays & Poetry"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14211,8 +15727,12 @@
       "publicationDate": "1999-06-15",
       "isbn": "",
       "pages": 404,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Self-Help",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14227,8 +15747,12 @@
       "publicationDate": "1952-01-01",
       "isbn": "",
       "pages": 374,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "History & Classics",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14243,8 +15767,12 @@
       "publicationDate": "2012-04-20",
       "isbn": "9780486130934",
       "pages": 720,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Health & Nutrition",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14259,8 +15787,11 @@
       "publicationDate": "1985-01-01",
       "isbn": "9780674961913",
       "pages": 503,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "History & Classics",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14275,8 +15806,10 @@
       "publicationDate": "2008-10-08",
       "isbn": "9781439560242",
       "pages": 654,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14291,8 +15824,10 @@
       "publicationDate": "2003-05-29",
       "isbn": "9781582972428",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14307,8 +15842,10 @@
       "publicationDate": "1990-01-01",
       "isbn": "9780932040381",
       "pages": 290,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14323,8 +15860,10 @@
       "publicationDate": "1959-01-01",
       "isbn": "",
       "pages": 154,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14339,8 +15878,12 @@
       "publicationDate": "1990-01-01",
       "isbn": "9780140192551",
       "pages": 252,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Philosophy",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14355,8 +15898,11 @@
       "publicationDate": "2019-01-01",
       "isbn": "9781620974360",
       "pages": 84,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14371,8 +15917,12 @@
       "publicationDate": "2010-03-03",
       "isbn": "9780071754750",
       "pages": 312,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Creativity & Art",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14387,8 +15937,12 @@
       "publicationDate": "2020-09-08",
       "isbn": "9781982134488",
       "pages": 352,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Education & Learning",
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14403,8 +15957,12 @@
       "publicationDate": "2024-01-17",
       "isbn": "9788119792825",
       "pages": 240,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Education & Learning",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14419,8 +15977,11 @@
       "publicationDate": "2010-12-01",
       "isbn": "9780307757906",
       "pages": 415,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14435,8 +15996,12 @@
       "publicationDate": "2005-01-01",
       "isbn": "9780192805836",
       "pages": 388,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Health & Nutrition",
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14451,8 +16016,12 @@
       "publicationDate": "2016-07-20",
       "isbn": "9782511041178",
       "pages": 20,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits",
+        "Business & Leadership",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14467,8 +16036,11 @@
       "publicationDate": "2020-01-01",
       "isbn": "9780358003328",
       "pages": 317,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14483,8 +16055,12 @@
       "publicationDate": "1976-01-01",
       "isbn": "",
       "pages": 250,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "Finance & Wealth",
+        "History & Classics"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14499,8 +16075,10 @@
       "publicationDate": "1980-01-31",
       "isbn": "9780140053203",
       "pages": 292,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Travel & Adventure"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14515,8 +16093,11 @@
       "publicationDate": "1997-08-18",
       "isbn": "9780385484510",
       "pages": 208,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Philosophy"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14531,8 +16112,10 @@
       "publicationDate": "2012-06-27",
       "isbn": "9781936891054",
       "pages": 148,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14547,8 +16130,12 @@
       "publicationDate": "2019-07-17",
       "isbn": "9780486831671",
       "pages": 83,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "History & Classics",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14563,8 +16150,12 @@
       "publicationDate": "1999-01-01",
       "isbn": "",
       "pages": 228,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society",
+        "Philosophy",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14579,8 +16170,10 @@
       "publicationDate": "2019-08-06",
       "isbn": "9780062852748",
       "pages": 278,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14595,8 +16188,10 @@
       "publicationDate": "2017-01-03",
       "isbn": "9781250102959",
       "pages": 222,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14611,8 +16206,11 @@
       "publicationDate": "2017-02-28",
       "isbn": "9781501164583",
       "pages": 256,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14627,8 +16225,12 @@
       "publicationDate": "2007-10-01",
       "isbn": "9781602068018",
       "pages": 169,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society",
+        "Education & Learning",
+        "Science & Technology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14643,8 +16245,12 @@
       "publicationDate": "2003-01-01",
       "isbn": "",
       "pages": 228,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Finance & Wealth",
+        "Travel & Adventure"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14659,8 +16265,12 @@
       "publicationDate": "1993-01-01",
       "isbn": "9780688121198",
       "pages": 244,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism",
+        "Nature & Environment",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14675,8 +16285,12 @@
       "publicationDate": "1993-01-01",
       "isbn": "9780688121198",
       "pages": 244,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Finance & Wealth",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14691,8 +16305,10 @@
       "publicationDate": "2008-01-01",
       "isbn": "9780981484600",
       "pages": 98,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14707,8 +16323,12 @@
       "publicationDate": "2018-12-31",
       "isbn": "9780062905154",
       "pages": 256,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Lifestyle & Minimalism",
+        "Self-Help",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14723,8 +16343,12 @@
       "publicationDate": "2018-12-31",
       "isbn": "9780062905154",
       "pages": 256,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mental Health & Wellbeing",
+        "Self-Help",
+        "Nature & Environment"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14739,8 +16363,10 @@
       "publicationDate": "2008-01-01",
       "isbn": "9780981484600",
       "pages": 98,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14755,8 +16381,11 @@
       "publicationDate": "2017-04-04",
       "isbn": "9780062664761",
       "pages": 72,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14771,8 +16400,11 @@
       "publicationDate": "2016-02-23",
       "isbn": "9781329924680",
       "pages": 98,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14787,8 +16419,10 @@
       "publicationDate": "2015-06-16",
       "isbn": "9781451636024",
       "pages": 256,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14803,8 +16437,10 @@
       "publicationDate": "2003-01-01",
       "isbn": "9781322848235",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14819,8 +16455,10 @@
       "publicationDate": "2020-08-31",
       "isbn": "9780857088673",
       "pages": 230,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Happiness & Resilience"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14835,8 +16473,12 @@
       "publicationDate": "2018-12-11",
       "isbn": "9781635652413",
       "pages": 305,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Science & Technology",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14851,8 +16493,11 @@
       "publicationDate": "2016-04-06",
       "isbn": "9781410487858",
       "pages": 209,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Memoir & Biography"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14867,8 +16512,12 @@
       "publicationDate": "2005-01-11",
       "isbn": "9781590302262",
       "pages": 203,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Fiction & Literature",
+        "Productivity & Habits",
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14883,8 +16532,11 @@
       "publicationDate": "2004-01-01",
       "isbn": "",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14899,8 +16551,12 @@
       "publicationDate": "2026-09-10",
       "isbn": "9781398568242",
       "pages": 221,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Psychology",
+        "Mindfulness & Spirituality",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14915,8 +16571,10 @@
       "publicationDate": "2021-04-27",
       "isbn": "9781119715665",
       "pages": 327,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14931,8 +16589,10 @@
       "publicationDate": "1995-06-01",
       "isbn": "9780684802411",
       "pages": 240,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14947,8 +16607,10 @@
       "publicationDate": "2018-01-01",
       "isbn": "9780141983769",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14963,8 +16625,12 @@
       "publicationDate": "2012-03-20",
       "isbn": "9780307957658",
       "pages": 337,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography",
+        "Nature & Environment",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14979,8 +16645,11 @@
       "publicationDate": "2011-04-17",
       "isbn": "9781400200399",
       "pages": 274,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -14995,8 +16664,12 @@
       "publicationDate": "2011-04-17",
       "isbn": "9781400200399",
       "pages": 274,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Mental Health & Wellbeing",
+        "Self-Help"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15011,8 +16684,12 @@
       "publicationDate": "2012-08-28",
       "isbn": "9780143122234",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Productivity & Habits",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15027,8 +16704,10 @@
       "publicationDate": "2022-06-28",
       "isbn": "9781649630209",
       "pages": 24,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15043,8 +16722,10 @@
       "publicationDate": "2010-04-09",
       "isbn": "9780071701648",
       "pages": 257,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15059,8 +16740,10 @@
       "publicationDate": "2024-06-01",
       "isbn": "9781648482984",
       "pages": 332,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Communication & Relationships"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15075,8 +16758,12 @@
       "publicationDate": "2012-07-10",
       "isbn": "9781607742456",
       "pages": 274,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Creativity & Art",
+        "Fiction & Literature",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15091,8 +16778,11 @@
       "publicationDate": "2019-02-12",
       "isbn": "9780316450898",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth",
+        "Business & Leadership"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15107,8 +16797,10 @@
       "publicationDate": "2018-08-28",
       "isbn": "9781722910204",
       "pages": 118,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15123,8 +16815,10 @@
       "publicationDate": "2025-10-14",
       "isbn": "9781668205273",
       "pages": 400,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Memoir & Biography"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15139,8 +16833,12 @@
       "publicationDate": "1999-01-01",
       "isbn": "",
       "pages": 392,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Memoir & Biography",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15155,8 +16853,12 @@
       "publicationDate": "2010-02-10",
       "isbn": "9780199745982",
       "pages": 274,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Health & Nutrition",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15171,8 +16873,10 @@
       "publicationDate": "2021-05-11",
       "isbn": "9781644112182",
       "pages": 320,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15187,8 +16891,11 @@
       "publicationDate": "2025-02-04",
       "isbn": "9798887620800",
       "pages": 360,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15203,8 +16910,10 @@
       "publicationDate": "2017-04-18",
       "isbn": "9781524756352",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15219,8 +16928,12 @@
       "publicationDate": "2014-01-01",
       "isbn": "9781401944582",
       "pages": 417,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition",
+        "Mindfulness & Spirituality",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15235,8 +16948,10 @@
       "publicationDate": "2019-12-24",
       "isbn": "9781523507924",
       "pages": 401,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Health & Nutrition"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15251,8 +16966,11 @@
       "publicationDate": "2021-01-01",
       "isbn": "",
       "pages": 191,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Self-Help",
+        "Psychology"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15267,8 +16985,11 @@
       "publicationDate": "2008-12-10",
       "isbn": "9780143115762",
       "pages": 385,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Business & Leadership",
+        "Finance & Wealth"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15283,8 +17004,10 @@
       "publicationDate": "2015-07-13",
       "isbn": "9780988769359",
       "pages": 236,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15299,8 +17022,11 @@
       "publicationDate": "2010-01-01",
       "isbn": "9781590308509",
       "pages": 148,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Mindfulness & Spirituality",
+        "Education & Learning"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15315,8 +17041,12 @@
       "publicationDate": "2026-03-20",
       "isbn": "9798898923037",
       "pages": 0,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Education & Learning",
+        "Creativity & Art",
+        "Productivity & Habits"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     },
     {
@@ -15331,8 +17061,12 @@
       "publicationDate": "2009-03-15",
       "isbn": "9781603841207",
       "pages": 258,
-      "tags": [],
-      "updatedAt": "2026-10-29",
+      "tags": [
+        "Philosophy",
+        "Mindfulness & Spirituality",
+        "Culture & Society"
+      ],
+      "updatedAt": "2026-10-30",
       "version": "2.0.0"
     }
   ]

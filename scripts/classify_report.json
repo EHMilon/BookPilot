@@ -1,0 +1,5596 @@
+[
+  {
+    "id": "101-essays-that-will-change-the-way-you-think",
+    "title": "101 Essays That Will Change The Way You Think",
+    "tags": [
+      "Essays & Poetry",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "168-hours",
+    "title": "168 Hours",
+    "tags": [
+      "Health & Nutrition",
+      "Creativity & Art"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "a-guide-to-the-good-life",
+    "title": "A Guide to the Good Life",
+    "tags": [
+      "Psychology",
+      "Philosophy",
+      "Self-Help"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "a-mans-search-for-meaning",
+    "title": "Man's Search for Meaning",
+    "tags": [
+      "Psychology",
+      "Health & Nutrition",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "a-mans-search-for-ultimate-meaning",
+    "title": "Man's Search for Ultimate Meaning",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "a-mind-for-numbers",
+    "title": "A Mind for Numbers",
+    "tags": [
+      "Psychology",
+      "Neuroscience & Brain",
+      "Education & Learning"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "a-random-walk-down-wall-street",
+    "title": "A Random Walk Down Wall Street",
+    "tags": [
+      "Finance & Wealth",
+      "Nature & Environment"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "a-technique-for-producing-ideas",
+    "title": "A Technique for Producing Ideas",
+    "tags": [
+      "Education & Learning",
+      "Creativity & Art"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "a-walk-in-the-woods",
+    "title": "A Walk in the Woods",
+    "tags": [
+      "Nature & Environment",
+      "Health & Nutrition",
+      "Parenting & Family"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "a-woman-makes-a-plan",
+    "title": "A Woman Makes a Plan",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "about-time",
+    "title": "About Time",
+    "tags": [
+      "History & Classics",
+      "Parenting & Family",
+      "Science & Technology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "act-made-simple",
+    "title": "ACT made simple",
+    "tags": [
+      "Productivity & Habits",
+      "Psychology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "african-wisdom",
+    "title": "Pan-African Wisdom",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "algorithms-to-live-by",
+    "title": "Algorithms to Live By",
+    "tags": [
+      "Science & Technology"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "all-about-love",
+    "title": "All About Love",
+    "tags": [
+      "Communication & Relationships",
+      "Culture & Society"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "an-introduction-to-japanese-society",
+    "title": "An introduction to Japanese society",
+    "tags": [
+      "Culture & Society"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "antifragile",
+    "title": "Antifragile",
+    "tags": [
+      "Happiness & Resilience"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "atlas-of-the-heart",
+    "title": "Atlas of the Heart",
+    "tags": [
+      "Mental Health & Wellbeing",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "atomic-focus",
+    "title": "Atomic Focus",
+    "tags": [
+      "Productivity & Habits"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "attached",
+    "title": "Attached",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "authentic-happiness",
+    "title": "Authentic Happiness",
+    "tags": [
+      "Happiness & Resilience",
+      "Health & Nutrition",
+      "Education & Learning"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "awakening-your-ikigai",
+    "title": "Awakening Your Ikigai",
+    "tags": [
+      "Self-Help",
+      "Neuroscience & Brain",
+      "Culture & Society"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "badass-habits-jen-sincero",
+    "title": "Badass Habits",
+    "tags": [
+      "Productivity & Habits"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "becoming",
+    "title": "Becoming",
+    "tags": [
+      "Memoir & Biography",
+      "Parenting & Family",
+      "Education & Learning"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "behaving-yourself",
+    "title": "Behave yourself!",
+    "tags": [
+      "Productivity & Habits"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "being-and-nothingness",
+    "title": "Being and Nothingness",
+    "tags": [
+      "Philosophy"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "better-than-before",
+    "title": "Better Than Before",
+    "tags": [
+      "Productivity & Habits",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "beyond-good-and-evil",
+    "title": "Beyond Good and Evil (AmazonClassics Edition)",
+    "tags": [
+      "Philosophy",
+      "Culture & Society",
+      "Psychology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "beyond-the-last-path",
+    "title": "Beyond the Last Path",
+    "tags": [
+      "Essays & Poetry"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "blink",
+    "title": "Blink",
+    "tags": [
+      "Psychology"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "born-a-crime",
+    "title": "Born a Crime",
+    "tags": [
+      "Parenting & Family",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "brain-food",
+    "title": "Brain food",
+    "tags": [
+      "Health & Nutrition",
+      "Neuroscience & Brain"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "braving-the-wilderness",
+    "title": "BRAVING THE WILDERNESS",
+    "tags": [
+      "Nature & Environment",
+      "Business & Leadership"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "bread-and-wine",
+    "title": "Bread and Wine",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "breaking-the-habit-of-being-yourself",
+    "title": "Breaking the habit of being yourself",
+    "tags": [
+      "Science & Technology",
+      "Psychology",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "breath",
+    "title": "Breath",
+    "tags": [
+      "Health & Nutrition",
+      "Science & Technology"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "breathe-tim-wainwright",
+    "title": "Breathe",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "broke-millennial",
+    "title": "Broke millennial",
+    "tags": [
+      "Finance & Wealth",
+      "Parenting & Family",
+      "Education & Learning"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "broken-wings",
+    "title": "The Broken Wings",
+    "tags": [
+      "Parenting & Family",
+      "Fiction & Literature",
+      "History & Classics"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "built-to-last",
+    "title": "Built to Last",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "bushido-the-soul-of-japan",
+    "title": "Bushido, the Soul of Japan",
+    "tags": [
+      "History & Classics",
+      "Mindfulness & Spirituality",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "ceremony-brianna-wiest",
+    "title": "Ceremony",
+    "tags": [
+      "Mental Health & Wellbeing",
+      "Essays & Poetry"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "change-your-habits-change-your-life",
+    "title": "30 Days - Change your habits, Change your life",
+    "tags": [
+      "Productivity & Habits",
+      "Education & Learning"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "character-is-destiny",
+    "title": "Character is destiny",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "chicken-soup-for-the-soul",
+    "title": "Chicken Soup for the Soul",
+    "tags": [
+      "Education & Learning",
+      "Psychology",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "china-in-the-21st-century",
+    "title": "China in the 21st century",
+    "tags": [
+      "History & Classics",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "civil-disobedience",
+    "title": "Civil Disobedience",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "civilization-and-its-discontents",
+    "title": "Civilization and Its Discontents",
+    "tags": [
+      "History & Classics",
+      "Psychology",
+      "Nature & Environment"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "confessions-of-a-public-speaker",
+    "title": "Confessions of a public speaker",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "confucius-the-analects",
+    "title": "Confucian analects",
+    "tags": [
+      "Philosophy",
+      "History & Classics",
+      "Education & Learning"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "conversationally-speaking",
+    "title": "Conversationally speaking",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "courage-is-calling-ryan-holiday",
+    "title": "Courage Is Calling",
+    "tags": [
+      "Health & Nutrition",
+      "Business & Leadership"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "creativity",
+    "title": "Creativity",
+    "tags": [
+      "Business & Leadership",
+      "Education & Learning",
+      "Psychology"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "creativity-inc",
+    "title": "Creativity, Inc.",
+    "tags": [
+      "Creativity & Art",
+      "Business & Leadership"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "critical-thinking",
+    "title": "Critical Thinking",
+    "tags": [
+      "Psychology",
+      "Productivity & Habits",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "critique-of-pure-reason",
+    "title": "Critique of Pure Reason (The Cambridge Edition of the Works of Immanuel Kant)",
+    "tags": [
+      "Philosophy",
+      "Science & Technology"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "daily-rituals",
+    "title": "Daily Rituals",
+    "tags": [
+      "Productivity & Habits",
+      "Health & Nutrition",
+      "Creativity & Art"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "dare-to-lead",
+    "title": "Dare to lead",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "death-an-inside-story",
+    "title": "Death-An Inside Story ",
+    "tags": [
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "decisive",
+    "title": "Decisive",
+    "tags": [
+      "Business & Leadership",
+      "Psychology"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "deep-ecology",
+    "title": "Deep Ecology & Anarchism",
+    "tags": [
+      "Nature & Environment"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "desert-wisdom",
+    "title": "Desert wisdom",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Parenting & Family",
+      "Nature & Environment"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "didnt-see-it-coming",
+    "title": "Didn't See It Coming",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "die-with-zero",
+    "title": "Die with Zero",
+    "tags": [
+      "Finance & Wealth"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "difficult-conversations",
+    "title": "Difficult Conversations",
+    "tags": [
+      "Communication & Relationships",
+      "Education & Learning"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "discipline-equals-freedom",
+    "title": "Discipline equals freedom",
+    "tags": [
+      "Health & Nutrition",
+      "Productivity & Habits"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "discipline-is-destiny",
+    "title": "Discipline is Destiny",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "History & Classics"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "discipline-is-destiny-ryan-holiday",
+    "title": "Discipline is Destiny",
+    "tags": [
+      "History & Classics",
+      "Productivity & Habits",
+      "Philosophy"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "discourses",
+    "title": "The discourses of Epictetus",
+    "tags": [
+      "Health & Nutrition",
+      "Philosophy",
+      "History & Classics"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "do-the-deep-work",
+    "title": "Deep Work",
+    "tags": [
+      "Business & Leadership",
+      "Productivity & Habits",
+      "Science & Technology"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "doing-business-in-japan",
+    "title": "A Guide to Doing Business in Japan",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "dont-worry",
+    "title": "Don’t Worry",
+    "tags": [
+      "Self-Help",
+      "Mindfulness & Spirituality",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "downshifting",
+    "title": "Downshifting",
+    "tags": [
+      "Finance & Wealth",
+      "Lifestyle & Minimalism"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "drive",
+    "title": "Drive",
+    "tags": [
+      "Productivity & Habits",
+      "Education & Learning",
+      "Science & Technology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "early-retirement-extreme",
+    "title": "Early Retirement Extreme",
+    "tags": [
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "eat-pray-love",
+    "title": "Eat, Pray, Love",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Communication & Relationships",
+      "Education & Learning"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "eat-that-frog",
+    "title": "Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
+    "tags": [
+      "Productivity & Habits"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "educated",
+    "title": "Educated",
+    "tags": [
+      "Parenting & Family",
+      "Education & Learning"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "effortless",
+    "title": "Effortless",
+    "tags": [
+      "Health & Nutrition",
+      "Lifestyle & Minimalism"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "eight-dates",
+    "title": "Eight Dates",
+    "tags": [
+      "Communication & Relationships",
+      "Education & Learning"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "emotional-agility",
+    "title": "Emotional Agility",
+    "tags": [
+      "Psychology",
+      "Mental Health & Wellbeing",
+      "Education & Learning"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "enchiridion",
+    "title": "The Enchiridion",
+    "tags": [
+      "Psychology",
+      "Philosophy",
+      "Education & Learning"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "escape-from-freedom",
+    "title": "Escape from Freedom",
+    "tags": [
+      "Nature & Environment",
+      "Culture & Society"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "everything-is-fcked",
+    "title": "Everything Is Fcked [Hardcover], The Subtle Art of Not Giving a Fck [Hardcover], Unfck Yourself 3 Books Collection Set",
+    "tags": [
+      "Psychology",
+      "Happiness & Resilience",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "everything-that-remains",
+    "title": "Everything that remains",
+    "tags": [
+      "Finance & Wealth",
+      "Health & Nutrition",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "existentialism-is-a-humanism",
+    "title": "Existentialism Is a Humanism",
+    "tags": [
+      "Philosophy"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "expert-secrets",
+    "title": "Expert secrets",
+    "tags": [
+      "Education & Learning",
+      "Self-Help",
+      "Psychology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "factfulness",
+    "title": "Factfulness",
+    "tags": [
+      "Finance & Wealth",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "feeling-good",
+    "title": "Feeling Good",
+    "tags": [
+      "Psychology",
+      "Education & Learning"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "financial-freedom",
+    "title": "Financial Freedom",
+    "tags": [
+      "Finance & Wealth",
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "finding-chika",
+    "title": "Finding Chika",
+    "tags": [
+      "Parenting & Family",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "finding-your-element",
+    "title": "Finding Your Element",
+    "tags": [
+      "Creativity & Art"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "first-things-first",
+    "title": "First Things First",
+    "tags": [
+      "Business & Leadership",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "flourish",
+    "title": "Flourish",
+    "tags": [
+      "Happiness & Resilience",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "fooled-by-randomness",
+    "title": "Fooled by randomness",
+    "tags": [
+      "Business & Leadership",
+      "Self-Help",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "free-to-focus",
+    "title": "Free to Focus",
+    "tags": [
+      "Productivity & Habits",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "freedom-from-the-known",
+    "title": "Freedom from the Known",
+    "tags": [
+      "Education & Learning",
+      "Culture & Society"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "full-catastrophe-living",
+    "title": "Full Catastrophe Living",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "gestalt-therapy-verbatim",
+    "title": "Gestalt therapy verbatim",
+    "tags": [
+      "Mental Health & Wellbeing",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "get-good-with-money",
+    "title": "Get Good with Money",
+    "tags": [
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "getting-the-love-you-want",
+    "title": "Getting the love you want",
+    "tags": [
+      "Communication & Relationships",
+      "Psychology",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "girl-stop-apologizing",
+    "title": "Girl, Stop Apologizing",
+    "tags": [
+      "Parenting & Family",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "girl-wash-your-face",
+    "title": "Girl, Wash Your Face",
+    "tags": [
+      "Parenting & Family",
+      "Happiness & Resilience",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "goodbye-things",
+    "title": "Goodbye, things",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "grain-brain",
+    "title": "Grain Brain",
+    "tags": [
+      "Health & Nutrition",
+      "Neuroscience & Brain"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "great-by-choice",
+    "title": "Great by choice",
+    "tags": [
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "groundwork-of-the-metaphysics-of-morals",
+    "title": "Groundwork of the metaphysics of morals",
+    "tags": [
+      "Science & Technology"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "hagakure",
+    "title": "Hagakure",
+    "tags": [
+      "History & Classics"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "happier-at-home",
+    "title": "Happier at home",
+    "tags": [
+      "Happiness & Resilience",
+      "Self-Help",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "happiness-by-design",
+    "title": "Happiness by Design",
+    "tags": [
+      "Happiness & Resilience",
+      "Health & Nutrition",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "happy-money",
+    "title": "Happy Money",
+    "tags": [
+      "Finance & Wealth",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "high-performance-habits",
+    "title": "High performance habits",
+    "tags": [
+      "Productivity & Habits",
+      "Self-Help"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "hold-me-tight",
+    "title": "Hold Me Tight",
+    "tags": [
+      "Communication & Relationships",
+      "Parenting & Family",
+      "Creativity & Art"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "hood-feminism",
+    "title": "Hood Feminism",
+    "tags": [
+      "Culture & Society"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "how-proust-can-change-your-life",
+    "title": "How Proust can change your life",
+    "tags": [
+      "Creativity & Art",
+      "Productivity & Habits",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "how-to-be-a-stoic",
+    "title": "How to Be a Stoic",
+    "tags": [
+      "Philosophy",
+      "Health & Nutrition",
+      "History & Classics"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "how-to-develop-self-confidence",
+    "title": "How to Develop Self-confidence (Personal Development)",
+    "tags": [
+      "Self-Help"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "how-to-live-on-24-hours-a-day",
+    "title": "How to live on 24 hours a day",
+    "tags": [
+      "Education & Learning"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "how-to-read-a-book",
+    "title": "How to Read a Book",
+    "tags": [
+      "Education & Learning"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "how-to-talk-to-anyone",
+    "title": "How to Talk to Anyone",
+    "tags": [
+      "Education & Learning",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "how-to-win-an-argument",
+    "title": "How to Win an Argument",
+    "tags": [
+      "Psychology",
+      "Communication & Relationships",
+      "History & Classics"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "hyperfocus",
+    "title": "Hyperfocus",
+    "tags": [
+      "Productivity & Habits"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "i-am-malala",
+    "title": "I am Malala",
+    "tags": [
+      "Parenting & Family",
+      "Communication & Relationships",
+      "Education & Learning"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "i-and-thou",
+    "title": "I and Thou",
+    "tags": [
+      "Education & Learning"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "i-know-why-the-caged-bird-sings",
+    "title": "I Know Why the Caged Bird Sings",
+    "tags": [
+      "Parenting & Family",
+      "Education & Learning",
+      "Fiction & Literature"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "i-thought-it-was-just-me-but-it-isnt",
+    "title": "I Thought It Was Just Me (but it isn't)",
+    "tags": [
+      "Parenting & Family",
+      "Mental Health & Wellbeing",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "i-will-teach-you-to-be-rich",
+    "title": "I will teach you to be rich",
+    "tags": [
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "ikigai-the-japanese-secret-to-a-long-and-happy-life",
+    "title": "Ikigai",
+    "tags": [
+      "Nature & Environment",
+      "Finance & Wealth",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "in-and-out-of-the-garbage-pail",
+    "title": "In and Out of the Garbage Pail",
+    "tags": [
+      "Memoir & Biography"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "in-praise-of-slowness",
+    "title": "In praise of slowness",
+    "tags": [
+      "Health & Nutrition",
+      "Parenting & Family",
+      "Fiction & Literature"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "influence",
+    "title": "Influence",
+    "tags": [
+      "Communication & Relationships",
+      "Parenting & Family",
+      "Culture & Society"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "influence-the-psychology-of-persuasion",
+    "title": "Influence",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "into-the-wild",
+    "title": "Into the Wild",
+    "tags": [
+      "Nature & Environment",
+      "Health & Nutrition",
+      "Parenting & Family"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "into-thin-air",
+    "title": "Into Thin Air",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "iron-john",
+    "title": "Iron John",
+    "tags": [
+      "Parenting & Family",
+      "History & Classics",
+      "Fiction & Literature"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "irrationally-yours",
+    "title": "Irrationally yours",
+    "tags": [
+      "Creativity & Art",
+      "Essays & Poetry"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "joy-at-work",
+    "title": "Joy at Work",
+    "tags": [
+      "Productivity & Habits",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "kaizen-the-japanese-method-for-transforming-habits",
+    "title": "Kaizen",
+    "tags": [
+      "Health & Nutrition",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "karma-yoga",
+    "title": "Karma-yoga",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "king-warrior-magician-lover",
+    "title": "King, warrior, magician, lover",
+    "tags": [
+      "Psychology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "kintsugi-the-japanese-art-of-embracing-imperfection",
+    "title": "Kintsugi",
+    "tags": [
+      "History & Classics",
+      "Mindfulness & Spirituality",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "lagom",
+    "title": "Lagom",
+    "tags": [
+      "Lifestyle & Minimalism"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "landmarks",
+    "title": "Landmarks",
+    "tags": [
+      "Nature & Environment"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "lateral-thinking",
+    "title": "Lateral thinking: creativity step by step",
+    "tags": [
+      "Psychology",
+      "History & Classics",
+      "Creativity & Art"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "leadership-strategy-and-tactics",
+    "title": "Leadership Strategy and Tactics",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "learn-like-a-pro",
+    "title": "Learn Like a Pro",
+    "tags": [
+      "Education & Learning"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "learned-optimism",
+    "title": "Learned optimism",
+    "tags": [
+      "Education & Learning",
+      "Psychology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "lessons-in-stoicism",
+    "title": "Lessons in Stoicism",
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "letter-to-my-daughter",
+    "title": "Letter to my daughter",
+    "tags": [
+      "Parenting & Family",
+      "Memoir & Biography",
+      "Essays & Poetry"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "life-is-messy-god-is-good",
+    "title": "Life Is Messy, God Is Good",
+    "tags": [
+      "Mental Health & Wellbeing",
+      "Mindfulness & Spirituality",
+      "Culture & Society"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "lifes-golden-ticket",
+    "title": "Life's Golden Ticket",
+    "tags": [
+      "Communication & Relationships",
+      "Fiction & Literature"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "lifespan",
+    "title": "Lifespan",
+    "tags": [
+      "Science & Technology",
+      "Health & Nutrition",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "light-on-life",
+    "title": "Light on Life",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "limitless",
+    "title": "Limitless",
+    "tags": [
+      "Self-Help",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "lives-of-the-stoics",
+    "title": "Lives of the Stoics",
+    "tags": [
+      "Philosophy"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "living-in-the-light-of-death",
+    "title": "Living in the Light of Death",
+    "tags": [
+      "Philosophy",
+      "Parenting & Family",
+      "Education & Learning"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "living-the-artists-way",
+    "title": "The Artist's Way",
+    "tags": [
+      "Creativity & Art",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "living-the-simple-life",
+    "title": "LIVING THE SIMPLE LIFE",
+    "tags": [
+      "Lifestyle & Minimalism",
+      "Business & Leadership"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "living-with-a-seal",
+    "title": "Living with a SEAL",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "long-walk-to-freedom",
+    "title": "Long Walk to Freedom",
+    "tags": [
+      "Culture & Society"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "love-sense",
+    "title": "Love sense",
+    "tags": [
+      "Communication & Relationships",
+      "Science & Technology",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "lovingkindness",
+    "title": "Lovingkindness",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Health & Nutrition",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "lykke",
+    "title": "The little book of lykke",
+    "tags": [
+      "Happiness & Resilience",
+      "Culture & Society",
+      "Education & Learning"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "made-to-stick",
+    "title": "Made to stick",
+    "tags": [
+      "Productivity & Habits",
+      "Communication & Relationships",
+      "Education & Learning"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "make-it-stick",
+    "title": "Make It Stick",
+    "tags": [
+      "Education & Learning"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "man-and-his-symbols",
+    "title": "Man and His Symbols",
+    "tags": [
+      "Psychology",
+      "Science & Technology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "man-for-himself",
+    "title": "Man for Himself",
+    "tags": [
+      "Creativity & Art",
+      "Philosophy",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "mastery",
+    "title": "Mastery",
+    "tags": [
+      "Self-Help"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "mating-in-captivity",
+    "title": "Mating in Captivity",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "men-are-from-mars-women-are-from-venus",
+    "title": "Men are From Mars, Women are From Venus",
+    "tags": [
+      "Communication & Relationships",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "mencius",
+    "title": "Meng-tzu",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "mini-habits",
+    "title": "Mini Habits",
+    "tags": [
+      "Productivity & Habits",
+      "Neuroscience & Brain"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "minimalism",
+    "title": "Digital Minimalism",
+    "tags": [
+      "Health & Nutrition",
+      "Communication & Relationships",
+      "Lifestyle & Minimalism"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "mistakes-were-made-but-not-by-me",
+    "title": "Mistakes Were Made (But Not by Me)",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "models",
+    "title": "Models",
+    "tags": [
+      "Parenting & Family",
+      "Creativity & Art"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "models-mark-manson",
+    "title": "Models",
+    "tags": [
+      "Business & Leadership",
+      "Mental Health & Wellbeing",
+      "Parenting & Family"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "money-master-the-game",
+    "title": "Tony Robbins Collection 3 Books Set",
+    "tags": [
+      "Finance & Wealth",
+      "Business & Leadership",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "moonwalking-with-einstein",
+    "title": "Moonwalking with Einstein",
+    "tags": [
+      "Science & Technology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "more-than-enough",
+    "title": "More Than Enough",
+    "tags": [
+      "Parenting & Family"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "my-grandmothers-hands",
+    "title": "My grandmother's hands",
+    "tags": [
+      "Health & Nutrition",
+      "Parenting & Family",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "nausea",
+    "title": "Nausea",
+    "tags": [
+      "Philosophy"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "never-finished",
+    "title": "Never Finished",
+    "tags": [
+      "Education & Learning",
+      "Health & Nutrition",
+      "Psychology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "night",
+    "title": "Night",
+    "tags": [
+      "Memoir & Biography",
+      "Parenting & Family",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "night-falls-fast",
+    "title": "Night falls fast",
+    "tags": [
+      "Health & Nutrition",
+      "History & Classics"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "no-more-mr-nice-guy",
+    "title": "No More Mr. Nice Guy",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "nonviolent-communication",
+    "title": "Nonviolent Communication",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "nudge",
+    "title": "Nudge",
+    "tags": [
+      "Psychology",
+      "Health & Nutrition",
+      "Finance & Wealth"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "off-the-clock",
+    "title": "Off the Clock",
+    "tags": [
+      "Self-Help",
+      "Productivity & Habits",
+      "Business & Leadership"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "on-speaking-well",
+    "title": "On Speaking Well",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "on-the-happy-life",
+    "title": "On The Happy Life",
+    "tags": [
+      "Philosophy",
+      "Happiness & Resilience",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "on-the-road",
+    "title": "On The Road",
+    "tags": [
+      "Travel & Adventure",
+      "Nature & Environment"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "on-the-shortness-of-life",
+    "title": "On the shortness of life",
+    "tags": [
+      "Productivity & Habits",
+      "Philosophy"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "out-of-our-minds",
+    "title": "Out of Our Minds",
+    "tags": [
+      "Education & Learning",
+      "Creativity & Art"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "outer-order-inner-calm",
+    "title": "Outer Order, Inner Calm",
+    "tags": [
+      "Lifestyle & Minimalism",
+      "Communication & Relationships",
+      "Creativity & Art"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "outlive",
+    "title": "Outlive",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "overcoming-unwanted-intrusive-thoughts",
+    "title": "Overcoming unwanted intrusive thoughts",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "peace-is-every-step",
+    "title": "Peace is every step",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "peak",
+    "title": "Peak",
+    "tags": [
+      "Business & Leadership",
+      "Self-Help",
+      "Neuroscience & Brain"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "philosophy-as-a-way-of-life",
+    "title": "Philosophy as a way of life",
+    "tags": [
+      "Philosophy",
+      "Education & Learning",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "pilgrim-at-tinker-creek",
+    "title": "Pilgrim at Tinker Creek",
+    "tags": [
+      "Health & Nutrition",
+      "Nature & Environment"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "playing-with-fire",
+    "title": "Playing with FIRE (Financial Independence Retire Early)",
+    "tags": [
+      "Business & Leadership",
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "pranayama",
+    "title": "Asana Pranayama Mudra Bandha",
+    "tags": [
+      "Health & Nutrition",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "pre-suasion",
+    "title": "Pre-Suasion",
+    "tags": [
+      "Communication & Relationships",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "predictably-irrational",
+    "title": "Predictably Irrational",
+    "tags": [
+      "Psychology",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "present-over-perfect",
+    "title": "Present Over Perfect",
+    "tags": [
+      "Self-Help",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "quit-like-a-millionaire",
+    "title": "Quit Like a Millionaire",
+    "tags": [
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "range",
+    "title": "Range",
+    "tags": [
+      "Parenting & Family",
+      "Productivity & Habits",
+      "Education & Learning"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "real-happiness",
+    "title": "Real Happiness",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Psychology",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "resilience",
+    "title": "The resilience factor",
+    "tags": [
+      "Health & Nutrition",
+      "Philosophy"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "resilience-eric-greitens",
+    "title": "Resilience",
+    "tags": [
+      "Happiness & Resilience",
+      "Productivity & Habits",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "rewire-change-your-brain",
+    "title": "Train your mind, change your brain",
+    "tags": [
+      "Neuroscience & Brain",
+      "Psychology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "rising-strong",
+    "title": "Rising strong",
+    "tags": [
+      "Productivity & Habits",
+      "Psychology",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "rockefeller-habits",
+    "title": "Mastering the Rockefeller Habits",
+    "tags": [
+      "Business & Leadership",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "rumi-the-book-of-love",
+    "title": "Rumi",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Essays & Poetry"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "salt-water-brianna-wiest",
+    "title": "Salt Water",
+    "tags": [
+      "Health & Nutrition",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "sand-and-foam",
+    "title": "Sand and foam",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "sapiens",
+    "title": "Sapiens",
+    "tags": [
+      "History & Classics"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "sayings-of-confucius",
+    "title": "Sayings of Confucius",
+    "tags": [
+      "Education & Learning"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "scaling-up",
+    "title": "Scaling Up",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "scarcity",
+    "title": "Scarcity",
+    "tags": [
+      "Business & Leadership",
+      "Psychology",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "secrets-of-the-millionaire-mind",
+    "title": "Secrets of the Millionaire Mind",
+    "tags": [
+      "Finance & Wealth",
+      "Psychology",
+      "Parenting & Family"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "set-for-life",
+    "title": "Set for life",
+    "tags": [
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "shibumi",
+    "title": "Shibumi",
+    "tags": [
+      "Self-Help",
+      "Creativity & Art",
+      "Fiction & Literature"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "siddhartha",
+    "title": "Siddhartha",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Nature & Environment",
+      "Education & Learning"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "simple-abundance",
+    "title": "Simple Abundance",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Productivity & Habits",
+      "Creativity & Art"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "skin-in-the-game",
+    "title": "Skin in the Game",
+    "tags": [
+      "Business & Leadership",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "smarter-faster-better",
+    "title": "Smarter Faster Better",
+    "tags": [
+      "Productivity & Habits",
+      "Psychology"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "so-good-they-cant-ignore-you",
+    "title": "So Good They Can't Ignore You",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "somatics",
+    "title": "Somatics",
+    "tags": [
+      "Health & Nutrition",
+      "Education & Learning"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "soulful-simplicity",
+    "title": "Soulful simplicity",
+    "tags": [
+      "Health & Nutrition",
+      "Mindfulness & Spirituality",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "spark-joy",
+    "title": "Spark Joy",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "speak-like-churchill-stand-like-lincoln",
+    "title": "Speak like Churchill, stand like Lincoln",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "start-where-you-are",
+    "title": "Start Where You Are",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Education & Learning"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "status-anxiety",
+    "title": "Status anxiety",
+    "tags": [
+      "Culture & Society",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "stillness-is-the-key-ryan-holiday",
+    "title": "Stillness Is the Key",
+    "tags": [
+      "Creativity & Art",
+      "Mindfulness & Spirituality",
+      "History & Classics"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "stoicism-and-the-art-of-happiness",
+    "title": "Stoicism and the Art of Happiness",
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "strength-in-what-remains",
+    "title": "Strength in What Remains",
+    "tags": [
+      "Health & Nutrition",
+      "Education & Learning"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "stumbling-on-happiness",
+    "title": "Stumbling on happiness",
+    "tags": [
+      "Happiness & Resilience",
+      "Psychology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "sun-tzu-for-success",
+    "title": "Sun Tzu For Success",
+    "tags": [
+      "History & Classics",
+      "Business & Leadership",
+      "Self-Help"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "super-attractor",
+    "title": "Super Attractor",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "superforecasting",
+    "title": "Superforecasting",
+    "tags": [
+      "Psychology",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "superhuman-by-habit",
+    "title": "Superhuman by Habit",
+    "tags": [
+      "Productivity & Habits"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "switch",
+    "title": "Switch",
+    "tags": [
+      "Business & Leadership",
+      "Health & Nutrition",
+      "Parenting & Family"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "tao-te-ching",
+    "title": "Tao te Ching",
+    "tags": [
+      "Nature & Environment",
+      "Philosophy",
+      "History & Classics"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "ted-talks-guide-to-public-speaking",
+    "title": "TED Talks: The Official TED Guide to Public Speaking",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "thanks-for-the-feedback",
+    "title": "Thanks for the Feedback",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "the-12-week-year",
+    "title": "The 12-week year",
+    "tags": [
+      "Productivity & Habits",
+      "Psychology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-33-strategies-of-war",
+    "title": "The 33 Strategies of War",
+    "tags": [
+      "History & Classics",
+      "Business & Leadership"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-7-principles-for-making-marriage-work",
+    "title": "The seven principles for making marriage work",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-african-mind",
+    "title": "Decolonising the African mind",
+    "tags": [
+      "Culture & Society",
+      "Psychology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-aladdin-factor",
+    "title": "The Aladdin factor",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "the-analects",
+    "title": "The Analects",
+    "tags": [
+      "Education & Learning",
+      "Philosophy",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-analects-for-the-modern-world",
+    "title": "Moral exemplars in the Analects",
+    "tags": [
+      "Education & Learning",
+      "Productivity & Habits",
+      "Philosophy"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-archetypes-and-the-collective-unconscious",
+    "title": "The Archetypes and the Collective Unconscious",
+    "tags": [
+      "Psychology",
+      "Fiction & Literature",
+      "Nature & Environment"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-architecture-of-happiness",
+    "title": "The Architecture of Happiness",
+    "tags": [
+      "Happiness & Resilience",
+      "Communication & Relationships",
+      "Psychology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-art-of-being",
+    "title": "The Art of Being",
+    "tags": [
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-art-of-breath",
+    "title": "The Science And Art Of Breath",
+    "tags": [
+      "Health & Nutrition",
+      "Essays & Poetry"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-art-of-communicating",
+    "title": "The Art of Communicating",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Health & Nutrition",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-art-of-creative-thinking",
+    "title": "The art of creative thinking",
+    "tags": [
+      "Creativity & Art",
+      "Education & Learning",
+      "Science & Technology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-art-of-danish-living",
+    "title": "Art of Danish Living",
+    "tags": [
+      "Happiness & Resilience",
+      "Culture & Society",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-art-of-forgiveness",
+    "title": "The Art of Forgiveness, Lovingkindness and Peace",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-art-of-happiness",
+    "title": "The art of happiness",
+    "tags": [
+      "Happiness & Resilience",
+      "Psychology",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-art-of-learning",
+    "title": "The art of learning",
+    "tags": [
+      "Productivity & Habits",
+      "Parenting & Family",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-art-of-loving",
+    "title": "The Art of Loving",
+    "tags": [
+      "Communication & Relationships",
+      "History & Classics"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-art-of-peace",
+    "title": "The Art of Peace",
+    "tags": [
+      "Essays & Poetry",
+      "Mindfulness & Spirituality",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-art-of-public-speaking",
+    "title": "The Art of Public Speaking",
+    "tags": [
+      "Self-Help",
+      "Psychology",
+      "Creativity & Art"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-art-of-resilience",
+    "title": "Art of Resilience",
+    "tags": [
+      "Philosophy",
+      "Productivity & Habits",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-art-of-rhetoric",
+    "title": "The \" art\" of rhetoric",
+    "tags": [
+      "Psychology",
+      "Philosophy"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-art-of-seduction",
+    "title": "The Art of Seduction",
+    "tags": [
+      "Psychology",
+      "History & Classics"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-art-of-showing-up",
+    "title": "The Art of Showing Up",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-art-of-simple-living",
+    "title": "The Art of Simple Living",
+    "tags": [
+      "Lifestyle & Minimalism",
+      "Nature & Environment"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-art-of-the-commonplace",
+    "title": "The art of the commonplace",
+    "tags": [
+      "Business & Leadership",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-art-of-travel",
+    "title": "The art of travel",
+    "tags": [
+      "Creativity & Art",
+      "Education & Learning"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-art-of-vinyasa",
+    "title": "The art of vinyasa",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-art-of-war",
+    "title": "The Art of War",
+    "tags": [
+      "History & Classics"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-artists-way-workbook",
+    "title": "The Artist's Way",
+    "tags": [
+      "Creativity & Art"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-automatic-millionaire",
+    "title": "The automatic millionaire",
+    "tags": [
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-barefoot-investor",
+    "title": "The Barefoot Investor",
+    "tags": [
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-bed-of-procrustes",
+    "title": "The Bed of Procrustes",
+    "tags": [
+      "Fiction & Literature",
+      "Business & Leadership",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-behavioural-insights",
+    "title": "Behavioural insights in health care",
+    "tags": [
+      "Education & Learning",
+      "Health & Nutrition",
+      "Creativity & Art"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-bhagavad-gita",
+    "title": "Bhagavad-Gita",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Communication & Relationships",
+      "History & Classics"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-black-swan",
+    "title": "The Black Swan",
+    "tags": [
+      "Happiness & Resilience",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-body-in-yoga",
+    "title": "Experiencing the Body in Yoga Practice",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-body-is-not-an-apology",
+    "title": "The body is not an apology",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-book-of-changes-i-ching",
+    "title": "I Ching Or Book of Changes",
+    "tags": [
+      "Business & Leadership",
+      "Essays & Poetry"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-book-of-five-rings",
+    "title": "The Book of Five Rings",
+    "tags": [
+      "Health & Nutrition",
+      "Education & Learning",
+      "Culture & Society"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-book-of-ichigo-ichie",
+    "title": "The Book of Ichigo Ichie",
+    "tags": [
+      "Productivity & Habits",
+      "History & Classics"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-book-of-joy",
+    "title": "The book of joy",
+    "tags": [
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-boy-who-harnessed-the-wind",
+    "title": "The Boy Who Harnessed the Wind",
+    "tags": [
+      "Parenting & Family"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-breath-of-life",
+    "title": "The Breath of Life",
+    "tags": [
+      "Health & Nutrition",
+      "Mindfulness & Spirituality",
+      "Education & Learning"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-cashflow-quadrant",
+    "title": "Cashflow Quadrant",
+    "tags": [
+      "Finance & Wealth",
+      "Business & Leadership",
+      "Education & Learning"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-certainty-of-uncertainty",
+    "title": "The Certainty of Uncertainty",
+    "tags": [
+      "Business & Leadership",
+      "Happiness & Resilience",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-charge",
+    "title": "The Charge",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-chinese-art-of-tea",
+    "title": "The Chinese art of tea",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Culture & Society",
+      "History & Classics"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-chinese-tao-of-business",
+    "title": "The Chinese Tao of business",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-chopra-center-cookbook",
+    "title": "The Chopra Center Cookbook",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-circadian-code",
+    "title": "The circadian code",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-code-of-the-extraordinary-mind",
+    "title": "The code of the extraordinary mind",
+    "tags": [
+      "Psychology",
+      "Self-Help",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-compleat-gentleman",
+    "title": "The Compleat Gentleman",
+    "tags": [
+      "History & Classics",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-compleat-gentleman-brad-miner",
+    "title": "The Compleat Gentleman",
+    "tags": [
+      "Culture & Society",
+      "History & Classics"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-compound-effect",
+    "title": "The Compound effect",
+    "tags": [
+      "Productivity & Habits",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-conference-of-the-birds",
+    "title": "The Conference of the Birds",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Essays & Poetry",
+      "Nature & Environment"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-conquest-of-happiness",
+    "title": "The conquest of happiness",
+    "tags": [
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-consolation-of-philosophy",
+    "title": "Boethius.\\The consolation of philosophy",
+    "tags": [
+      "Philosophy",
+      "Culture & Society"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-consolations-of-philosophy",
+    "title": "The consolations of philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-cosmopolitan",
+    "title": "The cosmopolitan canopy",
+    "tags": [
+      "Philosophy",
+      "Culture & Society",
+      "Parenting & Family"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-courage-to-be",
+    "title": "The courage to be",
+    "tags": [
+      "Productivity & Habits"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-courage-to-create",
+    "title": "The courage to create",
+    "tags": [
+      "Business & Leadership",
+      "Culture & Society"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-creative-act",
+    "title": "The Creative Act",
+    "tags": [
+      "Creativity & Art",
+      "Mindfulness & Spirituality",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-creative-habit",
+    "title": "The Creative Habit",
+    "tags": [
+      "Creativity & Art",
+      "Productivity & Habits",
+      "Neuroscience & Brain"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-creative-spark",
+    "title": "The creative spark",
+    "tags": [
+      "Science & Technology",
+      "Creativity & Art"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-dhammapada",
+    "title": "The Dhammapada",
+    "tags": [
+      "Education & Learning",
+      "Philosophy"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-dharma-bums",
+    "title": "The Dharma Bums",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Nature & Environment",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-diabetes-code",
+    "title": "The Diabetes Code",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-diary-of-a-young-girl",
+    "title": "The Diary of a Young Girl",
+    "tags": [
+      "Memoir & Biography",
+      "Parenting & Family"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-dichotomy-of-leadership",
+    "title": "The Dichotomy of Leadership",
+    "tags": [],
+    "confidence": 0.25,
+    "review": true
+  },
+  {
+    "id": "the-diving-bell-and-the-butterfly",
+    "title": "The Diving Bell and the Butterfly",
+    "tags": [
+      "Memoir & Biography"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-doctor-and-the-soul",
+    "title": "The Doctor and the Soul",
+    "tags": [
+      "Psychology",
+      "Mindfulness & Spirituality",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-effective-executive",
+    "title": "The Effective Executive",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-egyptian-book-of-the-dead",
+    "title": "The Egyptian Book of the Dead",
+    "tags": [
+      "History & Classics"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-element",
+    "title": "The Element",
+    "tags": [
+      "Self-Help",
+      "Education & Learning",
+      "Creativity & Art"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-end-of-nature",
+    "title": "The End of Nature",
+    "tags": [
+      "Nature & Environment",
+      "Science & Technology"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-essential-rumi",
+    "title": "The Essential Rumi - reissue",
+    "tags": [
+      "Essays & Poetry",
+      "Mindfulness & Spirituality",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-ethics-of-authenticity",
+    "title": "The Ethics of Authenticity",
+    "tags": [
+      "History & Classics",
+      "Culture & Society",
+      "Philosophy"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-exceptional-presenter",
+    "title": "The Exceptional Presenter",
+    "tags": [
+      "Business & Leadership",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-fear-of-freedom",
+    "title": "The Fear of Freedom",
+    "tags": [
+      "Psychology",
+      "Culture & Society"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-feeling-of-what-happens",
+    "title": "The Feeling of what Happens",
+    "tags": [
+      "Health & Nutrition",
+      "Neuroscience & Brain",
+      "Science & Technology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-fine-art-of-small-talk",
+    "title": "The Fine Art of Small Talk",
+    "tags": [
+      "Education & Learning"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-five-people-you-meet-in-heaven",
+    "title": "The Five People You Meet In Heaven",
+    "tags": [
+      "Fiction & Literature",
+      "Health & Nutrition",
+      "Parenting & Family"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-founders-dilemmas",
+    "title": "The Founder's Dilemmas",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-four-tendencies",
+    "title": "The Four Tendencies",
+    "tags": [
+      "Psychology",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-fourfold-root-of-the-principle-of-sufficient-reason",
+    "title": "On the Fourfold Root of the Principle of Sufficient Reason",
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Science & Technology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-future-of-an-illusion",
+    "title": "The Future of an Illusion",
+    "tags": [
+      "Psychology"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-game-of-life-and-how-to-play-it",
+    "title": "The Game of Life and How to Play It",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Psychology"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-gay-science",
+    "title": "Nietzsche: The Gay Science",
+    "tags": [
+      "Philosophy",
+      "Communication & Relationships",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-genius-in-all-of-us",
+    "title": "The Genius in All of Us",
+    "tags": [
+      "Self-Help",
+      "Neuroscience & Brain",
+      "Science & Technology"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-gentle-art-of-swedish-death-cleaning",
+    "title": "The Gentle Art of Swedish Death Cleaning",
+    "tags": [
+      "Self-Help",
+      "Parenting & Family",
+      "Culture & Society"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-geography-of-bliss",
+    "title": "The Geography of Bliss",
+    "tags": [
+      "Happiness & Resilience",
+      "Travel & Adventure"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-gifts-of-reading",
+    "title": "The Gifts of Reading",
+    "tags": [
+      "Essays & Poetry",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-glass-castle",
+    "title": "The Glass Castle",
+    "tags": [
+      "Memoir & Biography",
+      "Parenting & Family",
+      "Creativity & Art"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-great-learning",
+    "title": "The Great Learning",
+    "tags": [
+      "Philosophy",
+      "Education & Learning",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-great-railway-bazaar",
+    "title": "The Great Railway Bazaar",
+    "tags": [
+      "Travel & Adventure",
+      "Culture & Society"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-habit-loop",
+    "title": "The Habit Loop",
+    "tags": [
+      "Productivity & Habits",
+      "Neuroscience & Brain",
+      "Self-Help"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-habit-mechanic",
+    "title": "The Habit Mechanic",
+    "tags": [
+      "Productivity & Habits",
+      "Mindfulness & Spirituality",
+      "Psychology"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-happiest-man-on-earth",
+    "title": "The Happiest Man on Earth",
+    "tags": [
+      "Parenting & Family",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-happiness-hypothesis",
+    "title": "The Happiness Hypothesis",
+    "tags": [
+      "Philosophy",
+      "Science & Technology",
+      "Psychology"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-happiness-project",
+    "title": "Happiness Project",
+    "tags": [
+      "Memoir & Biography",
+      "Productivity & Habits",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-happiness-track",
+    "title": "The Happiness Track",
+    "tags": [
+      "Self-Help",
+      "Productivity & Habits",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-happiness-trap",
+    "title": "The Happiness Trap",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Psychology",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-headspace-guide-to-meditation",
+    "title": "The Headspace Guide to Meditation and Mindfulness",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Productivity & Habits"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-healing-power-of-the-breath",
+    "title": "The Healing Power of the Breath",
+    "tags": [
+      "Health & Nutrition",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-healthy-habit-revolution",
+    "title": "The Healthy Habit Revolution",
+    "tags": [
+      "Health & Nutrition",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-hero-with-a-thousand-faces",
+    "title": "The Hero with a Thousand Faces",
+    "tags": [
+      "Psychology",
+      "Culture & Society",
+      "Parenting & Family"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-high-5-habit-mel-robbins",
+    "title": "The High 5 Habit",
+    "tags": [
+      "Self-Help"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-honest-truth-about-dishonesty",
+    "title": "The (honest) Truth about Dishonesty",
+    "tags": [
+      "Psychology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-how-of-happiness",
+    "title": "The How of Happiness",
+    "tags": [
+      "Happiness & Resilience",
+      "Psychology"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-inner-citadel",
+    "title": "The Inner Citadel",
+    "tags": [
+      "History & Classics",
+      "Philosophy",
+      "Psychology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-inner-tradition-of-yoga",
+    "title": "The Inner Tradition of Yoga",
+    "tags": [
+      "Health & Nutrition",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-interpretation-of-dreams",
+    "title": "The Interpretation of Dreams",
+    "tags": [
+      "Psychology",
+      "Mindfulness & Spirituality",
+      "Parenting & Family"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-journey-of-the-body",
+    "title": "A Journey's Wealth",
+    "tags": [
+      "Psychology",
+      "Mindfulness & Spirituality",
+      "Philosophy"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-joy-of-less",
+    "title": "The Joy of Less",
+    "tags": [
+      "Lifestyle & Minimalism",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-joy-of-less-francine-jay",
+    "title": "The Joy of Less",
+    "tags": [
+      "Lifestyle & Minimalism"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-knowledge-gap",
+    "title": "The Knowledge Gap",
+    "tags": [
+      "Education & Learning"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-latte-factor",
+    "title": "The Latte Factor",
+    "tags": [
+      "Finance & Wealth",
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-laws-of-human-nature",
+    "title": "The Laws of Human Nature",
+    "tags": [
+      "Business & Leadership",
+      "Psychology",
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-lazy-genius-way",
+    "title": "The Lazy Genius Way",
+    "tags": [
+      "Productivity & Habits",
+      "Self-Help"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-let-them-theory-mel-robbins",
+    "title": "The Let Them Theory",
+    "tags": [
+      "Self-Help",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-life-and-teachings-of-swami-vivekananda",
+    "title": "Swami Vivekananda: Life and Teachings",
+    "tags": [
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-life-changing-magic-of-tidying-up",
+    "title": "The Life-Changing Magic of Tidying Up",
+    "tags": [
+      "Lifestyle & Minimalism",
+      "Fantasy & Sci-Fi"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-life-of-the-mind",
+    "title": "The Life of the Mind",
+    "tags": [
+      "History & Classics",
+      "Psychology",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-light-we-carry",
+    "title": "The Light We Carry",
+    "tags": [
+      "Memoir & Biography"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-like-switch",
+    "title": "The Like Switch",
+    "tags": [
+      "Business & Leadership",
+      "Communication & Relationships",
+      "Psychology"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-little-book-of-common-sense-investing",
+    "title": "The Little Book of Common Sense Investing",
+    "tags": [
+      "Business & Leadership",
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-little-book-of-hygge",
+    "title": "The Little Book of Hygge",
+    "tags": [
+      "Self-Help",
+      "Productivity & Habits",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-little-book-of-productivity",
+    "title": "The Little Book of Market Myths",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-little-book-of-stoicism",
+    "title": "The Little Book of Stoicism",
+    "tags": [
+      "Philosophy",
+      "Self-Help",
+      "Psychology"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-little-book-of-talent",
+    "title": "The Little Book of Talent",
+    "tags": [
+      "Business & Leadership",
+      "Neuroscience & Brain",
+      "Creativity & Art"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-little-prince",
+    "title": "The Little Prince",
+    "tags": [
+      "Nature & Environment",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-lost-city-of-z",
+    "title": "The Lost City of Z",
+    "tags": [
+      "History & Classics"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-lucifer-effect",
+    "title": "The Lucifer Effect",
+    "tags": [
+      "Philosophy"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-masnavi",
+    "title": "The Masnavi, Book One",
+    "tags": [
+      "Fiction & Literature",
+      "Mindfulness & Spirituality",
+      "History & Classics"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-mastery-of-love",
+    "title": "The Mastery of Love",
+    "tags": [
+      "Self-Help",
+      "Health & Nutrition",
+      "Nature & Environment"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-memory-book",
+    "title": "The Memory Book",
+    "tags": [
+      "Self-Help",
+      "Neuroscience & Brain",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-millionaire-messenger",
+    "title": "The Millionaire Messenger",
+    "tags": [
+      "Business & Leadership",
+      "Self-Help"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-millionaire-real-estate-investor",
+    "title": "The Millionaire Real Estate Investor",
+    "tags": [
+      "Business & Leadership",
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-minimalist-home",
+    "title": "The Minimalist Home",
+    "tags": [
+      "Lifestyle & Minimalism",
+      "Creativity & Art",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-miracle-equation-hal-elrod",
+    "title": "The Miracle Equation",
+    "tags": [
+      "Self-Help"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-miracle-morning",
+    "title": "The Miracle Morning (Updated and Expanded Edition)",
+    "tags": [
+      "Self-Help",
+      "Health & Nutrition",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-miracle-of-mindfulness",
+    "title": "The Miracle of Mindfulness",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-miracle-of-self-love",
+    "title": "The Miracle of Self-Love",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Communication & Relationships",
+      "Parenting & Family"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-model-thinker",
+    "title": "The Model Thinker",
+    "tags": [
+      "Finance & Wealth"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-more-of-less",
+    "title": "The More of Less",
+    "tags": [
+      "Lifestyle & Minimalism",
+      "Happiness & Resilience",
+      "Self-Help"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-motivation-manifesto",
+    "title": "The Motivation Manifesto",
+    "tags": [
+      "Self-Help",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-motorcycle-diaries",
+    "title": "The Motorcycle Diaries",
+    "tags": [
+      "Memoir & Biography",
+      "Travel & Adventure",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-myth-of-sisyphus",
+    "title": "The Myth of Sisyphus",
+    "tags": [
+      "Fiction & Literature",
+      "History & Classics"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-myths-of-happiness",
+    "title": "The Myths of Happiness",
+    "tags": [
+      "Happiness & Resilience",
+      "Self-Help",
+      "Psychology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-nature-fix",
+    "title": "The Nature Fix",
+    "tags": [
+      "Nature & Environment",
+      "Health & Nutrition",
+      "Creativity & Art"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-nicomachean-ethics",
+    "title": "The Nicomachean Ethics",
+    "tags": [
+      "Philosophy"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-nordic-theory-of-everything",
+    "title": "The Nordic Theory of Everything",
+    "tags": [
+      "Culture & Society",
+      "Parenting & Family"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-now-habit",
+    "title": "The Now Habit",
+    "tags": [
+      "Productivity & Habits"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-obesity-code",
+    "title": "The Obesity Code",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-old-ways",
+    "title": "The Old Ways",
+    "tags": [
+      "Travel & Adventure",
+      "Creativity & Art",
+      "Nature & Environment"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-one-thing",
+    "title": "The One Thing",
+    "tags": [
+      "Productivity & Habits",
+      "Business & Leadership",
+      "Fiction & Literature"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-overstory",
+    "title": "The Overstory",
+    "tags": [
+      "Fiction & Literature",
+      "Nature & Environment"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-oxygen-advantage",
+    "title": "The Oxygen Advantage",
+    "tags": [
+      "Health & Nutrition",
+      "Self-Help"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-paradox-of-choice",
+    "title": "The Paradox of Choice",
+    "tags": [
+      "Psychology",
+      "Happiness & Resilience",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-path-of-least-resistance",
+    "title": "The Path of Least Resistance",
+    "tags": [
+      "Psychology",
+      "Productivity & Habits",
+      "Creativity & Art"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-path-of-the-pilgrim",
+    "title": "A Pilgrim's Path",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Travel & Adventure",
+      "Psychology"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-pivot-year-brianna-wiest",
+    "title": "The Pivot Year",
+    "tags": [
+      "Self-Help",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-places-in-between",
+    "title": "The Places In Between",
+    "tags": [
+      "History & Classics",
+      "Health & Nutrition",
+      "Travel & Adventure"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-places-that-scare-you",
+    "title": "The Places That Scare You",
+    "tags": [
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-plague",
+    "title": "The Plague",
+    "tags": [
+      "Fiction & Literature"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-plant-paradox",
+    "title": "The Plant Paradox",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-pleasures-of-reading-in-an-age-of-distraction",
+    "title": "The Pleasures of Reading in an Age of Distraction",
+    "tags": [
+      "Education & Learning",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-power-of-breath",
+    "title": "The Power of Breath",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-power-of-habit",
+    "title": "The Power of Habit",
+    "tags": [
+      "Business & Leadership",
+      "Productivity & Habits"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-power-of-less",
+    "title": "The Power of Less",
+    "tags": [
+      "Productivity & Habits",
+      "Lifestyle & Minimalism",
+      "Psychology"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-power-of-moments",
+    "title": "The Power of Moments",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-power-of-myth",
+    "title": "The Power of Myth",
+    "tags": [
+      "Memoir & Biography",
+      "Education & Learning",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-practice",
+    "title": "The Practice",
+    "tags": [
+      "Business & Leadership",
+      "Creativity & Art"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-practice-of-the-yoga-sutra",
+    "title": "The Practice of the Yoga Sutra",
+    "tags": [
+      "Health & Nutrition",
+      "Education & Learning"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-practicing-stoic",
+    "title": "The Practicing Stoic",
+    "tags": [
+      "History & Classics",
+      "Philosophy",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-productivity-project",
+    "title": "The Productivity Project",
+    "tags": [
+      "Business & Leadership",
+      "Productivity & Habits"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-quick-and-easy-way-to-effective-speaking",
+    "title": "The Quick and Easy Way to Effective Speaking",
+    "tags": [
+      "Education & Learning",
+      "Creativity & Art",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-rational-male",
+    "title": "The Rational Male",
+    "tags": [
+      "Culture & Society"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-reading-mind",
+    "title": "The Reading Mind",
+    "tags": [
+      "Education & Learning",
+      "Psychology"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-reality-slap",
+    "title": "The Reality Slap",
+    "tags": [
+      "Health & Nutrition",
+      "Mindfulness & Spirituality",
+      "Mental Health & Wellbeing"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-relationship-cure",
+    "title": "The Relationship Cure",
+    "tags": [
+      "Communication & Relationships",
+      "Self-Help",
+      "Parenting & Family"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-right-to-write",
+    "title": "The Right to Write",
+    "tags": [
+      "Creativity & Art",
+      "Self-Help",
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-righteous-mind",
+    "title": "The Righteous Mind",
+    "tags": [
+      "Psychology"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-road-less-travelled",
+    "title": "The Road Less Travelled",
+    "tags": [
+      "Health & Nutrition",
+      "Self-Help",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-road-to-inner-freedom",
+    "title": "The Road to Inner Freedom",
+    "tags": [
+      "Self-Help",
+      "Communication & Relationships",
+      "Culture & Society"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-road-to-oxiana",
+    "title": "The Road To Oxiana",
+    "tags": [
+      "Travel & Adventure"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-rubaiyat-of-omar-khayyam",
+    "title": "Rubaiyat of Omar Khayyam",
+    "tags": [
+      "Essays & Poetry"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-sane-society",
+    "title": "The Sane Society",
+    "tags": [
+      "Business & Leadership",
+      "Culture & Society"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-science-of-habit",
+    "title": "The Science of Habits",
+    "tags": [
+      "Productivity & Habits",
+      "Nature & Environment",
+      "Neuroscience & Brain"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-science-of-happiness",
+    "title": "The Science of Happiness",
+    "tags": [
+      "Psychology",
+      "Happiness & Resilience",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-science-of-yoga",
+    "title": "The Science of Yoga",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-secret-of-the-golden-flower",
+    "title": "The Secret of the Golden Flower ...",
+    "tags": [
+      "Productivity & Habits",
+      "History & Classics"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-secrets-of-happy-relationships",
+    "title": "Secrets of Happy Relationships",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-seven-spiritual-laws-of-success",
+    "title": "The Seven Spiritual Laws of Success",
+    "tags": [
+      "Self-Help",
+      "Mindfulness & Spirituality",
+      "Creativity & Art"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-signal-and-the-noise",
+    "title": "The Signal and the Noise",
+    "tags": [
+      "Self-Help"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-sixth-extinction",
+    "title": "The Sixth Extinction",
+    "tags": [
+      "Nature & Environment"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-slight-edge",
+    "title": "The Slight Edge",
+    "tags": [
+      "Self-Help",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-slow-fix",
+    "title": "The Slow Fix: Why Quick Fixes Don’t Work (extract)",
+    "tags": [
+      "Culture & Society",
+      "Health & Nutrition",
+      "Science & Technology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-snow-leopard",
+    "title": "The Snow Leopard",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Travel & Adventure"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-social-animal",
+    "title": "The Social Animal",
+    "tags": [
+      "Science & Technology",
+      "Culture & Society",
+      "Psychology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-spirit-of-the-chinese-people",
+    "title": "The Spirit of the Chinese People",
+    "tags": [
+      "Fiction & Literature",
+      "Self-Help",
+      "Culture & Society"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-spirit-of-zen",
+    "title": "The Spirit of Zen",
+    "tags": [
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-sports-gene",
+    "title": "The Sports Gene",
+    "tags": [
+      "Science & Technology",
+      "Self-Help",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-state-of-affairs",
+    "title": "The State of Affairs",
+    "tags": [
+      "Psychology",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-story-of-my-life",
+    "title": "The Story of My Life",
+    "tags": [
+      "Memoir & Biography"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-storytelling-animal",
+    "title": "The Storytelling Animal",
+    "tags": [
+      "Psychology",
+      "Fiction & Literature",
+      "Science & Technology"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-stranger",
+    "title": "The Stranger",
+    "tags": [
+      "Fiction & Literature"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-success-principles",
+    "title": "The Success Principles",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Self-Help",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-swedish-art-of-aging-exuberantly",
+    "title": "The Swedish Art of Aging Exuberantly",
+    "tags": [
+      "Culture & Society",
+      "Self-Help",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-talent-code",
+    "title": "The Talent Code",
+    "tags": [
+      "Self-Help",
+      "Neuroscience & Brain",
+      "Education & Learning"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-tao-of-pooh",
+    "title": "The Tao of Pooh",
+    "tags": [
+      "Philosophy",
+      "History & Classics",
+      "Education & Learning"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-teachings-of-ptahhotep",
+    "title": "The Teachings of Ptahhotep",
+    "tags": [
+      "History & Classics",
+      "Education & Learning",
+      "Philosophy"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-telomere-effect",
+    "title": "The Telomere Effect",
+    "tags": [
+      "Self-Help",
+      "Health & Nutrition",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-tibetan-book-of-living-and-dying",
+    "title": "The Tibetan Book of Living and Dying",
+    "tags": [
+      "Communication & Relationships",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-time-keeper",
+    "title": "The Time Keeper",
+    "tags": [
+      "Fiction & Literature",
+      "Health & Nutrition",
+      "Parenting & Family"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-tipping-point",
+    "title": "The tipping point",
+    "tags": [
+      "Business & Leadership",
+      "Communication & Relationships",
+      "Parenting & Family"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-tree-of-yoga",
+    "title": "The Tree of Yoga",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-unheard-cry-for-meaning",
+    "title": "The Unheard Cry for Meaning",
+    "tags": [
+      "Psychology",
+      "Science & Technology"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-unsettling-of-america",
+    "title": "The Unsettling of America",
+    "tags": [
+      "Culture & Society",
+      "Creativity & Art",
+      "Science & Technology"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-upanishads",
+    "title": "The Upanishads",
+    "tags": [
+      "Education & Learning",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-upside-of-irrationality",
+    "title": "The Upside of Irrationality",
+    "tags": [
+      "Business & Leadership",
+      "Education & Learning",
+      "Psychology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-vedas",
+    "title": "The Secret Teachings of The Vedas",
+    "tags": [
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-way-of-chuang-tzu",
+    "title": "The Way of Chuang Tzu",
+    "tags": [
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-way-of-men",
+    "title": "The Way of Men",
+    "tags": [
+      "Culture & Society",
+      "Psychology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-way-of-the-peaceful-warrior",
+    "title": "Way of the Peaceful Warrior",
+    "tags": [
+      "Fiction & Literature",
+      "Self-Help",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-way-of-the-samurai",
+    "title": "The Way of the Samurai",
+    "tags": [
+      "History & Classics",
+      "Business & Leadership",
+      "Culture & Society"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-way-of-the-sufi",
+    "title": "The Way of the Sufi",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Productivity & Habits",
+      "Education & Learning"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "the-way-of-zen",
+    "title": "The Way of Zen",
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-wealthy-barber",
+    "title": "The Wealthy Barber",
+    "tags": [
+      "Finance & Wealth",
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-well-educated-mind",
+    "title": "Well Educated Mind",
+    "tags": [
+      "Education & Learning",
+      "Fiction & Literature",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-white-coat-investor",
+    "title": "The White Coat Investor",
+    "tags": [
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-will-to-meaning",
+    "title": "The Will to Meaning",
+    "tags": [
+      "Science & Technology",
+      "Mindfulness & Spirituality",
+      "History & Classics"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-will-to-power",
+    "title": "The Will to Power",
+    "tags": [
+      "Memoir & Biography",
+      "Philosophy",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-wim-hof-method",
+    "title": "The Wim Hof Method",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-wisdom-of-africa",
+    "title": "The Healing Wisdom of Africa",
+    "tags": [
+      "Health & Nutrition",
+      "Parenting & Family"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-wisdom-of-insecurity",
+    "title": "The Wisdom of Insecurity",
+    "tags": [
+      "Happiness & Resilience",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-wisdom-of-life",
+    "title": "The Wisdom of Life",
+    "tags": [
+      "Psychology",
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-wisdom-of-the-body",
+    "title": "The Wisdom of the Body",
+    "tags": [
+      "Health & Nutrition",
+      "Psychology"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-wisdom-of-the-east",
+    "title": "Wisdom of the East",
+    "tags": [
+      "History & Classics",
+      "Culture & Society",
+      "Essays & Poetry"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "the-wisdom-of-the-enneagram",
+    "title": "The Wisdom of the Enneagram",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Self-Help",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "the-wisdom-of-the-sands",
+    "title": "The Wisdom of the Sands",
+    "tags": [
+      "Fiction & Literature",
+      "History & Classics",
+      "Creativity & Art"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "the-world-as-will-and-representation",
+    "title": "The World as Will and Representation, Vol. 2",
+    "tags": [
+      "Philosophy",
+      "Health & Nutrition",
+      "Nature & Environment"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "the-world-of-thought-in-ancient-china",
+    "title": "The World of Thought in Ancient China",
+    "tags": [
+      "History & Classics",
+      "Culture & Society"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-world-without-us",
+    "title": "The World Without Us",
+    "tags": [
+      "Nature & Environment"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-yoga-bible",
+    "title": "The Yoga Bible",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-yoga-sutras-of-patanjali",
+    "title": "The Yoga Sutras of Patanjali",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-zen-teaching-of-huang-po",
+    "title": "The Zen Teaching of Huang Po on the Transmission of Mind",
+    "tags": [
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "the-zen-way",
+    "title": "The Way of Zen",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Philosophy",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "thick-and-other-essays",
+    "title": "Thick",
+    "tags": [
+      "Memoir & Biography",
+      "Culture & Society"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "think-better",
+    "title": "Think Better: An Innovator's Guide to Productive Thinking",
+    "tags": [
+      "Business & Leadership",
+      "Creativity & Art",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "think-like-a-monk",
+    "title": "Think Like a Monk",
+    "tags": [
+      "Self-Help",
+      "Education & Learning",
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "think-on-these-things",
+    "title": "Think on These Things",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Education & Learning",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "thinkertoys",
+    "title": "Thinkertoys",
+    "tags": [
+      "Business & Leadership",
+      "Education & Learning"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "thus-spoke-zarathustra",
+    "title": "Thus Spoke Zarathustra",
+    "tags": [
+      "Philosophy",
+      "Health & Nutrition",
+      "Creativity & Art"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "time-management-magic",
+    "title": "Summary: Time Management Magic",
+    "tags": [
+      "Productivity & Habits",
+      "Business & Leadership",
+      "Self-Help"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "tiny-habits",
+    "title": "Tiny Habits",
+    "tags": [
+      "Business & Leadership",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "to-have-or-to-be",
+    "title": "To Have Or to Be?",
+    "tags": [
+      "Fiction & Literature",
+      "Finance & Wealth",
+      "History & Classics"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "travels-with-charley",
+    "title": "Travels with Charley in Search of America",
+    "tags": [
+      "Travel & Adventure"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "tuesdays-with-morrie",
+    "title": "Tuesdays with Morrie",
+    "tags": [
+      "Health & Nutrition",
+      "Memoir & Biography"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "turning-pro",
+    "title": "Turning Pro",
+    "tags": [
+      "Creativity & Art"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "twilight-of-the-idols",
+    "title": "Twilight of the Idols",
+    "tags": [
+      "Philosophy",
+      "History & Classics",
+      "Education & Learning"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "ubuntu-the-african-philosophy-of-humanity",
+    "title": "African Philosophy Through Ubuntu",
+    "tags": [
+      "Culture & Society",
+      "Philosophy",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "ultralearning",
+    "title": "Ultralearning",
+    "tags": [
+      "Education & Learning"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "unfck-your-habitat",
+    "title": "Unf*ck Your Habitat",
+    "tags": [
+      "Productivity & Habits"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "unshakeable",
+    "title": "Unshakeable",
+    "tags": [
+      "Business & Leadership",
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "up-from-slavery",
+    "title": "Up from Slavery",
+    "tags": [
+      "Culture & Society",
+      "Education & Learning",
+      "Science & Technology"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "vagabonding",
+    "title": "Vagabonding",
+    "tags": [
+      "Business & Leadership",
+      "Finance & Wealth",
+      "Travel & Adventure"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "voluntary-simplicity",
+    "title": "Voluntary Simplicity (rev)",
+    "tags": [
+      "Lifestyle & Minimalism",
+      "Nature & Environment",
+      "Self-Help"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "voluntary-simplicity-duane-elgin",
+    "title": "Voluntary Simplicity (rev)",
+    "tags": [
+      "Self-Help",
+      "Finance & Wealth",
+      "Nature & Environment"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "wabi-sabi",
+    "title": "Wabi-sabi for Artists, Designers, Poets & Philosophers",
+    "tags": [
+      "Creativity & Art"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "wabi-sabi-beth-kempton",
+    "title": "Wabi Sabi",
+    "tags": [
+      "Lifestyle & Minimalism",
+      "Self-Help",
+      "Psychology"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "wabi-sabi-japanese-wisdom-for-a-perfectly-imperfect-life",
+    "title": "Wabi Sabi",
+    "tags": [
+      "Mental Health & Wellbeing",
+      "Self-Help",
+      "Nature & Environment"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "wabi-sabi-leonard-koren",
+    "title": "Wabi-sabi for Artists, Designers, Poets & Philosophers",
+    "tags": [
+      "Creativity & Art"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "wait-what",
+    "title": "Wait, What?",
+    "tags": [
+      "Education & Learning",
+      "Self-Help"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "wake-up-and-live",
+    "title": "Wake Up and Live!",
+    "tags": [
+      "Self-Help",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "waking-up",
+    "title": "Waking Up",
+    "tags": [
+      "Mindfulness & Spirituality"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "walking-in-this-world",
+    "title": "Walking in this World",
+    "tags": [
+      "Creativity & Art"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "well-being",
+    "title": "How to Be a Well Being",
+    "tags": [
+      "Happiness & Resilience"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "what-doesnt-kill-us",
+    "title": "What Doesn't Kill Us",
+    "tags": [
+      "Health & Nutrition",
+      "Science & Technology",
+      "Culture & Society"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "when-breath-becomes-air",
+    "title": "When Breath Becomes Air",
+    "tags": [
+      "Health & Nutrition",
+      "Memoir & Biography"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "when-things-fall-apart",
+    "title": "When Things Fall Apart",
+    "tags": [
+      "Fiction & Literature",
+      "Productivity & Habits",
+      "Communication & Relationships"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "wherever-you-go-there-you-are",
+    "title": "Wherever You Go, There You are",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Psychology"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "why-buddhism-is-true",
+    "title": "Why Buddhism is True",
+    "tags": [
+      "Psychology",
+      "Mindfulness & Spirituality",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "why-dont-students-like-school",
+    "title": "Why Don't Students Like School?",
+    "tags": [
+      "Education & Learning"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "why-marriages-succeed-or-fail",
+    "title": "Why Marriages Succeed Or Fail",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "why-we-sleep",
+    "title": "Why We Sleep",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "wild",
+    "title": "Wild",
+    "tags": [
+      "Memoir & Biography",
+      "Nature & Environment",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "wild-at-heart",
+    "title": "Wild at Heart",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.5,
+    "review": false
+  },
+  {
+    "id": "wild-at-heart-john-eldredge",
+    "title": "Wild at Heart",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Mental Health & Wellbeing",
+      "Self-Help"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "willpower",
+    "title": "Willpower",
+    "tags": [
+      "Health & Nutrition",
+      "Productivity & Habits",
+      "Psychology"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "wim-hof-method",
+    "title": "The Wim Hof Method",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "winning-body-language",
+    "title": "Winning Body Language",
+    "tags": [
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "wired-for-love",
+    "title": "Wired for Love",
+    "tags": [
+      "Communication & Relationships"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "wired-for-story",
+    "title": "Wired for Story",
+    "tags": [
+      "Creativity & Art",
+      "Fiction & Literature",
+      "Education & Learning"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "work-optional",
+    "title": "Work Optional",
+    "tags": [
+      "Finance & Wealth",
+      "Business & Leadership"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "yamas-and-niyamas",
+    "title": "Yoga's Yamas and Niyamas",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 0.38,
+    "review": true
+  },
+  {
+    "id": "year-of-yes",
+    "title": "Year of Yes",
+    "tags": [
+      "Memoir & Biography"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "yoga-and-the-quest-for-the-true-self",
+    "title": "Yoga and the Quest for the True Self",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Memoir & Biography",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "yoga-body",
+    "title": "Yoga Body",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Health & Nutrition",
+      "Culture & Society"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "yoga-for-self-discovery",
+    "title": "Kriya Yoga for Self-Discovery",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "yoga-sutras",
+    "title": "Yoga Sutras",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Health & Nutrition"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "you-are-a-badass-at-making-money-jen-sincero",
+    "title": "You Are a Badass at Making Money: Master the Mindset of Wealth",
+    "tags": [
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "you-are-the-placebo",
+    "title": "You are the Placebo",
+    "tags": [
+      "Health & Nutrition",
+      "Mindfulness & Spirituality",
+      "Psychology"
+    ],
+    "confidence": 0.62,
+    "review": false
+  },
+  {
+    "id": "younger-next-year",
+    "title": "Younger Next Year",
+    "tags": [
+      "Health & Nutrition"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "your-forces-and-how-to-use-them",
+    "title": "Your Forces and How To Use Them",
+    "tags": [
+      "Self-Help",
+      "Psychology"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "your-money-or-your-life",
+    "title": "Your Money or Your Life",
+    "tags": [
+      "Business & Leadership",
+      "Finance & Wealth"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "yurei-the-japanese-ghost",
+    "title": "Yurei",
+    "tags": [
+      "Culture & Society"
+    ],
+    "confidence": 1.0,
+    "review": false
+  },
+  {
+    "id": "zen-mind-beginners-mind",
+    "title": "Zen Mind, Beginner's Mind",
+    "tags": [
+      "Mindfulness & Spirituality",
+      "Education & Learning"
+    ],
+    "confidence": 0.88,
+    "review": false
+  },
+  {
+    "id": "zhuangzi",
+    "title": "Chuang Tzu (Zhuangzi) The Complete Bilingual Edition",
+    "tags": [
+      "Education & Learning",
+      "Creativity & Art",
+      "Productivity & Habits"
+    ],
+    "confidence": 0.75,
+    "review": false
+  },
+  {
+    "id": "zhuangzi-the-essential-writings",
+    "title": "Zhuangzi: The Essential Writings",
+    "tags": [
+      "Philosophy",
+      "Mindfulness & Spirituality",
+      "Culture & Society"
+    ],
+    "confidence": 0.5,
+    "review": false
+  }
+]
