@@ -7,7 +7,7 @@
   ],
   "publisher": "",
   "publishedDate": "1951",
-  "isbn13": "",
+  "isbn13": "9783426871812",
   "isbn10": "",
   "pageCount": 162,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "iqUNAQAAIAAJ",
   "sourceQuery": "the wisdom of insecurity",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

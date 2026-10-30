@@ -8,7 +8,7 @@
   ],
   "publisher": "Bantam",
   "publishedDate": "1999-06-15",
-  "isbn13": "",
+  "isbn13": "9780553378207",
   "isbn10": "",
   "pageCount": 404,
   "googleCategories": [
@@ -19,5 +19,6 @@
   "sourceId": "lysqAQAAMAAJ",
   "sourceQuery": "the wisdom of the enneagram",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

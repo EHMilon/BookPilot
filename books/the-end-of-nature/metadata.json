@@ -7,7 +7,7 @@
   ],
   "publisher": "Random House (NY)",
   "publishedDate": "1989",
-  "isbn13": "",
+  "isbn13": "9780394576015",
   "isbn10": "",
   "pageCount": 280,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "D7VkAAAAMAAJ",
   "sourceQuery": "the end of nature",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

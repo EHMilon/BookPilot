@@ -7,7 +7,7 @@
   ],
   "publisher": "",
   "publishedDate": "1989",
-  "isbn13": "",
+  "isbn13": "9780007493289",
   "isbn10": "",
   "pageCount": 212,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "HisKAQAAMAAJ",
   "sourceQuery": "the tree of yoga",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

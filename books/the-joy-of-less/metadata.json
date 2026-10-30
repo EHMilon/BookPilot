@@ -7,7 +7,7 @@
   ],
   "publisher": "SREEKUMAR V T",
   "publishedDate": "2016",
-  "isbn13": "",
+  "isbn13": "9780984087310",
   "isbn10": "",
   "pageCount": 64,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "Sl1QzwEACAAJ",
   "sourceQuery": "the joy of less Francine Jay",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

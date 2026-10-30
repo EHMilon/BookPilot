@@ -7,7 +7,7 @@
   ],
   "publisher": "Ballantine Books",
   "publishedDate": "2003",
-  "isbn13": "",
+  "isbn13": "9780812992182",
   "isbn10": "",
   "pageCount": 228,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "JQ0RAQAAIAAJ",
   "sourceQuery": "vagabonding",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

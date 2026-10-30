@@ -8,7 +8,7 @@
   ],
   "publisher": "Arthur Peng",
   "publishedDate": "2026-09-21",
-  "isbn13": "",
+  "isbn13": "9781605206431",
   "isbn10": "",
   "pageCount": 41,
   "googleCategories": [
@@ -19,5 +19,6 @@
   "sourceId": "xf8OEgAAQBAJ",
   "sourceQuery": "the great learning",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

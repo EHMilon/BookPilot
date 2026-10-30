@@ -7,7 +7,7 @@
   ],
   "publisher": "TarcherPerigee",
   "publishedDate": "1999-09-13",
-  "isbn13": "",
+  "isbn13": "9780874779394",
   "isbn10": "",
   "pageCount": 352,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "vewRAQAAIAAJ",
   "sourceQuery": "the wisdom of africa",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

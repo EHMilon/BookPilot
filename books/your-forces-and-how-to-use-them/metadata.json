@@ -7,7 +7,7 @@
   ],
   "publisher": "Prabhat Prakashan",
   "publishedDate": "2021-01-01",
-  "isbn13": "",
+  "isbn13": "9780343597566",
   "isbn10": "",
   "pageCount": 191,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "ADGZDwAAQBAJ",
   "sourceQuery": "your forces Christian Larson",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

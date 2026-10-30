@@ -7,7 +7,7 @@
   ],
   "publisher": "",
   "publishedDate": "",
-  "isbn13": "",
+  "isbn13": "9780991433100",
   "isbn10": "",
   "pageCount": 0,
   "googleCategories": [],
@@ -15,5 +15,6 @@
   "source": "hand",
   "sourceScore": 0,
   "review": true,
-  "note": "Hand-written from summary/book_list; publisher/date/ISBN unverified."
+  "note": "Hand-written from summary/book_list; publisher/date/ISBN unverified.",
+  "isbn_source": "openlibrary-bulk"
 }

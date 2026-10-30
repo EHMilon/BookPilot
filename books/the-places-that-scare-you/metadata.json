@@ -7,7 +7,7 @@
   ],
   "publisher": "Shambhala Publications",
   "publishedDate": "2007",
-  "isbn13": "",
+  "isbn13": "9781570629211",
   "isbn10": "",
   "pageCount": 210,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "DRkSAQAAIAAJ",
   "sourceQuery": "the places that scare you",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

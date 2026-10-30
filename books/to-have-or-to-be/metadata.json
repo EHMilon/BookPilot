@@ -7,7 +7,7 @@
   ],
   "publisher": "HarperCollins Publishers",
   "publishedDate": "1976",
-  "isbn13": "",
+  "isbn13": "9781472504562",
   "isbn10": "",
   "pageCount": 250,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "oZB-AAAAMAAJ",
   "sourceQuery": "to have or to be Erich Fromm",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "hand-verified-ol-candidate"
 }

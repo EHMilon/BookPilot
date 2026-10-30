@@ -7,7 +7,7 @@
   ],
   "publisher": "Knopf Publishing Group",
   "publishedDate": "1997",
-  "isbn13": "",
+  "isbn13": "9780007308835",
   "isbn10": "",
   "pageCount": 152,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "UUYQAQAAMAAJ",
   "sourceQuery": "the diving bell and the butterfly",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "hand-verified-ol-candidate"
 }

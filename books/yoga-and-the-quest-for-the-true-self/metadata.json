@@ -7,7 +7,7 @@
   ],
   "publisher": "Bantam",
   "publishedDate": "1999",
-  "isbn13": "",
+  "isbn13": "9780553378351",
   "isbn10": "",
   "pageCount": 392,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "mGxFAAAAYAAJ",
   "sourceQuery": "yoga and the quest for the true self",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

@@ -7,11 +7,12 @@
   ],
   "publisher": "Sadhguru",
   "publishedDate": "2020",
-  "isbn13": "",
+  "isbn13": "9780143450832",
   "isbn10": "",
   "source": "openlibrary",
   "sourceKey": "/works/OL35351380W",
   "sourceQuery": "death an inside story",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "hand-verified-ol-candidate"
 }

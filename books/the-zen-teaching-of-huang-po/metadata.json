@@ -9,7 +9,7 @@
   ],
   "publisher": "",
   "publishedDate": "1959",
-  "isbn13": "",
+  "isbn13": "9780877739692",
   "isbn10": "",
   "pageCount": 154,
   "googleCategories": [
@@ -20,5 +20,6 @@
   "sourceId": "4V1RAAAAYAAJ",
   "sourceQuery": "the zen teaching of huang po",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

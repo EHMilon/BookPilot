@@ -7,7 +7,7 @@
   ],
   "publisher": "",
   "publishedDate": "1896",
-  "isbn13": "",
+  "isbn13": "9780915132409",
   "isbn10": "",
   "pageCount": 152,
   "googleCategories": [],
@@ -16,5 +16,6 @@
   "sourceId": "Fd4oAAAAYAAJ",
   "sourceQuery": "the upanishads",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "hand-verified-ol-candidate"
 }

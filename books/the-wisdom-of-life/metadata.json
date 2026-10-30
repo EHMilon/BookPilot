@@ -7,7 +7,7 @@
   ],
   "publisher": "",
   "publishedDate": "1892",
-  "isbn13": "",
+  "isbn13": "9781432612450",
   "isbn10": "",
   "pageCount": 184,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "6WD6GT6r0BkC",
   "sourceQuery": "the wisdom of life",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

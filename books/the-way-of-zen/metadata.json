@@ -7,7 +7,7 @@
   ],
   "publisher": "Vintage",
   "publishedDate": "1989",
-  "isbn13": "",
+  "isbn13": "9780375705106",
   "isbn10": "",
   "pageCount": 266,
   "googleCategories": [
@@ -18,5 +18,6 @@
   "sourceId": "WB4SAQAAIAAJ",
   "sourceQuery": "the way of zen",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }

@@ -8,7 +8,7 @@
   ],
   "publisher": "anh dung nguyen",
   "publishedDate": "2026-02-22",
-  "isbn13": "",
+  "isbn13": "9787561331057",
   "isbn10": "",
   "pageCount": 35,
   "googleCategories": [
@@ -19,5 +19,6 @@
   "sourceId": "y6rCEQAAQBAJ",
   "sourceQuery": "the spirit of the chinese people",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "hand-verified-ol-candidate"
 }

@@ -7,7 +7,7 @@
   ],
   "publisher": "",
   "publishedDate": "1957",
-  "isbn13": "",
+  "isbn13": "9781497684720",
   "isbn10": "",
   "pageCount": 215,
   "googleCategories": [],
@@ -16,5 +16,6 @@
   "sourceId": "2qx-wgEACAAJ",
   "sourceQuery": "the road to inner freedom",
   "sourceScore": 1.0,
-  "review": false
+  "review": false,
+  "isbn_source": "openlibrary-bulk"
 }
