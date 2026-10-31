@@ -25,11 +25,6 @@ We do not collect any personally identifiable information such as your name, ema
 ### Third-Party Services
 We use the following third-party services that may collect information:
 
-#### Google Gemini API
-- Through our Supabase edge functions, we send chat messages to Google's Gemini API for AI-powered responses
-- Messages are processed temporarily and not stored permanently by us
-- No personal identifiers are sent with chat requests
-
 #### Supabase
 - Used for hosting our edge functions that connect to Gemini API
 - May log minimal technical data for operational purposes
